@@ -1,0 +1,17 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/sgf-logo.png
+
+links:
+  - title: SG Orchid Show
+    url: /sg-orchid-show/
+  - title: Singapore Garden Festival
+    collection: singapore-garden-festival
+  - title: Sgf Fort Show
+    collection: sgf-fort-show
+  - title: Media Center
+    resource_room: true
