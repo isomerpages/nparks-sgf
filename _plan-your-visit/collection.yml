@@ -2,4 +2,5 @@ collections:
   plan-your-visit:
     output: true
     order:
+      - Getting Here.md
       - Show Info.md
