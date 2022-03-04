@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: key highlights
           description: ""
-          url: /key highlights
+          url: /key-highlights/show-gardens
         - title: online programmes
           description: ""
           url: /online-programmes
