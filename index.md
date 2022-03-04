@@ -13,9 +13,9 @@ sections:
         - title: key highlights
           description: ""
           url: /key-highlights
-        - title: online programme
+        - title: online programmes
           description: ""
-          url: /online-programme
+          url: /online-programmes
         - title: Our sponsors
           description: ""
           url: /sponsors
