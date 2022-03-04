@@ -19,6 +19,9 @@ sections:
         - title: Our sponsors
           description: ""
           url: /our-sponsors
+        - title: Plan your visit
+          description: Key Highlight description
+          url: /show-info
       title: Singapore Garden Festival 2022
       subtitle: XX March - XX March 2022
   - infobar:
