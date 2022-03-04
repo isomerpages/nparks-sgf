@@ -2,12 +2,28 @@
 title: FAQ
 permalink: /faq/
 ---
+1. What is Singapore Garden Festival?
+		Singapore Garden Festival (SGF) is a biennial event, positioned to be amongst the top flower and garden shows on the international calendar. SGF is the first show to bring together top international award-winning landscape and garden designers, florists and horticulturists from around the world, who are invited to the Festival to work alongside Singapore's own talented horticulturists. Singapore's geographic location makes the Festival an ideal platform to showcase horticultural and gardening products and services from the northern and southern hemispheres, as well as from Asia and New World nations.
+
+3. What are the attractions?
+		Attractions of the Singapore Garden Festival include:
+		* Landscape and Fantasy Gardens
+		* Floral Windows to the World
+		* Singapore Orchid Show
+		* Garden Fiesta
+		* Vibrant MarketPlace
 
 
-### **FAQ**
+3. How does the Singapore Garden Festival help in nurturing gardening appreciation among Singaporeans?
+		The SGF is one of several NParks initiatives to raise awareness of the joys and rewards of gardening and to engage the public to partner the Government to sustain our Garden City. NParks also concurrently organises educational and outreach initiatives and forges partnerships with interest groups/societies, the community and industries/schools to promote gardening as a lifestyle.
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+4. How much are the tickets?
+		Ticketing information will be updated closer to show date.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+
+
+5. Are dogs allowed to Singapore Garden Festival at Gardens by the Bay?
+
+
+	Gardens by the Bay allows dogs on leash at the Outdoor Gardens, but not at the Conservatories, OCBC Skyway and the Children's Garden (with the exception of guide dogs). Similarly for the Festival, with the exception of guide dogs, pets/animals in general are not permitted due to the displays and set up that we have. We seek your understanding in this.
