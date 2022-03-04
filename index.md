@@ -13,9 +13,9 @@ sections:
       button: More Info
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: online programme
+          description: ""
+          url: /online-programme
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
