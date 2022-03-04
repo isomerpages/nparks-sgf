@@ -4,7 +4,7 @@ title: Singapore Garden Festival
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Check out our website regularly for more updates!
+notification: "More info will be announced soon! "
 sections:
   - hero:
       title: Singapore Garden Festival 2022
