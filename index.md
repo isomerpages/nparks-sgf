@@ -8,7 +8,7 @@ notification: "More info will be announced soon! "
 sections:
   - hero:
       title: Singapore Garden Festival 2022
-      subtitle: XX July - XX July 2022
+      subtitle: XX March - XX April 2022
       background: /images/hero-banner.png
       button: More Info
       url: /contact-us/
