@@ -7,7 +7,7 @@ permalink: /
 notification: "More info will be announced soon! "
 sections:
   - hero:
-      background: /images/NP18_3261 - SGF2018_Digital_FBcover_R4_FA.jpg
+      background: /images/NP18_3261 - SGF2018_Digital_Microsite_Banner_R3_FA.jpg
       url: /contact-us/
       key_highlights:
         - title: key highlights
@@ -19,6 +19,8 @@ sections:
         - title: Our sponsors
           description: ""
           url: /sponsors
+      title: Singapore Garden Festival 2022
+      subtitle: XX March - XX March 2022
   - infobar:
       title: Infobar title
       subtitle: Subtitle
