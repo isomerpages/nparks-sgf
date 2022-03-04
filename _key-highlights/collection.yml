@@ -2,6 +2,7 @@ collections:
   key-highlights:
     output: true
     order:
+      - Landscape Design Challenge.md
       - eMarketPlace.md
       - Orchid Show.md
       - Floral Windows to the World Championship.md
