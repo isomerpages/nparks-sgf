@@ -1,4 +1,5 @@
 collections:
   e-marketplace:
     output: true
-    order: []
+    order:
+      - example-page.md
