@@ -39,4 +39,3 @@ Exit onto Marina Boulevard
 Turn left to Marina Gardens Drive
 
 For more information, please visit http://www.gardensbythebay.com.sg/en/plan-your-visit/getting-here-and-parking.html
-
