@@ -10,6 +10,9 @@ sections:
       background: /images/NP18_3261 - SGF2018_Digital_Microsite_Banner_R3_FA.jpg
       url: /contact-us/
       key_highlights:
+        - title: Plan your visit
+          description: ""
+          url: /show-info
         - title: key highlights
           description: ""
           url: /key-highlights/show-gardens
@@ -19,9 +22,6 @@ sections:
         - title: Our sponsors
           description: ""
           url: /our-sponsors
-        - title: Plan your visit
-          description: Key Highlight description
-          url: /show-info
       title: Singapore Garden Festival 2022
       subtitle: XX March - XX March 2022
   - infobar:
