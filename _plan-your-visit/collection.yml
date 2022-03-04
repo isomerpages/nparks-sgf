@@ -1,4 +1,5 @@
 collections:
   plan-your-visit:
     output: true
-    order: []
+    order:
+      - Show Info.md
