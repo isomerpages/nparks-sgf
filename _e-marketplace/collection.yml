@@ -1,5 +1,4 @@
 collections:
   e-marketplace:
     output: true
-    order:
-      - eMarketPlace.md
+    order: []
