@@ -160,4 +160,3 @@ Learn how to build a trellis for your edible climbers like passion fruits and lo
 
 
 National Parks Board reserves the right to modify, replace or cancel the programme without prior notice at its sole and absolute discretion. National Parks Board shall not be held liable for any loss or damage howsoever incurred arising out of the modification, replacement and / or cancellation of the programme.
-
