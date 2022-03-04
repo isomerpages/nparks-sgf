@@ -2,4 +2,5 @@ collections:
   key-highlights:
     output: true
     order:
+      - Floral Windows to the World Championship.md
       - Show Gardens.md
