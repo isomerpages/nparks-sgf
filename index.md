@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Plan your visit
           description: ""
-          url: /show-info
+          url: plan-your-visit/show-info
         - title: key highlights
           description: ""
           url: /key-highlights/show-gardens
