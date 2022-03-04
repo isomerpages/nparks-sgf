@@ -2,5 +2,6 @@ collections:
   key-highlights:
     output: true
     order:
+      - Orchid Show.md
       - Floral Windows to the World Championship.md
       - Show Gardens.md
