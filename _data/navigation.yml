@@ -1,13 +1,7 @@
 logo: /images/SGF-LogoNew_Trans_Horizontal.jpg
 links:
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
+  - title: e-marketplace
+    url: /e-marketplace
   - title: Media Centre
     url: /permalink
     sublinks:
@@ -15,3 +9,5 @@ links:
         url: /media-enquiries
   - title: FAQs
     url: /faqs
+  - title: Contact Us
+    url: /contact-us/
