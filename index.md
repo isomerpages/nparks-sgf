@@ -18,7 +18,7 @@ sections:
           url: /online-programmes
         - title: Our sponsors
           description: ""
-          url: /sponsors
+          url: /our-sponsors
       title: Singapore Garden Festival 2022
       subtitle: XX March - XX March 2022
   - infobar:
