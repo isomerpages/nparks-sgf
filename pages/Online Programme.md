@@ -125,5 +125,5 @@ Interested in propagating plants by grafting? Learn how to propagate plants usin
 Learn how to build a trellis for your edible climbers like passion fruits and long beans through this step by step video guide.
 
 
-*
-National Parks Board reserves the right to modify, replace or cancel the programme without prior notice at its sole and absolute discretion. National Parks Board shall not be held liable for any loss or damage howsoever incurred arising out of the modification, replacement and / or cancellation of the programme.*
+****~~~~~~~~
+National Parks Board reserves the right to modify, replace or cancel the programme without prior notice at its sole and absolute discretion. National Parks Board shall not be held liable for any loss or damage howsoever incurred arising out of the modification, replacement and / or cancellation of the programme.*~~
