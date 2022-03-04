@@ -7,10 +7,10 @@ permalink: /
 notification: Check out our website regularly for more updates!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Singapore Garden Festival 2022
+      subtitle: XX July - XX July 2022
       background: /images/hero-banner.png
-      button: Contact Us
+      button: More Info
       url: /contact-us/
       key_highlights:
         - title: Highlight A
@@ -32,4 +32,15 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
