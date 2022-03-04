@@ -2,4 +2,4 @@ collections:
   e-marketplace:
     output: true
     order:
-      - example-page.md
+      - eMarketPlace.md
