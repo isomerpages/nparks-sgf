@@ -66,7 +66,7 @@ If you prefer not to start big when growing edibles, consider starting with micr
 Watch the session here.
 
 
-#### Bazaar In the Garden @ Jurong Lake Gardens (October 2021)
+##### Bazaar In the Garden @ Jurong Lake Gardens (October 2021)
 23 October, Saturday
 
 Bazaar in the Garden is back for the month of October!
