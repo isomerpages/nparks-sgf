@@ -1,4 +1,5 @@
 collections:
   key-highlights:
     output: true
-    order: []
+    order:
+      - Show Gardens.md
