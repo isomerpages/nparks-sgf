@@ -7,10 +7,7 @@ permalink: /
 notification: "More info will be announced soon! "
 sections:
   - hero:
-      title: Singapore Garden Festival 2022
-      subtitle: XX March - XX April 2022
-      background: /images/hero-banner.png
-      button: More Info
+      background: /images/NP18_3261 - SGF2018_Digital_FBcover_R4_FA.jpg
       url: /contact-us/
       key_highlights:
         - title: key highlights
