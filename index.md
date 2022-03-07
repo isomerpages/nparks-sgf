@@ -30,15 +30,6 @@ sections:
         array of online activities this year
       button: More info
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
   - infopic:
       title: Our Sponsors
       description: We thank our sponsors
@@ -46,4 +37,8 @@ sections:
       alt: Image alt text
       url: our-sponsors
       image: /images/sponsor2018.png
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---
