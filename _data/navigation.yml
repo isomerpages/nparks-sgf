@@ -10,9 +10,7 @@ links:
       - title: Media Enquiries
         url: /media-enquiries
       - title: Media Releases
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+        url: /Media Releases
   - title: FAQs
     url: /faqs
   - title: Contact Us
