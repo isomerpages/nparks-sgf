@@ -4,9 +4,9 @@ links:
     collection: plan-your-visit
   - title: Key highlights
     collection: key-highlights
+  - title: News
+    resource_room: true
   - title: FAQs
     url: /faqs
   - title: Contact Us
     url: /contact-us/
-  - title: News
-    resource_room: true
