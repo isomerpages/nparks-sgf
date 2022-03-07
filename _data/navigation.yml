@@ -4,13 +4,6 @@ links:
     collection: plan-your-visit
   - title: Key highlights
     collection: key-highlights
-  - title: Media Centre
-    url: /permalink
-    sublinks:
-      - title: Media Enquiries
-        url: /media-enquiries
-      - title: Media Releases
-        url: /Media Releases
   - title: FAQs
     url: /faqs
   - title: Contact Us
