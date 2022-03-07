@@ -2,6 +2,7 @@ collections:
   key-highlights:
     output: true
     order:
+      - Gardeners' Cup.md
       - 11th International FDSS Cup (21 – 25 JULY 2018).md
       - Show Gardens.md
       - Floral Windows to the World Championship.md
