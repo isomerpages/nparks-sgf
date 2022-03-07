@@ -53,6 +53,6 @@ The nine categories and examples possible submissions are listed below.
 				
 
 
-Click [here](/files/CGEC 2022 Poster.pdf) for the rules and regulations for the Community Garden Edibles Competition 2022. <br>
+Click [here](/files/sgf2022/CGEC 2022 Poster.pdf) for the rules and regulations for the Community Garden Edibles Competition 2022. <br>
 Click [here](\files\sgf2022\CGEC 2022 Rules and Regulations.pdf) to download the Community Garden Edibles Competition 2022 promotional poster.<br>
 For more information or enquiries on the Competition, email us at nparks_hortpark@nparks.gov.sg or call 6471 5601.
