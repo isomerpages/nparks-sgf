@@ -15,3 +15,5 @@ links:
     url: /faqs
   - title: Contact Us
     url: /contact-us/
+  - title: News
+    resource_room: true
