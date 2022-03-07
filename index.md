@@ -25,10 +25,10 @@ sections:
       title: Singapore Garden Festival 2022
       subtitle: XX March - XX March 2022
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Singapore Garden Festial 2022
+      description: This year’s SGF will run from 9 to 31 October 2021, with a wide
+        array of online activities this year
+      button: More info
       url: /faq/
   - resources:
       title: Media
@@ -40,9 +40,10 @@ sections:
       description: Infobar description
       button: Button Text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Our Sponsors
+      description: We thank our sponsors
+      button: more info
       alt: Image alt text
+      url: our-sponsors
+      image: /images/sponsor2018.png
 ---
