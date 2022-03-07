@@ -1,5 +1,5 @@
 collections:
-  key-highlights:
+  highlights-at-lake-gardens:
     output: true
     order:
       - Show Gardens.md
