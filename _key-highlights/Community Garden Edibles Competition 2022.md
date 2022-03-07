@@ -52,8 +52,7 @@ The nine categories and examples possible submissions are listed below.
 |		|	Cassava	|
 				
 
-Resources
-Click here for the rules and regulations for the Community Garden Edibles Competition 2022.
-Click here to download the Community Garden Edibles Competition 2022 promotional poster.
-For more information or enquiries on the Competition, email us at nparks_hortpark@nparks.gov.sg or call 6471 5601.
 
+Click here for the rules and regulations for the Community Garden Edibles Competition 2022. <br>
+Click here to download the Community Garden Edibles Competition 2022 promotional poster.<br>
+For more information or enquiries on the Competition, email us at nparks_hortpark@nparks.gov.sg or call 6471 5601.
