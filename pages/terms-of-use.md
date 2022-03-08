@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-Terms of Use
+#### Terms of Use
 In these Terms of Use, the user of the Website is defined as "You" or "Your" and the provider of the Website is defined as "We", "Us" or "Our".
 
 These Terms of Use apply to Your use of the website at www.nparks.gov.sg and its related sites ("Website"). The Website is owned and operated by the National Parks Board. Access to and use of the Website is subjected to the following Terms of Use. Your access to and use of the Website constitute Your acceptance of these Terms of Use which shall take effect from the first date You access the Website. If You do not agree to these Terms of Use, You are not authorised to access the Website and should cease using the Website immediately.
@@ -30,11 +30,11 @@ You are required to comply with all applicable law in connection with Your acces
 
 ##### General Prohibited Uses 
 Without limiting the foregoing, You agree not to transmit, distribute, post, communicate or store information or other material on, to or through the Website that: 
-• Is copyrighted, unless You are the copyright owner;
-• Infringes any intellectual property rights of others or on the privacy or publicity rights of others;
-• Is defamatory, threatening, obscene, harassing, harmful or embarrassing to any other person or entity as determined by the National Parks Board in Our sole discretion;
-• Is sexually-explicit; or
-• Contains viruses, Trojan horses, worms, time bombs, or other computer programming routines or engines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or information.
+* Is copyrighted, unless You are the copyright owner;
+* Infringes any intellectual property rights of others or on the privacy or publicity rights of others;
+* Is defamatory, threatening, obscene, harassing, harmful or embarrassing to any other person or entity as determined by the National Parks Board in Our sole discretion;
+* Is sexually-explicit; or
+* Contains viruses, Trojan horses, worms, time bombs, or other computer programming routines or engines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or information.
 
 You further agree not to: 
 * Use or attempt to use any engine, software, tool, agent or other device or mechanism (including without limitation browsers, robots, spiders, other automatic devices) to navigate, search, monitor or copy any pages within the Website or the Contents without the National Parks Board’s prior written consent;
