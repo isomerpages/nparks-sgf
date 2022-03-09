@@ -39,4 +39,4 @@ To round off 2019, SGF Orchid Show will hold its second edition from 7 to 15 Dec
 
 During the biennial event, floral enthusiasts can admire orchid landscape displays and award-winning orchid plants showcased at the National Orchid Garden and other parts of the Singapore Botanic Gardens.
 
-Admission to both the SGF Horticulture and Orchid Shows will be free. More details are available at www.singaporegardenfestival.com and www.facebook.com/SGGardenFest.
+Admission to both the SGF Horticulture and Orchid Shows will be free. More details are available at [www.singaporegardenfestival.com]() and [www.facebook.com/SGGardenFest](www.facebook.com/SGGardenFest).
