@@ -47,5 +47,5 @@ sections:
       description: Follow us on social media to see what we're up to and join in our
         activities!
       button: "@sggardenfest"
-      url: www.facebook.com/sggardenfes
+      url: www.facebook.com/sggardenfest
 ---
