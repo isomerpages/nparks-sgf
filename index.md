@@ -42,4 +42,10 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infobar:
+      title: Connect with us
+      description: Follow us on social media to see what we're up to and join in our
+        activities!
+      button: "@sggardenfest"
+      url: www.facebook.com/sggardenfes
 ---
