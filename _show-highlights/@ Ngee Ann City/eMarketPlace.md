@@ -19,4 +19,4 @@ List of Retailers
 | East Ocean Aquatic Trading Centre | https://shopee.sg/eastoceanaquatictrading |
 
 Official e-Commerce Partner
-<image size = "10">![](/images/BA23841F-F120-4C72-B69E-247C29081F4B.png)</image>
+<image width = "10">![](/images/BA23841F-F120-4C72-B69E-247C29081F4B.png)</image>
