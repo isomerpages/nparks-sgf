@@ -20,4 +20,3 @@ List of Retailers
 
 Official e-Commerce Partner
 <img width = "10">![](/images/BA23841F-F120-4C72-B69E-247C29081F4B.png)</img>
-
