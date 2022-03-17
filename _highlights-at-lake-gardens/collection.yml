@@ -2,6 +2,7 @@ collections:
   highlights-at-lake-gardens:
     output: true
     order:
+      - Singapore Botanic Gardens/Gardeners' Cup.md
       - Singapore Botanic Gardens/Landscape Design Challenge.md
       - Singapore Botanic Gardens/.keep
       - Show Gardens.md
