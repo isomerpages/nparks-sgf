@@ -1,5 +1,5 @@
 collections:
-  highlights-at-lake-gardens:
+  show-highlights:
     output: true
     order:
       - Singapore Botanic Gardens/Gardeners' Cup.md
