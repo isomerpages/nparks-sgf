@@ -2,6 +2,7 @@ collections:
   show-highlights:
     output: true
     order:
+      - "@ Ngee Ann City/.keep"
       - "@ Singapore Botanic Gardens/Gardeners' Cup.md"
       - "@ Singapore Botanic Gardens/Landscape Design Challenge.md"
       - "@ Singapore Botanic Gardens/.keep"
