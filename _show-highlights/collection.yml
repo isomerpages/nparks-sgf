@@ -2,6 +2,7 @@ collections:
   show-highlights:
     output: true
     order:
+      - "@ Ngee Ann City/11th International FDSS Cup (21 – 25 JULY 2018).md"
       - "@ Ngee Ann City/Show Gardens.md"
       - "@ Ngee Ann City/.keep"
       - "@ Singapore Botanic Gardens/Gardeners' Cup.md"
