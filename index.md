@@ -24,7 +24,8 @@ sections:
           description: ""
           url: /our-sponsors
       title: Singapore Garden Festival 2022
-      subtitle: XX March - XX March 2022
+      subtitle: 30 Jul - 7 Aug (Orchard Road); <br> 30 Jul - 9 Aug (Singapore Botanic
+        Garden)
   - infobar:
       title: Singapore Garden Festial 2022
       description: This year’s SGF will run from 9 to 31 October 2021, with a wide
