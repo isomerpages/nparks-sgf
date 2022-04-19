@@ -2,5 +2,6 @@ collections:
   example-collection:
     output: true
     order:
+      - Online Programmes.md
       - example-page/.keep
       - example-page/example-subpage.md
