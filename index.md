@@ -24,19 +24,19 @@ sections:
           description: ""
           url: /our-sponsors
       title: Singapore Garden Festival 2022
-      subtitle: 30 Jul - 7 Aug (Orchard Road); <br> 30 Jul - 9 Aug (Singapore Botanic
-        Garden)
+      subtitle: 30 Jul - 7 Aug 2022 (Orchard Road); <br> 30 Jul - 9 Aug 2022
+        (Singapore Botanic Garden)
   - infobar:
       title: Singapore Garden Festial 2022
-      description: This year’s SGF will run from 9 to 31 October 2021, with a wide
-        array of online activities this year
+      description: "This year’s SGF will run from 30 Jul - 7 Aug at Orchard Road and
+        30 Jul - 9 Aug at Singapore Botanic Gardens with a wide array of
+        displays "
       button: More info
       url: /faq/
   - infopic:
-      title: Our Sponsors
-      description: We thank our sponsors
-      button: more info
-      alt: Image alt text
+      title: Be a Sponsor
+      description: "Keen to be part of Singapore Garden Festival? "
+      button: Find out more
       url: our-sponsors
       image: /images/sponsor2018.png
   - resources:
