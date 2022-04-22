@@ -2,6 +2,7 @@ collections:
   example-collection:
     output: true
     order:
+      - eMarketPlace.md
       - Online Programmes.md
       - example-page/.keep
       - example-page/example-subpage.md
