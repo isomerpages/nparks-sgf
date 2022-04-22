@@ -4,7 +4,6 @@ permalink: /key-highlights/CGEC2022
 description: ""
 third_nav_title: "@ Ngee Ann City"
 ---
-
 ![Community Garden Edibles Competition 2022](/images/CGEC.jpg)
 Established in 2015, the Community Gardens Edibles Competition (CGEC) recognises the abilities of local gardeners and showcase their excellent harvests. By providing a platform for the local gardening community come together, compete and exchange knowledge, CGEC hopes to advance the level of horticultural skills within the community.
 
