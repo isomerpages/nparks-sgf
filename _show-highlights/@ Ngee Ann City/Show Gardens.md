@@ -4,7 +4,6 @@ permalink: /key-highlights/show-gardens
 description: ""
 third_nav_title: "@ Ngee Ann City"
 ---
-
 Be enthralled by the beauty and magic of the ultimate landscape and fantasy gardens created by renowned local and international gardening luminaries.
 
 There are a total of 10 gardens for this year. Check out the designs below.
