@@ -9,10 +9,10 @@ This year’s SGF is finally back with its eighth edition to be even more intere
 
 Join us at the following locations!
 
-Orchard Road
+**Orchard Road**
 30 July to 7 August 2022
 10am - 9.30pm
 
-Singapore Botanic Gardens
+**Singapore Botanic Gardens**
 30 July to 9 August 2022
 8.30am - 7pm
