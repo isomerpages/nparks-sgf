@@ -8,7 +8,7 @@ notification: Our main website is under construction and we will be back with
   details on the next edition of the festival. Stay tuned!
 sections:
   - hero:
-      background: /images/NP18_3261 - SGF2018_Digital_Microsite_Banner_R3_FA.jpg
+      background: /images/herobanner.jpg
       url: /contact-us/
       key_highlights:
         - title: Plan your visit
