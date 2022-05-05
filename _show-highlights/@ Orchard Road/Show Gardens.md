@@ -12,11 +12,10 @@ Be enthralled by the beauty and magic of the ultimate show gardens created by re
 
 
 
-| Representing Country | Designers | Implementing Partners |
+| Designers | Representing Country | Implementing Partners |
 | -------- | -------- | -------- |
-| Australia    | Christian Jenkins ![Christian Jenkins](/images/christian.jpg) | Tropic Planners & Landscape Pte Ltd |
-| France | Pierre Alexandre Risser | Prince’s Landscape Pte Ltd |
-| Singapore | Eliam Eng and Andy Eng | Nyee Phoe Flower Garden Pte Ltd |
-| Singapore | Henry Steed | It Meng Landscape & Construction Pte Ltd |
-| United Kingdom| Tony Woods | Limelite Productions Pte Ltd |
-
+| Christian Jenkins ![Christian Jenkins](/images/christian.jpg)| Australia | Tropic Planners & Landscape Pte Ltd |
+| Pierre Alexandre Risser | France | Prince’s Landscape Pte Ltd |
+| Eliam Eng and Andy Eng | Singapore | Nyee Phoe Flower Garden Pte Ltd |
+| Henry Steed | Singapore | It Meng Landscape & Construction Pte Ltd |
+| Tony Woods | United Kingdom | Limelite Productions Pte Ltd |
