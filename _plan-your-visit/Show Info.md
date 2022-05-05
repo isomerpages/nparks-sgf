@@ -9,10 +9,13 @@ This year’s SGF is finally back with its eighth edition to be even more intere
 
 Join us at the following locations!
 
-**Orchard Road**
-30 July to 7 August 2022
-10am - 10pm
 
-**Singapore Botanic Gardens**
-30 July to 9 August 2022
-8.30am - 7pm
+(1)	Orchard Road (available from 30 July to 7 August, 10am - 10pm)
+-	Edibles Competition, Floral competitions and Floral Installation Displays at ION Orchard 
+-	Landscape and Fantasy Show Garden Competition at Civic Plaza, Ngee Ann City
+
+(2)	Singapore Botanic Gardens (available from 30 July to 9 August, 830am - 7pm)
+-	Orchid Competition at the National Orchid Garden
+-	Institute of Higher Learning (IHL) Landscape Design Challenge at Eco Garden, Bukit Timah Core
+-	Singapore Gardeners’ Cup at Eco Garden, Bukit Timah Core
+-	Marketplace at Tyersall Coach Park
