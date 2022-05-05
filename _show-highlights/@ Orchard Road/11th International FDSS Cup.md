@@ -4,7 +4,7 @@ permalink: /key-highlights/FDSS-cup
 description: ""
 third_nav_title: "@ Orchard Road"
 ---
-📆 30 July - 7 August 2022 <br>
+📆 30 July - 2 August 2022 <br>
 ⏰ 10am - 10pm<br>
 📍 ION Orchard Basement 4 <br>
 
