@@ -17,5 +17,5 @@ Be enthralled by the beauty and magic of the ultimate show gardens created by re
 | Christian Jenkins ![Christian Jenkins](/images/christian.jpg)| Australia | Tropic Planners & Landscape Pte Ltd |
 | Pierre Alexandre Risser | France | Prince’s Landscape Pte Ltd |
 | Eliam Eng and Andy Eng | Singapore | Nyee Phoe Flower Garden Pte Ltd |
-| Henry Steed | Singapore | It Meng Landscape & Construction Pte Ltd |
+| Henry Steed ![Henry Steed](/images/henrysteed.jpg)| Singapore | It Meng Landscape & Construction Pte Ltd |
 | Tony Woods | United Kingdom | Limelite Productions Pte Ltd |
