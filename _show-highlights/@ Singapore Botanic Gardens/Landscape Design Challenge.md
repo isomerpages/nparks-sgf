@@ -4,7 +4,9 @@ permalink: /key-highlights/LDC
 description: ""
 third_nav_title: "@ Singapore Botanic Gardens"
 ---
-
+📆 30 July - 9 August 2022 <br>
+⏰ 8.30am - 7pm <br>
+📍 Eco Garden, Singapore Botanic Gardens <br>
 
 The Landscape Design Challenge (LDC) is a landscaping and design-based competition for students from local Institutes of Higher Learning. Held as part of the Singapore Garden Festival, the competition provides a platform for students to enhance their learning experience. Participants for this year’s competition include students from ITE College East, Nanyang Academy of Fine Arts, Nanyang Polytechnic, Ngee Ann Polytechnic, Singapore Polytechnic and Temasek Polytechnic. Teams have to work on the theme of ‘Kaleidoscope of Colours’, drawing on their landscape design knowledge and creativity to transform a nine-square-metre plot into an outdoor landscape display within four hours.
 
