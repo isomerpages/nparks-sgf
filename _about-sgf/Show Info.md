@@ -15,7 +15,7 @@ Join us at the following locations!
 -	Landscape and Fantasy Show Garden Competition at Civic Plaza, Ngee Ann City
 
 **Singapore Botanic Gardens (available from 30 July to 9 August, 8.30am - 7pm)**
--	Orchid Competition at the National Orchid Garden
--	Institute of Higher Learning (IHL) Landscape Design Challenge at Eco Garden, Bukit Timah Core
+-	Orchid Competition at National Orchid Garden
+-	Landscape Design Challenge at Eco Garden, Bukit Timah Core
 -	Singapore Gardeners’ Cup at Eco Garden, Bukit Timah Core
--	Marketplace at Tyersall Coach Park
+-	MarketPlace at Tyersall Coach Park
