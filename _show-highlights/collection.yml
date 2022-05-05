@@ -2,6 +2,7 @@ collections:
   show-highlights:
     output: true
     order:
+      - "@ Orchard Road/Battle of the Florists.md"
       - "@ Orchard Road/Show Gardens.md"
       - "@ Orchard Road/Community Garden Edibles Competition 2022.md"
       - "@ Orchard Road/12th International FDSS Cup.md"
