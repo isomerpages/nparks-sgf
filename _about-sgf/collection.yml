@@ -1,5 +1,5 @@
 collections:
-  plan-your-visit:
+  about-sgf:
     output: true
     order:
       - Show Info.md
