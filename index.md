@@ -20,12 +20,6 @@ sections:
         displays "
       button: More info
       url: /faq/
-  - infopic:
-      title: Be a Sponsor
-      description: "Keen to be part of Singapore Garden Festival? "
-      button: Find out more
-      url: our-sponsors
-      image: /images/sponsor2018.png
   - resources:
       title: Media
       subtitle: Learn more
