@@ -10,19 +10,6 @@ sections:
   - hero:
       background: /images/no building_NP19_4244 SGF 2022 KV 01.jpg
       url: /contact-us/
-      key_highlights:
-        - title: Plan your visit
-          description: ""
-          url: plan-your-visit/show-info
-        - title: key highlights
-          description: ""
-          url: /key-highlights/show-gardens
-        - title: online programmes
-          description: ""
-          url: /online-programmes
-        - title: Our sponsors
-          description: ""
-          url: /our-sponsors
       title: Singapore Garden Festival 2022
       subtitle: 30 Jul - 7 Aug 2022 (Orchard Road) <br> 30 Jul - 9 Aug 2022 (Singapore
         Botanic Garden)
