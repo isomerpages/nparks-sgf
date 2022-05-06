@@ -4,8 +4,7 @@ title: Singapore Garden Festival
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Our main website is under construction and we will be back with
-  details on the next edition of the festival. Stay tuned!
+notification: ""
 sections:
   - hero:
       background: /images/no building_NP19_4244 SGF 2022 KV 01.jpg
