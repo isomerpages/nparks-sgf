@@ -12,4 +12,7 @@ The Landscape Design Challenge (LDC) is a landscaping and design-based competiti
 
 Participants of 2018’s competition included students from ITE College East, Nanyang Academy of Fine Arts, Nanyang Polytechnic, Ngee Ann Polytechnic, Singapore Polytechnic and Temasek Polytechnic. Each team put their best foot forward to transform a nine-square-metre plot into an outdoor landscape display in just four hours. The judges lauded all the participants for their perseverance, creativity, and landscaping knowledge. 
 
-In the next edition, the LDC will be held at the Singapore Botanic Gardens (Eco Garden) on 30 July 2022. Visitors can look forward to more interesting garden displays by our young and budding landscapers. Check out the Show to find out how the space will be transformed this year!  
+In the next edition, the LDC will be held at the Singapore Botanic Gardens (Eco Garden) on 30 July 2022. Visitors can look forward to more interesting garden displays by our young and budding landscapers. Check out the Show to find out how the space will be transformed this year!
+
+##### Winning Teams of LDC 2018
+![](/images/LDC.jpg)
