@@ -14,8 +14,8 @@ sections:
         (Singapore Botanic Garden) </b>
   - infobar:
       title: Singapore Garden Festial 2022
-      description: "This year’s SGF will run from 30 Jul - 7 Aug at Orchard Road and
-        30 Jul - 9 Aug at Singapore Botanic Gardens with a wide array of
+      description: "<b>This year’s SGF will run from 30 Jul - 7 Aug at Orchard Road
+        and 30 Jul - 9 Aug at Singapore Botanic Gardens with a wide array of
         displays "
       button: More info
       url: /faq/
