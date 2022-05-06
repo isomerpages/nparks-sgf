@@ -4,7 +4,6 @@ permalink: /key-highlights/CGEC2022
 description: ""
 third_nav_title: "@ Orchard Road"
 ---
-
 📆 30 July - 7 August 2022 <br>
 ⏰ 10am - 10pm<br>
 📍ION Orchard<br>
@@ -15,7 +14,7 @@ Established in 2015, the Community Gardens Edibles Competition (CGEC) recognises
 CGEC 2022 is back with a fresh twist! In place of the previous Longest and Heaviest categories, this year’s competition now comprises nine new ‘Best Edibles’ categories and an Open Category. Read on to find out more.
 
 Nine 'Best Edibles' Categories
-Under the new ‘Best Edibles’ categories, you may now submit any variety or cultivar of an edible species. Flaunt your horticultural skills and celebrate the diversity of edibles that can be grown locally!
+Under the new ‘Best Edibles’ categories, you may now submit any variety or cultivar of an edible species. Showcase your horticultural skills and celebrate the diversity of edibles that can be grown locally!
 
 The nine categories and examples possible submissions are listed below.
 
