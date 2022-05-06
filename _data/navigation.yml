@@ -6,7 +6,5 @@ links:
     collection: show-highlights
   - title: Resources
     resource_room: true
-  - title: FAQs
-    url: /faqs
   - title: Contact Us
     url: /contact-us/
