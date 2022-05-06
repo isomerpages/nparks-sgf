@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/no building_website12.jpg
+      background: /images/no building_website13.jpg
       url: /contact-us/
       title: Singapore Garden Festival 2022
       subtitle: 30 Jul - 7 Aug 2022 (Orchard Road) <br> 30 Jul - 9 Aug 2022 (Singapore
