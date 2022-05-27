@@ -12,7 +12,7 @@ Join us at the following locations!
 
 **Orchard Road (available from 30 July to 7 August, 10am - 10pm)**
 -	Edibles Competition, Floral competitions and Floral Installation Displays at ION Orchard 
--	Landscape and Fantasy Show Garden Competition at Civic Plaza, Ngee Ann City
+-	Show Garden Competition at Civic Plaza, Ngee Ann City
 
 **Singapore Botanic Gardens (available from 30 July to 9 August, 8.30am - 7pm)**
 -	Orchid Competition at National Orchid Garden
