@@ -2,6 +2,7 @@ collections:
   show-highlights:
     output: true
     order:
+      - "@ Orchard Road/Floral Installation.md"
       - "@ Orchard Road/.keep"
       - "@ Orchard Road/Show Gardens.md"
       - "@ Orchard Road/Community Garden Edibles Competition.md"
