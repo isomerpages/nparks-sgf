@@ -1,0 +1,5 @@
+collections:
+  about-sgf:
+    output: true
+    order:
+      - Show Info.md

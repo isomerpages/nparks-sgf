@@ -1,17 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SGF-LogoNew_Trans_Horizontal.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
+  - title: About Sgf
+    collection: about-sgf
+  - title: Show Highlights
+    collection: show-highlights
   - title: Resources
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/

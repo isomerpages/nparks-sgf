@@ -1,0 +1,5 @@
+collections:
+  media-center:
+    output: true
+    order:
+      - Media Enquiries.md

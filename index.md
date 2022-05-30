@@ -1,36 +1,32 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Singapore Garden Festival
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      background: /images/herobanner.jpg
+      url: /contact-us/
+      title: Singapore Garden Festival 2022
+      subtitle: <B> 30 Jul - 7 Aug 2022 (Orchard Road) <br> 30 Jul - 9 Aug 2022
+        (Singapore Botanic Gardens) </b>
+  - infobar:
+      title: Singapore Garden Festial 2022
+      description: "This year’s SGF will run from 30 Jul - 7 Aug at Orchard Road and
+        30 Jul - 9 Aug at Singapore Botanic Gardens with a wide array of
+        displays "
+      button: More info
+      url: /plan-your-visit/show-info
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
+  - infobar:
+      title: Connect with us
+      description: Follow us on social media to see what we're up to and join in our
+        activities!
+      button: "@sggardenfest"
+      url: https://www.facebook.com/sggardenfest
 ---
-
