@@ -2,10 +2,10 @@ collections:
   show-highlights:
     output: true
     order:
-      - "@ Orchard Road/Floral Installation.md"
       - "@ Orchard Road/.keep"
       - "@ Orchard Road/Show Gardens.md"
       - "@ Orchard Road/Community Garden Edibles Competition.md"
+      - "@ Orchard Road/Floral Installation.md"
       - "@ Orchard Road/12th International FDSS Cup.md"
       - "@ Orchard Road/Floral Fiesta: A Floral Creation Challenge.md"
       - "@ Singapore Botanic Gardens/.keep"
