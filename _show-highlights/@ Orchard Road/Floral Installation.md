@@ -8,7 +8,7 @@ third_nav_title: "@ Orchard Road"
 ⏰ 10am - 10pm <br>
 📍ION Orchard
 
-Be enchanted by two exquisite floral showcase featuring  by award winning designers Harijanto Setiawan and John Lim.
+Be enchanted by two exquisite floral showcase featuring award winning designers Harijanto Setiawan and John Lim.
 
 ##### About Harijanto Setiawan <br>
 A professional floral designer with a background in architecture, Harijanto discovered his passion for floral design when he randomly signed up for a floral art competition. He incorporates architectural concepts into his floral designs, making them both distinctive and uniquely distinguishable. In 2003, Harijanto charted a new career path by setting up his very own floral art company, Boenga Flowers. Some of his notable clients include Chanel, Dior, Hermes, Takashimaya, Audi and many more.
