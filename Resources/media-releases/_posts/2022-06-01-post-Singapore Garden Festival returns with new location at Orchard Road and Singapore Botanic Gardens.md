@@ -44,6 +44,6 @@ The key Festival highlights are:
 
 To enhance the digital experience of the Festival, Shopee is returning as the official e-commerce and e-marketplace partner for SGF 2022. The e-commerce player was the official partner for SGF Hort Show 2021 when safe distancing measures were in place, to enable hobbyists to purchase gardening related items virtually instead. Apart from bringing back the e-marketplace with exclusive promotions and a wider range of products, the platform will also conduct livestreaming sessions and feature gamification elements to engage with the public.
 
-Find the latest updates including details on how to sign up for the competitions on Singapore Garden Festival at https://sgf.nparks.gov.sg and Facebook.com/SGGardenFest.
+Find the latest updates including details on how to sign up for the competitions on Singapore Garden Festival at [https://sgf.nparks.gov.sg](https://sgf.nparks.gov.sg) and [Facebook.com/SGGardenFest](Facebook.com/SGGardenFest).
 
-- END -
+  -End-
