@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Singapore Garden Festival
-description: Brief site description here
+description: This year’s SGF will run from 30 Jul - 7 Aug at Orchard Road and 30
+  Jul - 9 Aug at Singapore Botanic Gardens with a wide array of displays
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -30,3 +31,4 @@ sections:
       button: "@sggardenfest"
       url: https://www.facebook.com/sggardenfest
 ---
+
