@@ -16,7 +16,7 @@ contacts:
     title: Media Matters
   - content:
       - phone: ""
-      - email: su_shihui@nparks.gov.sg
+      - email: SU_SHIHUI@nparks.gov.sg
       - other: ""
     title: Sponsorship Opportunities
 ---
