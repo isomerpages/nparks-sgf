@@ -11,7 +11,7 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: NPARKS_Public_Affairs@nparks.gov.sg
+      - email: TAN_Ning_Xin@nparks.gov.sg
       - other: ""
     title: Media Matters
   - content:
