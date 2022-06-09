@@ -18,4 +18,4 @@ Join us at the following locations!
 -	Orchid Competition at National Orchid Garden
 -	Landscape Design Challenge at Eco Garden, Bukit Timah Core
 -	Singapore Gardeners’ Cup at Eco Garden, Bukit Timah Core
--	MarketPlace at Tyersall Coach Park
+-	MarketPlace at Tyersall Coach Park, Central Core
