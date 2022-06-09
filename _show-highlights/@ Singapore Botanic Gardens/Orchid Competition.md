@@ -16,4 +16,4 @@ Check out the Orchid Competition that was held during the SGF Hort Show last yea
 *Terms and conditions for free admission to National Orchid Garden: <br>
 
 * Singapore Residents enjoy free admission to the National Orchid Garden from 30 Jul to 9 Aug 2022. Singapore Citizens, Permanent Residents and individuals living in Singapore, including holders of employment pass, work permit, dependent pass or student pass, are required to present a valid proof of identification for verification for entry to the National Orchid Garden. This promotion is not applicable to international visitors, tour groups and visitors who have purchased tickets in advance which coincide with the Event dates, and shall not be used in conjunction with any other promotion. <br>
-* International visitors may purchase tickets to the National Orchid Garden at its entrance.*
+* International visitors may purchase tickets to the National Orchid Garden at its entrance.
