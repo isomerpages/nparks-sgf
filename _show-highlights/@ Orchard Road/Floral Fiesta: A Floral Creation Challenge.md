@@ -10,6 +10,6 @@ third_nav_title: "@ Orchard Road"
 
 The Floral Fiesta: A Floral Creation Challenge is a competition that is open to all local floral enthusiasts, hobbyists, aspiring florists and students of any age. In this competition, participants will complete floral pieces within a stipulated timeframe with the materials provided. The competition will be held over 2 days with 3 elimination rounds. 
 
-Download the competition kit here for more information.
+Download the competition kit [](/files/SGF2022%20Floral%20Fiesta%20Competition%20Kit.pdf) for more information.
 
 ![BTF](/images/BTF.jpg)
