@@ -30,4 +30,8 @@ sections:
         activities!
       button: "@sggardenfest"
       url: https://www.facebook.com/sggardenfest
+  - infopic:
+      title: We thank our sponsors
+      image: /images/sponsor.jpg
+      alt: Image alt text
 ---
