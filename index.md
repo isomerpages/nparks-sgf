@@ -20,6 +20,10 @@ sections:
         displays "
       button: More info
       url: /plan-your-visit/show-info
+  - infopic:
+      title: We thank our sponsors
+      image: /images/sponsor.jpg
+      alt: Image alt text
   - resources:
       title: Media
       subtitle: Learn more
@@ -30,8 +34,4 @@ sections:
         activities!
       button: "@sggardenfest"
       url: https://www.facebook.com/sggardenfest
-  - infopic:
-      title: We thank our sponsors
-      image: /images/sponsor.jpg
-      alt: Image alt text
 ---
