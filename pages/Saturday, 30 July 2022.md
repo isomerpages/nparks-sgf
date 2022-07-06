@@ -3,8 +3,6 @@ title: Saturday, 30 July 2022
 permalink: /permalink/CP30July
 description: ""
 ---
-
-
 **Registration for each activity scheduled on 30 July (Sat) will close on 24 July (Sun) at 11.59pm, or when session is full, whichever is earlier.**
 
 **Leaf Printing (A Hands-on Activity)**
