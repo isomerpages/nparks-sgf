@@ -13,9 +13,7 @@ Embrace your inner naturalist and learn more about the wonderful wildlife and th
 ###### All activities are suitable for children 5 – 12 years old, unless specified otherwise. Sessions are free-of-charge and will require registration in advance. 
 
 
-
-
-| Dates |
+||
 | -------- | 
 | [Saturday, 30 July 2022](https://sgf.nparks.gov.sg/CP30July/) | 
 | Sunday, 31 July 2022 | 
