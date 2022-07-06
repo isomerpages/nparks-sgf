@@ -4,7 +4,6 @@ permalink: /show-highlights/Singapore-Botanic-Gardens/ChildrensActivities
 description: ""
 third_nav_title: "@ Singapore Botanic Gardens"
 ---
-
 📆 30 July - 9 August 2022 <br>
 ⏰ 8.30am - 7pm (Last entry at 630pm)  <br>
 📍 Jacob Ballas Children’s Garden, Singapore Botanic Gardens
@@ -18,7 +17,7 @@ Embrace your inner naturalist and learn more about the wonderful wildlife and th
 
 | Dates |
 | -------- | 
-| Saturday, 30 July 2022 | 
+| [Saturday, 30 July 2022](https://sgf.nparks.gov.sg/CP30July/) | 
 | Sunday, 31 July 2022 | 
 | Saturday, 6 August 2022 | 
 | Sunday, 7 August 2022 | 
