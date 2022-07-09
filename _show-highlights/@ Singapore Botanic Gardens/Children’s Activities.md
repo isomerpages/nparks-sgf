@@ -16,10 +16,10 @@ Embrace your inner naturalist and learn more about the wonderful wildlife and th
 ||
 | -------- | 
 | [Saturday, 30 July 2022](https://sgf.nparks.gov.sg/CP30July/) | 
-| Sunday, 31 July 2022 | 
-| Saturday, 6 August 2022 | 
-| Sunday, 7 August 2022 | 
-| Tuesday, 9 August 2022 | 
+| [Sunday, 31 July 2022](https://sgf.nparks.gov.sg/CP31July/) | 
+| [Saturday, 6 August 2022](https://sgf.nparks.gov.sg/CP6Aug/) | 
+| [Sunday, 7 August 2022](https://sgf.nparks.gov.sg/CP7Aug/) | 
+| [Tuesday, 9 August 2022](https://sgf.nparks.gov.sg/CP9Aug/) | 
 
 
 **Registration**<br>
