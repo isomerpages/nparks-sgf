@@ -20,7 +20,7 @@ Time:     
 4th session           : 4.00pm – 4:30pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/leaf-printing_30-jul-4pm-session-4))
 
 #### **Plants and their Pollinators (A Guided Tour)**
-
+![](/images/Children's%20Acitivities%202/30Jul_9Aug_plantsandtheirpollinators.png)
 Plants and their pollinators form a special relationship in which they benefit from each other. Pollination is one of the most fascinating processes in the natural world. Let’s discover the amazing world of pollination and the role that pollinators play in the journey from flower to fruit. Spot different plants and pollinators that make their home in the Gardens!
 
 Time:     
