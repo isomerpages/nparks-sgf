@@ -23,7 +23,7 @@ Embrace your inner naturalist and learn more about the wonderful wildlife and th
 
 
 **Registration**<br>
-Registration is on a first-come-first-served basis upon receipt of registration. Once the registration is full, you will be placed on our waiting list.
+Registration is on a first-come-first-served basis upon receipt of registration. 
 
 **Confirmation**<br>
 An email confirming the status of registration will be sent to you 3 – 5 days prior to the event. 
