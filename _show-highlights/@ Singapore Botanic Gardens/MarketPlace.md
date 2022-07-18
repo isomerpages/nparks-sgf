@@ -10,7 +10,7 @@ third_nav_title: "@ Singapore Botanic Gardens"
 
 Shop to your heart’s content at our one-stop MarketPlace offering a wide variety of gardening-related lifestyle products.
 
-###### Getting here
+#### Getting here
 *By Taxi / Private Hire*<br>
 Turn in from Holland Road to Tyersall Ave into Tyersall Coach Park.
 Drop off at Singapore Botanic Gardens, Learning Forest.
