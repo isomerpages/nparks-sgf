@@ -23,6 +23,9 @@ Shuttle Bus pick up will be at Botanic Gardens Station Exit B along Bukit Timah 
 Green Pavilion (Tanglin Gate) > Visitor Centre (Nassim Gate) > Jacob Ballas Children's Garden > Botanic Gardens MRT (Exit B) > Learning Forest Drop Off (Tyersall Gate)
 
 From 30 July to 9 Aug 2022, shuttle bus service will be available from Monday to Sunday, 8am to 8pm. Alight at Learning Forest Drop Off (Tyersall Gate).  <br>
+
+#### Exhibitors List
+
 Interested to participate as a vendor in our MarketPlace? You may register your interest [here](https://go.gov.sg/marketplaceregisterinterest).
 
 ![Marketplace](/images/MarketPlace.jpg)
