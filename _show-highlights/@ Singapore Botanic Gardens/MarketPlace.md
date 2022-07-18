@@ -26,6 +26,12 @@ From 30 July to 9 Aug 2022, shuttle bus service will be available from Monday to
 
 #### Exhibitors List
 
+
+| Exhibitor | Booth No. | Exhibitor | Booth No. |
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     |
+
+
 Interested to participate as a vendor in our MarketPlace? You may register your interest [here](https://go.gov.sg/marketplaceregisterinterest).
 
 ![Marketplace](/images/MarketPlace.jpg)
