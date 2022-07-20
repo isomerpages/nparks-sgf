@@ -35,7 +35,7 @@ Time:     
 ![](/images/Children's%20Acitivities%202/30Jul_9Aug_plantsandtheirpollinators.png)
 Plants and their pollinators form a special relationship in which they benefit from each other. Pollination is one of the most fascinating processes in the natural world. Let’s discover the amazing world of pollination and the role that pollinators play in the journey from flower to fruit. Spot different plants and pollinators that make their home in the Gardens!
 
-Time                 : 11.00am – 11.45am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/plants-and-their-pollinators_9-aug-11am))
+Time                 : 11.00am – 11.45am (Registration is full)
 
 #### **Kitchen Garden (A Guided Tour)**
 ![](/images/Children's%20Acitivities%202/7Aug_9Aug_kitchengarden.jpg)

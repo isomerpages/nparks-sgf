@@ -37,7 +37,7 @@ Time:     
 
 1st session           : 10.00am – 10.30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/watermelon-basil-cooler_30-jul-10am-session-1))
 
-2nd session          : 11:00am – 11:30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/watermelon-basil-cooler_30-jul-11am-session-2))
+2nd session          : 11:00am – 11:30am (Registration is full)
 
 #### **Out of the Way! Out of the Way! (An Interactive Storytelling Programme)**
 ![](/images/Children's%20Acitivities%202/30Jul_Outoftheway.png)

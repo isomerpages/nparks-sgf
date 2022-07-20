@@ -33,9 +33,9 @@ Join us to investigate wildlife and get a chance to observe specimens of many of
 
 Time:     
 
-1st session           : 2:00pm – 2:30pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/wildlife-investigator_31-jul-2pm-session-1))
+1st session           : 2:00pm – 2:30pm (Registration is full)
 
-2nd session          : 3.00pm – 3:30pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/wildlife-investigator_31-jul-3pm-session-2))
+2nd session          : 3.00pm – 3:30pm (Registration is full)
 
 3rd session           : 4:00pm – 4:30pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/wildlife-investigator_31-jul-4pm-session-3))
 
