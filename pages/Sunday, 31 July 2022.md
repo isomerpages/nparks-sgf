@@ -37,7 +37,7 @@ Time:     
 
 2nd session          : 3.00pm – 3:30pm (Registration is full)
 
-3rd session           : 4:00pm – 4:30pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/wildlife-investigator_31-jul-4pm-session-3))
+3rd session           : 4:00pm – 4:30pm (Registration is full)
 
 #### **Nature is Colourful! (A Guided Tour)**
 ![](/images/Children's%20Acitivities%202/31Jul_natureiscolourful.jpg)
