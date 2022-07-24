@@ -8,7 +8,7 @@ description: ""
 ##### By Car
 Enter by the Tyersall Gate along Tyersall Avenue if driving or alighting from a car
 
-##### By the Circle Line or Downtown Line
+##### By MRT
 Alight at Botanic Gardens MRT Station (CC19/ DT9)
 Take Exit B and walk towards the National Orchid Garden dropoff, Singapore Botanic Gardens
 
