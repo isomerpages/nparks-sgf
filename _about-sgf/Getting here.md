@@ -5,14 +5,14 @@ description: ""
 ---
 #### National Orchid Garden,  Singapore Botanic Gardens
 
-###### By Car
+##### By Car
 Enter by the Tyersall Gate along Tyersall Avenue if driving or alighting from a car
 
-###### By the Circle Line or Downtown Line
+##### By the Circle Line or Downtown Line
 Alight at Botanic Gardens MRT Station (CC19/ DT9)
 Take Exit B and walk towards the National Orchid Garden dropoff, Singapore Botanic Gardens
 
-###### By Bus
+##### By Bus
 From Napier Road
 Take bus 106, 174, 75, 77 and 855. Alight at Singapore Botanic Gardens (13019) or opposite Singapore Botanic Gardens (13011).
 
@@ -21,22 +21,22 @@ Take bus 48, 66, 67, 151, 153, 154, 156, 170, 186. Alight at Botanic Gardens Sta
 
 #### Eco-Garden,  Singapore Botanic Gardens
 
-###### By Car
+##### By Car
 Enter by the Bukit Timah Gate along Bukit Timah Road if driving or alighting from a car
 
-###### By MRT
+##### By MRT
 Alight at Botanic Gardens MRT Station along Circle Line & Downtown Line, (Yellow & Blue)
 
-###### By Bus
+##### By Bus
 From Bukit Timah & Dunearn Road
 Take bus 48, 66, 151, 153, 154, 156, 170
 
 #### ION Orchard and Ngee Ann City 
 
-###### By MRT
+##### By MRT
 Alight at Orchard MRT Station (NS22). ION Orchard is located right next to the MRT Station. To get to Ngee Ann City, follow the underground linkway to Wisma Atria.
 
-###### By Bus
+##### By Bus
 From Orchard Turn: 
 Take bus 14E, 124, 128, 143, 162, 162M, 502, 502A, 502B
 
