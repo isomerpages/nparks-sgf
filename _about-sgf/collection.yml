@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - Show Info.md
+      - Getting here.md
