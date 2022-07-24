@@ -22,7 +22,7 @@ sections:
       url: /plan-your-visit/show-info
   - infopic:
       title: We thank our sponsors
-      image: /images/sponsor1.jpg
+      image: /images/sponsors_2022.jpg
       alt: Image alt text
   - resources:
       title: Media
