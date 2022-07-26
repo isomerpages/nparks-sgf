@@ -41,4 +41,4 @@ Time                 : 11.00am – 11.45am (Registration is full
 ![](/images/Children's%20Acitivities%202/7Aug_9Aug_kitchengarden.jpg)
 Embark on a sensory trail to discover different types of herbs and spices and find out their common uses. Learn fascinating facts and enjoy interesting stories about lemon grass, fragrant pandan and many more. Pick up gardening tips to grow your favourite plants for your very own kitchen garden. Discover the joy of gardening at the Singapore Botanic Gardens!
 
-Time                      : 11:00am – 11:45am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/kitchen-garden_9-aug-11am))
+Time                      : 11:00am – 11:45am (Registration is full)
