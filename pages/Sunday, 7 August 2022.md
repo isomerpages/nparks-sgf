@@ -13,9 +13,9 @@ Have you ever wondered how a bird builds its nest with twigs and leaves? Let’s
 
 Time:     
 
-1st session         : 10.30am – 11.30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/be-a-bird-build-a-nest_7-aug-1030am-session-1))
+1st session         : 10.30am – 11.30am (Registration is full)
 
-2nd session        : 2:30pm – 3:30pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/be-a-bird-build-a-nest_7-aug-230pm-session-2))
+2nd session        : 2:30pm – 3:30pm (Registration is full)
 
 #### **Tote Bag Design (A hands-on activity)**
 ![](/images/Children's%20Acitivities%202/7Aug_totebagdesign.png)
