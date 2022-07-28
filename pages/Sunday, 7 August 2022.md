@@ -27,7 +27,7 @@ Time:     
 
 1st session         : 12.00pm – 1.00pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/tote-bag-design_7-aug-12pm-session-1))
 
-2nd session        : 4:00pm – 5:00pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/tote-bag-design_7-aug-4pm-session-2))
+2nd session        : 4:00pm – 5:00pm (Registration is full)
 
 #### **MOLLY The Mobile Library**
 ![](/images/Children's%20Acitivities%202/7Aug_mollythemobilelibrary.png)
