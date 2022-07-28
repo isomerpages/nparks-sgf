@@ -25,7 +25,7 @@ Among many things, humans need food and shelter to survive. Plants have been gro
 
 Time:     
 
-1st session           : 10.00am – 10.45am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/plants,-glorious-plants!_6-aug-10am-session-1))
+1st session           : 10.00am – 10.45am (Registration is full)
 
 2nd session          : 11.00am – 11.45am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/plants,-glorious-plants!_6-aug-11am-session-2))
 
