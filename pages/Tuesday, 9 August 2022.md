@@ -11,7 +11,7 @@ Calling all budding artists! Join us in the Gardens to create some beautiful bot
 
 Time:     
 
-1st session           : 10.00am – 10.30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/leaf-printing_9-aug-10am-session-1))
+1st session           : 10.00am – 10.30am (Registration is full)
 
 2nd session          : 11:30am – 12:00pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/leaf-printing_9-aug-1130am-session-2))
 
@@ -27,7 +27,7 @@ This is a lesson to all of us that each one of us can do our part to improve lif
 
 Time:     
 
-1st session           : 10.00am – 10.30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/the-legend-of-the-little-sunbird_9-aug-10am-session-1))
+1st session           : 10.00am – 10.30am (Registration is full)
 
 2nd session        : 11:00am – 11:30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/the-legend-of-the-little-sunbird_9-aug-11am-session-2))
 
