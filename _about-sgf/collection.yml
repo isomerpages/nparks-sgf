@@ -2,6 +2,6 @@ collections:
   about-sgf:
     output: true
     order:
-      - Getting to Orchard Road.md
       - Show Info.md
+      - Getting to Orchard Road.md
       - Getting to Singapore Botanic Gardens.md
