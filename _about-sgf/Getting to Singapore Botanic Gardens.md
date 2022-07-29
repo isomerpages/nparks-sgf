@@ -3,6 +3,8 @@ title: Getting to Singapore Botanic Gardens
 permalink: /about-sgf/gettingSBG
 description: ""
 ---
+### Shuttle Bus is available from 30 July to 9 Aug from 8am to 8pm.
+
 ### National Orchid Garden,  Singapore Botanic Gardens
 
 ##### By Car
