@@ -4,7 +4,7 @@ permalink: /about-sgf/gettingSBG
 description: ""
 ---
 ### Shuttle Bus is available from 30 July to 9 Aug from 8am to 8pm. 
-Click here for more info.
+
 
 ### National Orchid Garden,  Singapore Botanic Gardens
 
