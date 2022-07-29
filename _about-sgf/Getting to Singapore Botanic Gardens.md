@@ -3,7 +3,8 @@ title: Getting to Singapore Botanic Gardens
 permalink: /about-sgf/gettingSBG
 description: ""
 ---
-### Shuttle Bus is available from 30 July to 9 Aug from 8am to 8pm.
+### Shuttle Bus is available from 30 July to 9 Aug from 8am to 8pm. 
+Click here for more info.
 
 ### National Orchid Garden,  Singapore Botanic Gardens
 
@@ -32,4 +33,3 @@ Alight at Botanic Gardens MRT Station along Circle Line & Downtown Line, (Yellow
 ##### By Bus
 From Bukit Timah & Dunearn Road
 Take bus 48, 66, 151, 153, 154, 156, 170
-
