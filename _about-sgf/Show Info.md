@@ -21,4 +21,4 @@ Join us at the following locations!
 -	MarketPlace at Tyersall Coach Park, Central Core
 
 **E-MarketPlace** <Br>
-This year, we have also partnered our official e-Commerce Partner Shopee to bring you a wide variety of plants and gardening-related products in the comfort of your own home. For more info, visit https://shopee.sg/m/sgf2022
+This year, we have also partnered our official e-Commerce Partner Shopee to bring you a wide variety of plants and gardening-related products in the comfort of your own home. For more info, visit [https://shopee.sg/m/sgf2022](https://shopee.sg/m/sgf2022)
