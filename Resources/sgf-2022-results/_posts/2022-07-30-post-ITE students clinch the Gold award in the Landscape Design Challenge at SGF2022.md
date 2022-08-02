@@ -5,7 +5,7 @@ date: 2022-07-30
 layout: post
 description: ""
 ---
-The Sage Tree of Atlantis” by students from Institute of Technical Education (ITE) wins the Gold award in the Landscape Design Challenge at the Singapore Garden Festival 2022 (from L-R: student Gwendolyn Marie Tan Kay Shuen, lecturer Ms Chin Wei Jun, and student Tasswin S/o Vijaykumar)
+![](/images/SGF2022%20Results/LDC_The%20Sage%20Tree%20of%20Atlantis.jpg)The Sage Tree of Atlantis” by students from Institute of Technical Education (ITE) wins the Gold award in the Landscape Design Challenge at the Singapore Garden Festival 2022 (from L-R: student Gwendolyn Marie Tan Kay Shuen, lecturer Ms Chin Wei Jun, and student Tasswin S/o Vijaykumar)
 
 **Singapore, 30 July 2022** – Team “The Tree Musketeers” from Institute of Technical Education (ITE) emerged as the winner of the Landscape Design Challenge (LDC), a competition held at the Singapore Garden Festival (SGF) 2022, which is organised by the Centre for Urban Greenery and Ecology under the National Parks Board (NParks).  This was the 17 year old students’ first time participating in a competition and they were overwhelmed at having won the top prize.
 
