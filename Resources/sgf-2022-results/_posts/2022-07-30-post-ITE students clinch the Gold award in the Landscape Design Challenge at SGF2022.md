@@ -25,4 +25,4 @@ Team “Avant-garde”, who was awarded the Bronze prize, “Nature’s Boutique
 
 All competition gardens are currently on display at Eco-Garden, Singapore Botanic Gardens, as part of SGF 2022 till 9 August 2022.
 
-For more information about SGF, please visit www.singaporegardenfestival.com or Facebook page www.facebook.com/SGGardenFest
+For more information about SGF, please visit [sgf.nparks.gov.sg](sgf.nparks.gov.sg)  or Facebook page [www.facebook.com/SGGardenFest](www.facebook.com/SGGardenFest)
