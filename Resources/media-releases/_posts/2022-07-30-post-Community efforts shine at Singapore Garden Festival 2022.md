@@ -18,11 +18,11 @@ The top accolades at the Orchid Competition go to:
 
 | Award | Winner | 
 | -------- | -------- | 
-|	Grand Champion Plant (President’s Challenge Cup) and Best Species (Penang Gardening Society Challenge Cup)	|	Cymbidium erythraeum exhibited by Singapore Botanic Gardens	|
-|	Best Hybrid (John Laycock Challenge Cup) 	|	Phalaenopsis Valentinii exhibited by Eric Seah	|
+|	Grand Champion Plant (President’s Challenge Cup) and Best Species (Penang Gardening Society Challenge Cup)	|	*Cymbidium erythraeum* exhibited by Singapore Botanic Gardens	|
+|	Best Hybrid (John Laycock Challenge Cup) 	|	*Phalaenopsis* Valentinii exhibited by Eric Seah	|
 |	The OSSEA Championship Cup, awarded to the Exhibitor with the most first place awards	|	Singapore Botanic Gardens	|
 |	H H The Sultan of Johor’s Perpetual Trophy to the Amateur Exhibitor with the greatest number of points	|	Christopher Teo	|
-|	Best Specimen Plant (The Yuen-Peng McNeice Challenge Cup)	|	Dendrobium Jiali Mikotae exhibited by Gardens by the Bay	|
+|	Best Specimen Plant (The Yuen-Peng McNeice Challenge Cup)	|	*Dendrobium* Jiali Mikotae exhibited by Gardens by the Bay	|
 
 
 
