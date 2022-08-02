@@ -15,7 +15,7 @@ Organised by the National Parks Board (NParks), this year’s festival will be t
 
 The Singapore Garden Festival supports ongoing efforts, which were first announced in 2019, to rejuvenate Orchard Road as a lifestyle destination and a lush green urban corridor. Under the first thrust, Orchard Road will offer new, differentiated experiences beyond retail to cater to various interests. The second thrust is to ‘Bring Back the Orchard’, where greenery along Orchard Road will be enhanced to form a lush green urban corridor with pocket parks, gardens, and multi-layered planting of shrubs and trees, showcasing a range of herbs, spices and fruit trees. The festival is part of these efforts and brings a differentiated concept to the precinct while enhancing the area’s appeal to both locals and tourists.
 
-**Be surprised by towering floral** **and garden displays at Orchard Road**
+**Be surprised by towering floral and garden displays at Orchard Road**
 
 Visitors can begin their journey as they exit from Orchard MRT station at ION Orchard, a venue sponsor for SGF. Visitors can head over to ION2 L1 and be greeted by two life-sized floral installations by local award-winning floral designers Harijanto Setiawan (Boenga Flowers) and John Lim (This Humid House).
 
@@ -47,7 +47,7 @@ _Please refer to factsheet on Show Garden Competition for more details._
 
 A six-metre-tall display garden featuring a cascading waterfall structure titled “A Botanical Fantasy” created by the NParks team will be at the front and centre of Civic Plaza, Ngee Ann City. This exhibit brings visitors through a range of landscapes, from a wind-swept coast to an inundated marsh, before transitioning to a lush rainforest and a misty mountain. Visitors will be able to discover a diversity of plants that exist in a variety of habitats. Some interesting and unusual plants on display include a fascinating array of carnivorous plants in the bog garden, such as Sarracenia (Trumpet Pitcher plants), Dionaea (Venus Fly Traps) and Nepenthes (Monkey Cups).
 
-**Other highlights at** **Singapore Botanic Gardens**
+**Other highlights at Singapore Botanic Gardens**
 
 The Singapore Botanic Gardens will also be hosting the Orchid Competition, at the National Orchid Garden, co-organised with the Orchid Society of South East Asia (OSSEA). Visitors can look forward to an array of over 400 rare and exquisite orchids from all around the world.
 
