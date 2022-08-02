@@ -14,6 +14,4 @@ This year’s theme of “Botanical Fantasy” will stretch the imagination of t
 
 We are excited to welcome back ITE College East, Nanyang Academy of Fine Arts, Ngee Ann Polytechnic, and Singapore Polytechnic. In addition, we have a new team from Republic Polytechnic stepping into the competition arena. The top team stands to win $2,400 of shopping vouchers!
 
-Watch the “live-build” on 30 July 2022, from 9am to 1pm. Come and cheer on the teams as they work their magic at each of their empty plots.
-##### Winning Teams of LDC 2018
-![](/images/LDC.jpg)
+Click [here](https://sgf.nparks.gov.sg/resources/sgf-2022-results/ldc2022) to find out more on the results of the competition.
