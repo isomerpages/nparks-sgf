@@ -25,7 +25,7 @@ Beauty is everywhere in nature! Let's take a closer look at some of the leaves w
 
 Time:     
 
-1st session         : 12.00pm – 1.00pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/tote-bag-design_7-aug-12pm-session-1))
+1st session         : 12.00pm – 1.00pm (Registration has closed)
 
 2nd session        : 4:00pm – 5:00pm (Registration is full)
 
@@ -45,6 +45,6 @@ Embark on a sensory trail to discover different types of herbs and spices and fi
 
 Time:     
 
-1st session           : 3.30pm – 4.15pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/kitchen-garden_7-aug-330pm-session-1))
+1st session           : 3.30pm – 4.15pm (Registration has closed)
 
-2nd session          : 4.30pm – 5.15pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/kitchen-garden_7-aug-430pm-session-2))
+2nd session          : 4.30pm – 5.15pm (Registration has closed)
