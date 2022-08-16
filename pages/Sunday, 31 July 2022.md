@@ -11,11 +11,11 @@ Come with us behind the scenes and explore how food is grown. Get ready to use y
 
 Time:     
 
-1st session           : 10.00am – 10.30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/ready,-set,-grow!_31-jul-10am-session-1))
+1st session           : 10.00am – 10.30am (Registration has closed)
 
-2nd session          : 11:00am – 11:30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/ready,-set,-grow!_31-jul-11am-session-2))
+2nd session          : 11:00am – 11:30am (Registration has closed)
 
-3rd session           : 12:00pm – 12:30pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/ready,-set,-grow!_31-jul-12pm-session-3))
+3rd session           : 12:00pm – 12:30pm (Registration has closed)
 
 #### **The People Who Hugged the Trees  (An Interactive Storytelling Programme)**
 ![](/images/Children's%20Acitivities%202/31Jul_Peoplewhohuggedthetrees.jpg)
@@ -23,9 +23,9 @@ Come on a journey with us, surrounded by nature, and be enthralled by the fascin
 
 Time:     
 
-1st session           : 10.00am – 10.30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/the-people-who-hugged-the-trees-_31-jul-10am-session-1))
+1st session           : 10.00am – 10.30am (Registration has closed)
 
-2nd session          : 11:00am – 11:30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/the-people-who-hugged-the-trees-_31-jul-11am-session-2))
+2nd session          : 11:00am – 11:30am (Registration has closed)
 
 #### **Wildlife Investigator (A Show-and-Tell Session)**
 ![](/images/Children's%20Acitivities%202/31Jul_wildlifeinvestigator.jpg)
@@ -45,6 +45,6 @@ Follow a trail of beautiful plants and flowers in the Singapore Botanic Gardens.
 
 Time:     
 
-1st session           : 3.30pm – 4.15pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/nature-is-colourful!_31-jul-330pm-session-1))
+1st session           : 3.30pm – 4.15pm (Registration has closed)
 
-2nd session          : 4.30pm – 5.15pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/7/nature-is-colourful!_31-jul-430pm-session-2))
+2nd session          : 4.30pm – 5.15pm (Registration has closed)
