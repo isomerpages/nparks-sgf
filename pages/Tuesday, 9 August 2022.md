@@ -13,11 +13,11 @@ Time:     
 
 1st session           : 10.00am – 10.30am (Registration is full)
 
-2nd session          : 11:30am – 12:00pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/leaf-printing_9-aug-1130am-session-2))
+2nd session          : 11:30am – 12:00pm (Registration has closed)
 
-3rd session           : 2:30pm – 3:00pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/leaf-printing_9-aug-230pm-session-3))
+3rd session           : 2:30pm – 3:00pm (Registration has closed)
 
-4th session           : 4.00pm – 4:30pm (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/leaf-printing_9-aug-4pm-session-4))
+4th session           : 4.00pm – 4:30pm (Registration has closed)
 
 #### **The Legend of The Little Sunbird (An Interactive Storytelling Programme)**
 ![](/images/Children's%20Acitivities%202/6Aug_drongobird_9Aug_legendofthelittlesunbird.jpg)
@@ -29,7 +29,7 @@ Time:     
 
 1st session           : 10.00am – 10.30am (Registration is full)
 
-2nd session        : 11:00am – 11:30am (Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/8/the-legend-of-the-little-sunbird_9-aug-11am-session-2))
+2nd session        : 11:00am – 11:30am (Registration has closed)
 
 #### **Plants and their Pollinators (A Guided Tour)**
 ![](/images/Children's%20Acitivities%202/30Jul_9Aug_plantsandtheirpollinators.png)
