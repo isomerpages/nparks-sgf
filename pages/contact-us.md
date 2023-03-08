@@ -11,11 +11,6 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: TAN_Ning_Xin@nparks.gov.sg
-      - other: ""
-    title: Media Matters
-  - content:
-      - phone: ""
       - email: SU_Shihui@nparks.gov.sg
       - other: ""
     title: Sponsorship Opportunities
