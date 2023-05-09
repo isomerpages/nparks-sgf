@@ -1,6 +1,6 @@
 ---
 title: eMarketPlace
-permalink: /e-MarketPlace
+permalink: /e-marketplace/
 description: ""
 ---
 

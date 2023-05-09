@@ -1,6 +1,6 @@
 ---
 title: MarketPlace
-permalink: /show-highlights/Singapore-Botanic-Gardens/marketplace
+permalink: /show-highlights/singapore-botanic-gardens/marketplace/
 description: ""
 third_nav_title: "@ Singapore Botanic Gardens"
 ---

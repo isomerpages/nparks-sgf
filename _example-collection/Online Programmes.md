@@ -1,6 +1,6 @@
 ---
 title: Online Programmes
-permalink: /online-programmes
+permalink: /online-programmes/
 description: ""
 ---
 

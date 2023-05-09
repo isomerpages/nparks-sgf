@@ -1,6 +1,6 @@
 ---
 title: Floral Installation
-permalink: /show-highlights/Orchard-Road/FloralInstallation
+permalink: /show-highlights/orchard-road/floralinstallation/
 description: ""
 third_nav_title: "@ Orchard Road"
 ---

@@ -1,6 +1,6 @@
 ---
 title: 12th International FDSS Cup
-permalink: /key-highlights/FDSS-cup
+permalink: /key-highlights/fdss-cup/
 description: ""
 third_nav_title: "@ Orchard Road"
 ---

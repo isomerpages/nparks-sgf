@@ -1,6 +1,6 @@
 ---
 title: Community Garden Edibles Competition
-permalink: /key-highlights/CGEC2022
+permalink: /key-highlights/cgec2022/
 description: ""
 third_nav_title: "@ Orchard Road"
 ---

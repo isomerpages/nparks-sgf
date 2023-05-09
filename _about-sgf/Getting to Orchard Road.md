@@ -1,6 +1,6 @@
 ---
 title: Getting to Orchard Road
-permalink: /about-sgf/gettingOR
+permalink: /about-sgf/gettingor/
 description: ""
 ---
 ### ION Orchard and Ngee Ann City 
