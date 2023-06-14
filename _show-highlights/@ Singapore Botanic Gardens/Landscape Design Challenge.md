@@ -1,6 +1,6 @@
 ---
 title: Landscape Design Challenge
-permalink: /key-highlights/LDC
+permalink: /key-highlights/ldc/
 description: ""
 third_nav_title: "@ Singapore Botanic Gardens"
 ---

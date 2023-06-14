@@ -1,6 +1,6 @@
 ---
 title: Singapore Gardeners' Cup
-permalink: /key-highlights/gardeners-cup
+permalink: /key-highlights/gardeners-cup/
 description: ""
 third_nav_title: "@ Singapore Botanic Gardens"
 ---

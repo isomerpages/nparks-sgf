@@ -1,6 +1,6 @@
 ---
 title: Orchid Competition
-permalink: /key-highlights/orchid-show
+permalink: /key-highlights/orchid-show/
 description: ""
 third_nav_title: "@ Singapore Botanic Gardens"
 ---

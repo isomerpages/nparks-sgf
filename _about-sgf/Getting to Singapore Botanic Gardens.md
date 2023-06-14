@@ -1,6 +1,6 @@
 ---
 title: Getting to Singapore Botanic Gardens
-permalink: /about-sgf/gettingSBG
+permalink: /about-sgf/gettingsbg/
 description: ""
 ---
 ### Shuttle Bus is available from 30 Jul to 9 Aug from 8am to 8pm. 

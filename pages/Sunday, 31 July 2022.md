@@ -1,6 +1,6 @@
 ---
 title: Sunday, 31 July 2022
-permalink: /cp31July
+permalink: /cp31july/
 description: ""
 ---
 **Registration for each activity scheduled on 31 July (Sun) will close on 24 July (Sun) at 11.59pm, or when session is full, whichever is earlier.**

@@ -1,6 +1,6 @@
 ---
 title: Show Info
-permalink: /plan-your-visit/show-info
+permalink: /plan-your-visit/show-info/
 description: ""
 ---
 The Singapore Garden Festival (SGF) is a series of flower and horticultural shows comprising the anchor Festival and complementary events such as the SGF Orchid Show and SGF Horticulture Show. Collectively, the shows give local and international visitors more opportunities to appreciate tropical horticulture and floral artistry every year.

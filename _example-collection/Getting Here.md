@@ -1,6 +1,6 @@
 ---
 title: Getting Here
-permalink: /plan-your-visit/getting-here
+permalink: /plan-your-visit/getting-here/
 description: ""
 ---
 

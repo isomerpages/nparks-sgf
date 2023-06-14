@@ -1,6 +1,6 @@
 ---
 title: "Floral Fiesta: A Floral Creation Challenge"
-permalink: /show-highlights/Orchard-Road/FF
+permalink: /show-highlights/orchard-road/ff/
 description: ""
 third_nav_title: "@ Orchard Road"
 ---

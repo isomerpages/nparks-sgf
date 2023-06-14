@@ -51,6 +51,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nparks-sgf1-staging.netlify.app
-prod: https://nparks-sgf1-prod.netlify.app
+staging: https://staging.d2vfr7iqqar7sp.amplifyapp.com/
+prod: https://master.d2vfr7iqqar7sp.amplifyapp.com/
 is_government: false

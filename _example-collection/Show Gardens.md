@@ -1,6 +1,6 @@
 ---
 title: Show Gardens
-permalink: /key-highlights/show-gardens
+permalink: /key-highlights/show-gardens/
 description: ""
 ---
 

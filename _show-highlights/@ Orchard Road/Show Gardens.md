@@ -1,6 +1,6 @@
 ---
 title: Show Gardens
-permalink: /show-highlights/Ngee-Ann-City/showgardens
+permalink: /show-highlights/ngee-ann-city/showgardens/
 description: ""
 third_nav_title: "@ Orchard Road"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Media Enquiries
-permalink: /media-enquiries
+permalink: /media-enquiries/
 description: ""
 image: /images/hero-banner.png
 ---

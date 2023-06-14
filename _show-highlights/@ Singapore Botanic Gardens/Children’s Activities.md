@@ -1,6 +1,6 @@
 ---
 title: Children’s Activities
-permalink: /show-highlights/Singapore-Botanic-Gardens/Childrensactivities
+permalink: /show-highlights/singapore-botanic-gardens/childrensactivities/
 description: ""
 third_nav_title: "@ Singapore Botanic Gardens"
 ---

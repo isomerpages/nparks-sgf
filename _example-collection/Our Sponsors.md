@@ -1,6 +1,6 @@
 ---
 title: Our Sponsors
-permalink: /our-sponsors
+permalink: /our-sponsors/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Floral Windows to the World Championship
-permalink: /key-highlights/FWWC
+permalink: /key-highlights/fwwc/
 description: ""
 ---
 
