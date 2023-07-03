@@ -11,11 +11,11 @@ sections:
       background: /images/herobanner.jpg
       url: /contact-us/
       title: Singapore Garden Festival 2024
-      subtitle: <b> 3 - 11 Aug 2024 </b>
+      subtitle: 3 - 11 August 2024
   - infobar:
-      title: Singapore Garden Festival 2022
-      description: This year’s SGF will run from 30 Jul - 7 Aug at Orchard Road and 30
-        Jul - 9 Aug at Singapore Botanic Gardens with a wide array of displays
+      title: Singapore Garden Festival 2024
+      description: The next edition of the SGF will run from 3 - 11 August with a wide
+        array of displays
       button: More info
       url: /plan-your-visit/show-info
   - infopic:
