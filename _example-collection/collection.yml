@@ -2,6 +2,7 @@ collections:
   example-collection:
     output: true
     order:
+      - Getting to Orchard Road.md
       - FAQs.md
       - Our Sponsors.md
       - Getting Here.md
