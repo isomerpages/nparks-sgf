@@ -18,10 +18,6 @@ sections:
         array of displays
       button: More info
       url: /plan-your-visit/show-info
-  - infopic:
-      title: We thank our sponsors
-      image: /images/sponsors_2022.jpg
-      alt: Image alt text
   - resources:
       title: Media
       subtitle: Learn more
