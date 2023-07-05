@@ -2,6 +2,8 @@ collections:
   example-collection:
     output: true
     order:
+      - Getting to Singapore Botanic Gardens.md
+      - Getting to Orchard Road.md
       - FAQs.md
       - Our Sponsors.md
       - Getting Here.md
