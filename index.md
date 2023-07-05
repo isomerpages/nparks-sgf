@@ -11,7 +11,7 @@ sections:
       background: /images/herobanner.jpg
       url: /contact-us/
       title: Singapore Garden Festival 2024
-      subtitle: 3 - 11 August 2024
+      subtitle: <b>3 - 11 August 2024</b>
   - infobar:
       title: Singapore Garden Festival 2024
       description: The next edition of SGF will run from 3 - 11 August with a wide
