@@ -8,3 +8,5 @@ The biennial Singapore Garden Festival (SGF) brings together top award-winning l
 Be enchanted by exquisite garden and floral displays, and experience the magic and wonder of the world of garden and floral design. 
 
 The 9th edition of the Festival will be returning from 3-11 August 2024. More details will be announced at a later date.
+
+Interested to participate as a vendor in our MarketPlace? You may register your interest [here](https://go.gov.sg/marketplaceregisterinterest).
