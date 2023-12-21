@@ -2,11 +2,13 @@ logo: /images/SGF-LogoNew_Trans_Horizontal.jpg
 links:
   - title: About Sgf
     collection: about-sgf
-  - title: SGF 2022 Show Highlights
-    collection: show-highlights
+  - title: Participate
+    collection: participate
   - title: Sponsors
     collection: sponsor
   - title: Resources
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: SGF 2022 Show Highlights
+    collection: show-highlights
