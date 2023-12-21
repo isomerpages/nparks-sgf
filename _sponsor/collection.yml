@@ -1,4 +1,5 @@
 collections:
   sponsor:
     output: true
-    order: []
+    order:
+      - Be a sponsor.md
