@@ -1,0 +1,4 @@
+collections:
+  participate:
+    output: true
+    order: []
