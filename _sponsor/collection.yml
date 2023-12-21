@@ -1,0 +1,4 @@
+collections:
+  sponsor:
+    output: true
+    order: []
