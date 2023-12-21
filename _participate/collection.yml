@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Volunteers.md
-      - MarketPlace vendor.md
+      - MarketPlace vendors.md
