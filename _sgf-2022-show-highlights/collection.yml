@@ -1,5 +1,5 @@
 collections:
-  show-highlights:
+  sgf-2022-show-highlights:
     output: true
     order:
       - "@ Orchard Road/.keep"
