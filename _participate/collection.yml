@@ -2,5 +2,5 @@ collections:
   participate:
     output: true
     order:
-      - MarketPlace vendors.md
+      - MarketPlace Vendors.md
       - Volunteers.md
