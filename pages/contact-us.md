@@ -14,4 +14,13 @@ contacts:
       - email: SU_Shihui@nparks.gov.sg
       - other: ""
     title: Sponsorship Opportunities
+locations:
+  - address:
+      - 1 Cluny Road
+      - Botany Center
+      - Singapore 259596
+    title: National Parks Board
+    operating_hours: []
+    maps_link: ""
+feedback: ""
 ---
