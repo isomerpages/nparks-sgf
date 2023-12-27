@@ -2,6 +2,7 @@ collections:
   sgf-2024-show-highlights:
     output: true
     order:
+      - MarketPlace.md
       - Best of Show Designer Gardens.md
       - Floral Windows to the World.md
       - Balcony Gardens.md
