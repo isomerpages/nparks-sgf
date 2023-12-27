@@ -4,3 +4,4 @@ permalink: /sgf-2024-show-highlights/floraltabletop/
 variant: tiptap
 description: ""
 ---
+<p>Be mesmerised and learn how you can bring your table floral arrangements to life.</p>
