@@ -4,4 +4,4 @@ permalink: /sgf-2024-show-highlights/showgardens/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Featuring creations by top award-wining garden designers.</p>
