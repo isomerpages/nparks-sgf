@@ -2,4 +2,5 @@ collections:
   sgf-2024-show-highlights:
     output: true
     order:
+      - Floral Windows to the World.md
       - Best of Show Designer Gardens.md
