@@ -3,13 +3,9 @@ collections:
     output: true
     order:
       - Getting to Singapore Botanic Gardens.md
-      - Getting to Orchard Road.md
       - FAQs.md
       - Our Sponsors.md
-      - Getting Here.md
       - Show Gardens.md
       - Floral Windows to the World Championship.md
       - eMarketPlace.md
       - Online Programmes.md
-      - example-page/.keep
-      - example-page/example-subpage.md

@@ -1,0 +1,8 @@
+collections:
+  sponsor:
+    output: true
+    order:
+      - Be Our Sponsor.md
+      - SGF 2022 Sponsors.md
+      - SGF 2018 Sponsors.md
+      - SGF 2016 Sponsors.md

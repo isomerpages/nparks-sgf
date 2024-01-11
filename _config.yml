@@ -2,7 +2,7 @@ title: Singapore Garden Festival
 url: https://www.sgf.nparks.gov.sg
 favicon: /images/faviconl.png
 colors:
-  primary-color: "#31b65c"
+  primary-color: "#298647"
   secondary-color: "#335a04"
   media-colors:
     - title: media-color-one
@@ -16,8 +16,8 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: Resources
-description: The next edition of SGF will run from 3 - 11 August with a wide
-  array of displays.
+description: Look forward to the 9th edition of Singapore Garden Festival (SGF)
+  from 3 – 11 August at Suntec Singapore!
 permalink: none
 baseurl: ""
 exclude:
@@ -53,7 +53,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2vfr7iqqar7sp.amplifyapp.com/
 prod: https://master.d2vfr7iqqar7sp.amplifyapp.com/
-is_government: false
+is_government: true
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
 google_analytics: ""
