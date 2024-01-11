@@ -22,21 +22,11 @@ sections:
         from 3 – 11 August at Suntec Singapore!
       button: More info
       url: /plan-your-visit/show-info
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
-  - infobar:
-      title: Connect with us
-      description: Follow us on social media to see what we're up to and join in our
-        activities!
-      button: "@sggardenfest"
-      url: https://www.facebook.com/sggardenfest
   - textcards:
       title: SGF 2024 Show Highlights
       id: textcards
       cards:
-        - title: "Best of Show Designers Gardens "
+        - title: Best of Show Designers Gardens
           description: Featuring gardens created by top local & international
             award-winning designers.
           linktext: Learn more
@@ -49,4 +39,14 @@ sections:
           description: Featuring colourful and inspirational displays for apartment owners.
           linktext: Learn more
           url: https://sgf.nparks.gov.sg/sgf-2024-show-highlights/balcony/
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
+  - infobar:
+      title: Connect with us
+      description: Follow us on social media to see what we're up to and join in our
+        activities!
+      button: "@sggardenfest"
+      url: https://www.facebook.com/sggardenfest
 ---
