@@ -18,8 +18,8 @@ sections:
       size: sm
   - infobar:
       title: Singapore Garden Festival 2024
-      description: The next edition of SGF will run from 3 - 11 August at Suntec
-        Singapore with a wide array of displays
+      description: Look forward to the 9th edition of Singapore Garden Festival (SGF)
+        from 3 – 11 August at Suntec Singapore!
       button: More info
       url: /plan-your-visit/show-info
   - resources:
