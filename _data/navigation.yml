@@ -3,7 +3,7 @@ links:
   - title: About Sgf
     collection: about-sgf
   - title: Tickets
-    collection: tickets
+    url: /tickets
   - title: SHOW HIGHLIGHTS
     collection: sgf-2024-show-highlights
   - title: Participate
