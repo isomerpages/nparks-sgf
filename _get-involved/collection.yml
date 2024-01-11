@@ -1,5 +1,5 @@
 collections:
-  participate:
+  get-involved:
     output: true
     order:
       - MarketPlace Vendors.md
