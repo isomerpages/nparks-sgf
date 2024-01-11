@@ -32,4 +32,21 @@ sections:
         activities!
       button: "@sggardenfest"
       url: https://www.facebook.com/sggardenfest
+  - textcards:
+      title: SGF 2024 Show Highlights
+      id: textcards
+      cards:
+        - title: "Best of Show Designers Gardens "
+          description: Featuring gardens created by top local & international
+            award-winning designers.
+          linktext: Learn more
+          url: https://sgf.nparks.gov.sg/sgf-2024-show-highlights/showgardens/
+        - title: Floral Windows to the World
+          description: Admire the enchanting displays of beautiful flowers.
+          linktext: Learn more
+          url: https://sgf.nparks.gov.sg/sgf-2024-show-highlights/fwwc/
+        - title: Balcony Gardens
+          description: Featuring colourful and inspirational displays for apartment owners.
+          linktext: Learn more
+          url: https://sgf.nparks.gov.sg/sgf-2024-show-highlights/balcony/
 ---
