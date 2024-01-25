@@ -1,0 +1,7 @@
+collections:
+  about-sgf:
+    output: true
+    order:
+      - Show Info.md
+      - Show Venue.md
+      - Getting Here.md

@@ -1,0 +1,18 @@
+collections:
+  sgf-2022-show-highlights:
+    output: true
+    order:
+      - "@ Orchard Road/.keep"
+      - "@ Orchard Road/Show Gardens.md"
+      - "@ Orchard Road/Community Garden Edibles Competition.md"
+      - "@ Orchard Road/Floral Installation.md"
+      - "@ Orchard Road/12th International FDSS Cup.md"
+      - "@ Orchard Road/Floral Fiesta: A Floral Creation Challenge.md"
+      - "@ Singapore Botanic Gardens/.keep"
+      - "@ Singapore Botanic Gardens/Orchid Competition.md"
+      - "@ Singapore Botanic Gardens/Singapore Gardeners' Cup.md"
+      - "@ Singapore Botanic Gardens/Landscape Design Challenge.md"
+      - "@ Singapore Botanic Gardens/MarketPlace.md"
+      - "@ Singapore Botanic Gardens/Children’s Activities.md"
+      - "@ Singapore Botanic Gardens/Singapore Botanic Gardens Heritage Festival
+        2022.md"
