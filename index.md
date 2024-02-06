@@ -49,4 +49,13 @@ sections:
         activities!
       button: "@sggardenfest"
       url: https://www.facebook.com/sggardenfest
+  - infopic:
+      title: Floral Fiesta Competition
+      subtitle: Calling all floral enthusiasts
+      id: infopic
+      description: 15 March 2024
+      button: find out more
+      url: https://sgf.nparks.gov.sg/floralfiesta
+      image: /images/NNM_1410_cropped.jpg
+      alt: floral fiesta
 ---
