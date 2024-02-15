@@ -31,6 +31,14 @@ sections:
       url: https://sgf.nparks.gov.sg/floralfiesta
       image: /images/NNM_1410_cropped.jpg
       alt: floral fiesta
+  - infopic:
+      title: "Chaos & Control  "
+      subtitle: Sgf Master series
+      id: infopic
+      description: 16 March 2024, Saturday
+      button: Button Text
+      image: /images/SGF_Master_Class_Poster_cropped.jpg
+      alt: Image alt text
   - textcards:
       title: SGF 2024 Show Highlights
       id: textcards
