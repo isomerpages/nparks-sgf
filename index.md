@@ -32,13 +32,14 @@ sections:
       image: /images/NNM_1410_cropped.jpg
       alt: floral fiesta
   - infopic:
-      title: "Chaos & Control  "
+      title: Mark Pampling
       subtitle: Sgf Master series
       id: infopic
       description: 16 March 2024, Saturday
-      button: Button Text
+      button: find out more
       image: /images/SGF_Master_Class_Poster_cropped.jpg
-      alt: Image alt text
+      alt: Banner
+      url: https://sgf.nparks.gov.sg/masterseries_mark
   - textcards:
       title: SGF 2024 Show Highlights
       id: textcards
