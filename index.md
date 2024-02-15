@@ -39,7 +39,7 @@ sections:
       button: find out more
       image: /images/SGF_Master_Class_Poster_cropped.jpg
       alt: Banner
-      url: https://sgf.nparks.gov.sg/masterseries_mark
+      url: https://sgf.nparks.gov.sg/masterseries-mark
   - textcards:
       title: SGF 2024 Show Highlights
       id: textcards
