@@ -36,7 +36,7 @@ sections:
       subtitle: Sgf Master series
       id: infopic
       description: 16 March 2024, Saturday
-      button: find out more
+      button: sign up now
       image: /images/SGF_Master_Class_Poster_cropped.jpg
       alt: Banner
       url: https://sgf.nparks.gov.sg/masterseries-mark
