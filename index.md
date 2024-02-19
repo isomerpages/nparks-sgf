@@ -26,11 +26,20 @@ sections:
       title: Floral Fiesta Competition
       subtitle: Calling all floral enthusiasts
       id: infopic
-      description: 15 March 2024
+      description: 15 March 2024, Friday
       button: find out more
       url: https://sgf.nparks.gov.sg/floralfiesta
       image: /images/NNM_1410_cropped.jpg
       alt: floral fiesta
+  - infopic:
+      title: Mark Pampling
+      subtitle: Sgf Master series
+      id: infopic
+      description: 16 March 2024, Saturday
+      button: sign up now
+      image: /images/SGF_Master_Class_Poster_cropped.jpg
+      alt: Banner
+      url: https://sgf.nparks.gov.sg/masterseries-mark
   - textcards:
       title: SGF 2024 Show Highlights
       id: textcards
