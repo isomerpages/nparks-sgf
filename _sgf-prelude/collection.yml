@@ -2,5 +2,6 @@ collections:
   sgf-prelude:
     output: true
     order:
+      - Floral Fiesta Competition.md
       - Event Info.md
       - MarketPlace.md
