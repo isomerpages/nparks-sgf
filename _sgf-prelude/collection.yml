@@ -1,0 +1,4 @@
+collections:
+  sgf-prelude:
+    output: true
+    order: []
