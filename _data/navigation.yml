@@ -2,6 +2,13 @@ logo: /images/SGF-LogoNew_Trans_Horizontal.jpg
 links:
   - title: About Sgf
     collection: about-sgf
+  - title: SGF Prelude (14 - 17 MARCH)
+    url: /sgf-prelude
+    sublinks:
+      - title: MarketPlace
+        url: /prelude-marketplace
+      - title: Stage Programme
+        url: /prelude-stage
   - title: Tickets
     url: /tickets
   - title: SHOW HIGHLIGHTS
@@ -14,10 +21,3 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: SGF Prelude (14 - 17 MARCH)
-    url: /sgf-prelude
-    sublinks:
-      - title: MarketPlace
-        url: /prelude-marketplace
-      - title: Stage Programme
-        url: /prelude-stage
