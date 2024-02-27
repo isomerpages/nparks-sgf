@@ -1,4 +1,5 @@
 collections:
   sgf-prelude:
     output: true
-    order: []
+    order:
+      - MarketPlace.md
