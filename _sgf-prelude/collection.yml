@@ -1,0 +1,8 @@
+collections:
+  sgf-prelude:
+    output: true
+    order:
+      - Programme Highlights.md
+      - Event Info.md
+      - MarketPlace.md
+      - Floral Fiesta Competition.md
