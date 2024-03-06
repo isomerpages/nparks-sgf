@@ -64,26 +64,96 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.30</p>
+<p>10.30am - 12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Fiesta (Round 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Announcement of Semi-Finalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.00pm - 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Fiesta (Round 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Announcement of Top 5 Winners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4><strong>16 March 2024 (Saturday)</strong></h4>
+<p></p>
+<table>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>12.00pm - 12.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tropical Bonsai</strong>
+<br>Talk by Lim Keow Wah
+<br>Singapore Penjing &amp; Stone Appreciation Society</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1.00pm - 1.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Versatile Tropics: A Four-Season Glory</strong>
+<br>Floral Demonstration by
+<br>Ta Quynh Giang
+<br>Floral Designers Society Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 2.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Repurposed, Reused, Reimagined</strong>
+<br>Floral Demonstration by
+<br>Zoe Kuek &amp; Jun Lim
+<br>Nobleman School of Floral Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.00pm - 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Headpiece Workshop (Pre-Registered)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.15pm - 7.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Headpiece Workshop (Pre-Registered)</p>
 </td>
 </tr>
 </tbody>
