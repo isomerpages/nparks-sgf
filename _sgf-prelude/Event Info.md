@@ -15,9 +15,8 @@ our 4-day Prelude Event at Takashimaya Square B2.</p>
 <br>Takashimaya Square B2
 <br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="prelude" src="/images/organiser.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="prelude" src="/images/organiser.jpg">
 </div>
 <p>
 <br>
