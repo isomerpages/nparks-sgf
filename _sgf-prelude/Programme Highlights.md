@@ -4,8 +4,7 @@ permalink: /sgf-prelude/programme/
 variant: tiptap
 description: ""
 ---
-<p><strong>14 March 2024 (Thursday)</strong>
-</p>
+<h4><strong>14 March 2024 (Thursday)</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -60,6 +59,33 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>15 March 2024 (Friday)</strong>
-</p>
+<h4><strong>15 March 2024 (Friday)</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
