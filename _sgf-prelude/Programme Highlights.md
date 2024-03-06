@@ -94,18 +94,9 @@ description: ""
 <p>Announcement of Top 5 Winners</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>16 March 2024 (Saturday)</strong></h4>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -113,7 +104,7 @@ description: ""
 <p>12.00pm - 12.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tropical Bonsai</strong>
+<p><strong>Tropical Bonsai</strong> 
 <br>Talk by Lim Keow Wah
 <br>Singapore Penjing &amp; Stone Appreciation Society</p>
 </td>
@@ -123,7 +114,7 @@ description: ""
 <p>1.00pm - 1.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Versatile Tropics: A Four-Season Glory</strong>
+<p><strong>Versatile Tropics: A Four-Season Glory</strong> 
 <br>Floral Demonstration by
 <br>Ta Quynh Giang
 <br>Floral Designers Society Singapore</p>
@@ -134,7 +125,7 @@ description: ""
 <p>2.00pm - 2.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Repurposed, Reused, Reimagined</strong>
+<p><strong>Repurposed, Reused, Reimagined</strong> 
 <br>Floral Demonstration by
 <br>Zoe Kuek &amp; Jun Lim
 <br>Nobleman School of Floral Design</p>
@@ -154,6 +145,56 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Floral Headpiece Workshop (Pre-Registered)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>17 March 2024 (Sunday)</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.00pm - 12.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>An Enchanting Tropical Rainforest</strong>
+<br>Floral Demonstration by Diana Tung
+<br>Floral Designers Society Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.00pm - 1.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Oh! Really?</strong>
+<br>Floral Demonstration by Keith Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 2.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Abstract Petals: Sogetsu Ikebana Expressions</strong>
+<br>Floral Demonstration by Pandora Ip
+<br>Ikebana International Singapore Chapter 135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.00pm - 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Centrepiece Workshop (Pre-Registered)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.15pm - 7.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Centrepiece Workshop (Pre-Registered)</p>
 </td>
 </tr>
 </tbody>
