@@ -14,3 +14,5 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: SGF Prelude (14 - 17 Mar 2024)
+    collection: sgf-prelude
