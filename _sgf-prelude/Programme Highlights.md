@@ -157,7 +157,7 @@ description: ""
 <p>12.00pm - 12.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>An Enchanting Tropical Rainforest</strong>
+<p><strong>An Enchanting Tropical Rainforest</strong> 
 <br>Floral Demonstration by Diana Tung
 <br>Floral Designers Society Singapore</p>
 </td>
@@ -167,7 +167,7 @@ description: ""
 <p>1.00pm - 1.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Oh! Really?</strong>
+<p><strong>Oh! Really?</strong> 
 <br>Floral Demonstration by Keith Lin</p>
 </td>
 </tr>
@@ -176,7 +176,7 @@ description: ""
 <p>2.00pm - 2.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Abstract Petals: Sogetsu Ikebana Expressions</strong>
+<p><strong>Abstract Petals: Sogetsu Ikebana Expressions</strong> 
 <br>Floral Demonstration by Pandora Ip
 <br>Ikebana International Singapore Chapter 135</p>
 </td>
