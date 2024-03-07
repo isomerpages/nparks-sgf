@@ -4,6 +4,9 @@ permalink: /sgf-prelude/programme/
 variant: tiptap
 description: ""
 ---
+<p>Experience the beauty of floral demonstrations and engaging talks by joining
+us in these free activities!</p>
+<p></p>
 <h4><strong>14 March 2024 (Thursday)</strong></h4>
 <table>
 <tbody>
@@ -311,4 +314,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Listing is accurate at time of posting. Activities are free to attend.</p>
+<p><em>The listing is accurate at the time of posting but may be subject to changes.</em>
+</p>
