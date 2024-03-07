@@ -45,7 +45,7 @@ description: ""
 <p>3.00pm - 3.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Plastic Flower Shrink Art</strong>
+<p><strong>Plastic Flower Shrink Art</strong> 
 <br>Craft Demonstration by Grace Lau
 <br>Ducks N Crafts</p>
 </td>
@@ -55,7 +55,7 @@ description: ""
 <p>4.00pm - 4.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Paper Flower Making</strong>
+<p><strong>Paper Flower Making</strong> 
 <br>Craft Demonstration by Grace Lau
 <br>Ducks N Crafts</p>
 </td>
@@ -156,10 +156,32 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3.00pm - 3.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Importance of Bee-ing Pollinators</strong>
+</p>
+<p>Talk by Noelani Waters</p>
+<p>Comvita</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.00pm - 4.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Paper Flower Making</strong>
+</p>
+<p>Craft Demonstration by Grace Lau</p>
+<p>Ducks N Crafts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5.00pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Headpiece Workshop (Pre-Registered)</p>
+<p>Floral Headpiece Workshop (Registration has closed)</p>
 </td>
 </tr>
 <tr>
@@ -167,7 +189,7 @@ description: ""
 <p>6.15pm - 7.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Headpiece Workshop (Pre-Registered)</p>
+<p>Floral Headpiece Workshop (Registration has closed)</p>
 </td>
 </tr>
 </tbody>
@@ -206,10 +228,31 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3.00pm - 3.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Plastic Flower Shrink Art</strong> 
+<br>Craft Demonstration by Grace Lau
+<br>Ducks N Crafts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.00pm - 4.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Paper Flower Making</strong>
+</p>
+<p>Craft Demonstration by Grace Lau</p>
+<p>Ducks N Crafts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5.00pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Centrepiece Workshop (Pre-Registered)</p>
+<p>Floral Centrepiece Workshop (Registration has closed)</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +260,7 @@ description: ""
 <p>6.15pm - 7.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Centrepiece Workshop (Pre-Registered)</p>
+<p>Floral Centrepiece Workshop (Registration has closed)</p>
 </td>
 </tr>
 </tbody>
