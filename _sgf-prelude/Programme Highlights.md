@@ -42,6 +42,26 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3.00pm - 3.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Plastic Flower Shrink Art</strong>
+<br>Craft Demonstration by Grace Lau
+<br>Ducks N Crafts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.00pm - 4.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Paper Flower Making</strong>
+<br>Craft Demonstration by Grace Lau
+<br>Ducks N Crafts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5.00pm - 5.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
