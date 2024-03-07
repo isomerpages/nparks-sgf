@@ -149,7 +149,7 @@ description: ""
 <br>Talk by Lim Keow Wah
 <br>Singapore Penjing &amp; Stone Appreciation Society
 <br>
-<br><em>Join us for an insightful journey as we uncover the essential techniques, care tips, and the meditative joy of cultivating tropical bonsai. From the vibrant Ficus to the elegant baeckea tree, tropical bonsai offers a rich tapestry of colours, textures, and forms, making this art form a truly captivating endeavour. This engaging session will provide a unique opportunity to explore the art of cultivating and nurturing miniature trees, with a specific focus on the diverse and captivating realm of tropical bonsai.</em>
+<br><em>Join us for an insightful journey as we uncover the essential techniques, care tips, and the meditative joy of cultivating tropical bonsai. From the vibrant Ficus to the elegant baeckea tree, tropical bonsai offers a rich tapestry of colours, textures, and forms, making this art form a truly captivating endeavour. This engaging session will provide a unique opportunity to explore the art of cultivating and nurturing miniature trees, with a specific focus on the diverse and captivating realm of tropical bonsai.</em> 
 <br>
 </p>
 </td>
@@ -187,7 +187,7 @@ description: ""
 <p>3.00pm - 3.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>The Importance of Bee-ing Pollinators</strong>
+<p><strong>The Importance of Bee-ing Pollinators</strong> 
 <br>Talk by Noelani Waters
 <br>Comvita
 <br>
@@ -200,9 +200,12 @@ description: ""
 <p>4.00pm - 4.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Paper Flower Making</strong>
+<p><strong>Paper Flower Making</strong> 
 <br>Craft Demonstration by Grace Lau
-<br>Ducks N Crafts</p>
+<br>Ducks N Crafts
+<br>
+<br><em>Craft blooms that never fade, bring home a flower of your choice today with paper flower making or shrink art.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +236,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>An Enchanting Tropical Rainforest</strong> 
 <br>Floral Demonstration by Diana Tung
-<br>Floral Designers Society Singapore</p>
+<br>Floral Designers Society Singapore
+<br>
+<br><em>Tropical flowers are often called “exotic” and never fail to provide a unique wow factor, given their vibrant colours, shapes and textures. Using nature and tropical rainforests as inspiration to create unique, modern and chic floral displays in the form of leaf, flower, rainbow and cloud shaped structures with wiring techniques for festive celebrations or any other occasions.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -242,7 +248,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Oh! Really?</strong> 
-<br>Floral Demonstration by Keith Lin</p>
+<br>Floral Demonstration by Keith Lin
+<br>
+<br><em>Welcome everyone, to a world where creativity knows no bounds! Get Ready to embark on a journey of whimsy and wonder as we explore the endless possibilities of out-of-the-box materials in our arrangements. Let's dive in and create some magic together!&nbsp;</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +261,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Abstract Petals: Sogetsu Ikebana Expressions</strong> 
 <br>Floral Demonstration by Pandora Ip
-<br>Ikebana International Singapore Chapter 135</p>
+<br>Ikebana International Singapore Chapter 135
+<br>
+<br><em>Join us and discover about the different expressions of Sogetsu Ikebana.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +274,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Plastic Flower Shrink Art</strong> 
 <br>Craft Demonstration by Grace Lau
-<br>Ducks N Crafts</p>
+<br>Ducks N Crafts
+<br>
+<br><em>Craft blooms that never fade, bring home a flower of your choice today with paper flower making or shrink art.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +288,10 @@ description: ""
 <p><strong>Paper Flower Making</strong>
 </p>
 <p>Craft Demonstration by Grace Lau</p>
-<p>Ducks N Crafts</p>
+<p>Ducks N Crafts
+<br>
+<br><em>Craft blooms that never fade, bring home a flower of your choice today with paper flower making or shrink art.</em>
+</p>
 </td>
 </tr>
 <tr>
