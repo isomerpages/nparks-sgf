@@ -15,7 +15,7 @@ description: ""
 <p><strong>Flower of Life</strong> 
 <br>Floral Demonstration by Richard Mock
 <br>
-<br><em>Richard, an award-winning florist and a dedicated sound therapist, is passionate about creating beauty and fostering healing through nature and sound. With a unique blend of creativity and mental well-being expertise, he strives to bring joy, tranquility, and harmony to the lives of the clients Mind, Body &amp; Soul.</em>
+<br><em>Learn how to see and feel. We will realize that everything connects to everything else.</em>
 </p>
 </td>
 </tr>
@@ -27,7 +27,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Ikebana Today</strong> 
 <br>Floral Demonstration by Peggy Loh &amp; Anna Kwan
-<br>Ikebana International Singapore Chapter 135</p>
+<br>Ikebana International Singapore Chapter 135
+<br>
+<br><em>The art of Ikebana embodies the harmony between nature and human expression, offering a serene sanctuary in today's fast-paced society. By integrating contemporary elements and unconventional materials, Ikebana showcases its adaptability and innovation, continuing to captivate and inspire as a living art form that transcends time and culture.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +40,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Orchid Growing Essentials</strong> 
 <br>Talk by Jeremy Yeo
-<br>Singapore Botanic Gardens</p>
+<br>Singapore Botanic Gardens
+<br>
+<br><em>Discover essential tips for growing and flowering orchids well, including environmental factors, plant and media selection, and watering and fertilising regimes. Gain insights from the speaker's experience in cultivating various orchids like Dendrobium, Cattleya, and Phalaenopsis in a high-rise building environment, equipping you with practical knowledge to kickstart your orchid growing journey.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +53,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Plastic Flower Shrink Art</strong> 
 <br>Craft Demonstration by Grace Lau
-<br>Ducks N Crafts</p>
+<br>Ducks N Crafts
+<br>
+<br><em>Craft blooms that never fade, bring home a flower of your choice today with paper flower making or shrink art.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +66,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Paper Flower Making</strong> 
 <br>Craft Demonstration by Grace Lau
-<br>Ducks N Crafts</p>
+<br>Ducks N Crafts
+<br>
+<br><em>Craft blooms that never fade, bring home a flower of your choice today with paper flower making or shrink art.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +79,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Fun with Preserved Flowers</strong> 
 <br>Floral Demonstration by Lee Kuan Yi
-<br>Raffles International Floristry Academy (RIFA)</p>
+<br>Raffles International Floristry Academy (RIFA)
+<br>
+<br><em>Learn about the tools and techniques for creating and care for preserve floral arrangement,</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +92,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Colourful World of Bromeliads</strong> 
 <br>Talk by Darren Ng
-<br>Community in Bloom</p>
+<br>Community in Bloom
+<br>
+<br><em>Join us for an exploration of the captivating world of bromeliads. Learn about the types of bromeliads, their basic cultivation requirements and how you can display them in your own home.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -129,7 +147,11 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Tropical Bonsai</strong> 
 <br>Talk by Lim Keow Wah
-<br>Singapore Penjing &amp; Stone Appreciation Society</p>
+<br>Singapore Penjing &amp; Stone Appreciation Society
+<br>
+<br><em>Join us for an insightful journey as we uncover the essential techniques, care tips, and the meditative joy of cultivating tropical bonsai. From the vibrant Ficus to the elegant baeckea tree, tropical bonsai offers a rich tapestry of colours, textures, and forms, making this art form a truly captivating endeavour. This engaging session will provide a unique opportunity to explore the art of cultivating and nurturing miniature trees, with a specific focus on the diverse and captivating realm of tropical bonsai.</em>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +162,10 @@ description: ""
 <p><strong>Versatile Tropics: A Four-Season Glory</strong> 
 <br>Floral Demonstration by
 <br>Ta Quynh Giang
-<br>Floral Designers Society Singapore</p>
+<br>Floral Designers Society Singapore
+<br>
+<br><em>Discover the timeless allure of tropical flowers and foliage, showcased in floral designs that infuse the essence of all four seasons with a tropical flair.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +176,10 @@ description: ""
 <p><strong>Repurposed, Reused, Reimagined</strong> 
 <br>Floral Demonstration by
 <br>Zoe Kuek &amp; Jun Lim
-<br>Nobleman School of Floral Design</p>
+<br>Nobleman School of Floral Design
+<br>
+<br><em>Join us for an inspiring demonstration celebrating the art of upcycling! In just 45 minutes, we'll unveil the secrets of transforming everyday materials into stunning treasures. Discover how we can reimagine bottles, cans, tins, and plastic bottles, infusing them with new purpose while championing nature and sustainability. Let's come together to ignite change and create a brighter, greener future through our imaginative innovations!</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -160,9 +188,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>The Importance of Bee-ing Pollinators</strong>
+<br>Talk by Noelani Waters
+<br>Comvita
+<br>
+<br><em>Find out why bees are so important in the relationship with plants, the various types of bees in Singapore, as well as what happens inside a beehive and the role of Comvita as “kaitiaki” or guardians of bee welfare.</em>
 </p>
-<p>Talk by Noelani Waters</p>
-<p>Comvita</p>
 </td>
 </tr>
 <tr>
@@ -171,9 +201,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Paper Flower Making</strong>
-</p>
-<p>Craft Demonstration by Grace Lau</p>
-<p>Ducks N Crafts</p>
+<br>Craft Demonstration by Grace Lau
+<br>Ducks N Crafts</p>
 </td>
 </tr>
 <tr>
