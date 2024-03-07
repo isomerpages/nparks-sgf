@@ -84,7 +84,7 @@ us in these free activities!</p>
 <br>Floral Demonstration by Lee Kuan Yi
 <br>Raffles International Floristry Academy (RIFA)
 <br>
-<br><em>Learn about the tools and techniques for creating and care for preserve floral arrangement,</em>
+<br><em>Learn about the tools and techniques for creating and caring for preserved floral arrangements.</em>
 </p>
 </td>
 </tr>
