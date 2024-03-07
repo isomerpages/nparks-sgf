@@ -13,7 +13,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Flower of Life</strong> 
-<br>Floral Demonstration by Richard Mock</p>
+<br>Floral Demonstration by Richard Mock
+<br>
+<br><em>Richard, an award-winning florist and a dedicated sound therapist, is passionate about creating beauty and fostering healing through nature and sound. With a unique blend of creativity and mental well-being expertise, he strives to bring joy, tranquility, and harmony to the lives of the clients Mind, Body &amp; Soul.</em>
+</p>
 </td>
 </tr>
 <tr>
