@@ -4,10 +4,9 @@ permalink: /sgf-prelude/marketplace/
 variant: tiptap
 description: ""
 ---
-<p>Indulge in a delightful shopping experience at our MarketPlace, where
-you'll find an extensive range of lifestyle products tailored to gardening
-enthusiasts. Explore a diverse selection of gardening tools, equipment,
-and other essentials to elevate your gardening experience.</p>
+<p>Indulge in a delightful shopping experience at the MarketPlace, where
+you will find an extensive range of lifestyle products tailored for gardening
+enthusiasts such as gardening tools, equipment, and other essentials.</p>
 <p></p>
 <p>Check out these participating vendors:</p>
 <table>
