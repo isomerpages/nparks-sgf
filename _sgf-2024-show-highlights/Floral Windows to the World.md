@@ -15,7 +15,8 @@ concept and will be renamed Floral Windows to the World Championship. For
 this new edition, the National Parks Board is calling for international
 floral designers to compete in the Championship. Interested floral designers
 are welcome to submit their application by 22 March 2024, Friday. For more
-information, you may download the competition kit <a href="/files/SGF2024_Floral_Windows_to_the_World_Championship_Registration_Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+information, you may download the competition kit <a href="/files/SGF2024_Floral_Windows_to_the_World_Championship_Registration_Kitv2.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
