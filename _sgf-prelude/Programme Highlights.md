@@ -286,9 +286,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Paper Flower Making</strong>
-</p>
-<p>Craft Demonstration by Grace Lau</p>
-<p>Ducks N Crafts
+<br>Craft Demonstration by Grace Lau
+<br>Ducks N Crafts
 <br>
 <br><em>Craft blooms that never fade, bring home a flower of your choice today with paper flower making or shrink art.</em>
 </p>
