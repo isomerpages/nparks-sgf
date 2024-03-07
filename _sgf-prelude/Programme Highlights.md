@@ -285,7 +285,7 @@ description: ""
 <p>4.00pm - 4.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Paper Flower Making</strong>
+<p><strong>Paper Flower Making</strong> 
 <br>Craft Demonstration by Grace Lau
 <br>Ducks N Crafts
 <br>
