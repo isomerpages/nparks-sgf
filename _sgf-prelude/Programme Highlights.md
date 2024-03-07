@@ -311,4 +311,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Listing is accurate at time of posting. Activities are free to attend.</p>
