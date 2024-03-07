@@ -253,7 +253,7 @@ us in these free activities!</p>
 <p><strong>Oh! Really?</strong> 
 <br>Floral Demonstration by Keith Lin
 <br>
-<br><em>Welcome everyone, to a world where creativity knows no bounds! Get Ready to embark on a journey of whimsy and wonder as we explore the endless possibilities of out-of-the-box materials in our arrangements. Let's dive in and create some magic together!&nbsp;</em>
+<br><em>Welcome everyone, to a world where creativity knows no bounds! Get ready to embark on a journey of whimsy and wonder as we explore the endless possibilities of out-of-the-box materials in our arrangements. Let's dive in and create some magic together!&nbsp;</em>
 </p>
 </td>
 </tr>
