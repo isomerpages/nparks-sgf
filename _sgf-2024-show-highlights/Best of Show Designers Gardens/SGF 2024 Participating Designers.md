@@ -83,7 +83,8 @@ graduated with a degree in Ornamental Horticulture in 2000 when the company
 began. From initial concept to creation and construction, the two tailor
 each design with their shared understanding and desire to expand the boundaries
 of landscape design.</p>
-<p></p>
+<p>Local implementing partner: <a href="https://shop.banneechen.com.sg" rel="noopener noreferrer nofollow" target="_blank">Ban Nee Chen Pte Ltd</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ishihara" src="/images/SGF 2024/Ishihara.jpg">
@@ -98,3 +99,7 @@ at the Chelsea Flower Show. Kazuyuki Ishihara was once praised as the "green
 magician" by Queen Elizabeth. He has produced numerous works with rich
 design and solid construction technology that have been recognized around
 the world.</p>
+<p><strong>Local implementing partner:</strong>  <a href="https://www.princelandscape.com/" rel="noopener noreferrer nofollow" target="_blank">Prince’s Landscape Pte Ltd</a>
+</p>
+<p></p>
+<p></p>
