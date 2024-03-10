@@ -2,9 +2,9 @@ collections:
   sgf-2024-show-highlights:
     output: true
     order:
-      - Best of Show Designers Gardens/Past Show Gardens.md
-      - Best of Show Designers Gardens/Best of Show Designer Gardens.md
       - Best of Show Designers Gardens/.keep
+      - Best of Show Designers Gardens/Best of Show Designer Gardens.md
+      - Best of Show Designers Gardens/Past Show Gardens.md
       - Floral Windows to the World.md
       - Balcony Gardens.md
       - Floral Table Top.md
