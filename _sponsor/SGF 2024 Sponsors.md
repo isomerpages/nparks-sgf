@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGF 2024 Sponsors" src="/images/sponsors_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sponsors" src="/images/SGF 2024/sponsors_2024.jpg">
 </div>
 <p>Want to be part of SGF 2024? Join us in creating a vibrant and memorable
 experience for all our visitors while gaining valuable exposure for your
