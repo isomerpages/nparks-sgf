@@ -30,7 +30,8 @@ leadership and creative vision have delivered exceptional greenery works,
 transforming urban spaces into vibrant, eco-friendly environments. He is
 behind integrating nature into interior and architectural designs, advocating
 for sustainable practices that harmonise with the environment.</p>
-<p></p>
+<p><strong>Local implementing partner: <a href="https://www.verticalgreen.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Vertical Green Pte Ltd</a></strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hu Shiyang" src="/images/SGF 2024/Shiyang.jpg">
@@ -42,7 +43,8 @@ and design with a focus on space, culture, and activities. Guided by unique
 and enhance quality of culture through landscape design, spatial design,
 exhibition curation, and city branding. They provide professional spatial
 design solutions for institutions, the public, and individuals alike.</p>
-<p></p>
+<p><strong>Local implementing partner: <a href="https://www.sweebee.sg/" rel="noopener noreferrer nofollow" target="_blank">Swee Bee Contractor Pte Ltd</a></strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sanitas" src="/images/SGF 2024/Sanitas.jpg">
@@ -56,7 +58,8 @@ has produced numerous award-winning art installations, landscape projects
 and sculptural works. Not only do they break the boundaries between architecture
 and fine art, they also push for sustainability, by encouraging people
 to question their relationship with and responsibility to the earth.</p>
-<p></p>
+<p><strong>Local implementing partner: <a href="https://lawrencelandscape.net/" rel="noopener noreferrer nofollow" target="_blank">Lawrence Landscape &amp; Construction Pte Ltd</a></strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Leon Kluge" src="/images/SGF 2024/Leon.jpg">
@@ -69,7 +72,8 @@ including Gold, Best of Show and the Horticulture Excellence Award in the
 Fantasy Garden category at SGF in 2018. Leon is known for his modern and
 contemporary landscapes, sustainable community projects and his specialisation
 in vertical gardens.</p>
-<p></p>
+<p><strong>Local implementing partner: <a href="https://www.tropicplanners.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Tropic Planners &amp; Landscape Pte Ltd</a></strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jules Moore" src="/images/SGF 2024/Jules.jpg">
