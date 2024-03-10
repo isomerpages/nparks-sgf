@@ -4,7 +4,7 @@ permalink: /tickets/
 variant: tiptap
 description: ""
 ---
-<h4>Get your tickets today at <a rel="noopener noreferrer nofollow" target="_blank">SISTIC!</a></h4>
+<h4>Book your tickets today at <a href="https://www.sistic.com.sg/events/sgf2024" rel="noopener noreferrer nofollow" target="_blank">SISTIC</a>!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ticket Pricing" src="/images/ticketpricing.jpg">
 </div>
