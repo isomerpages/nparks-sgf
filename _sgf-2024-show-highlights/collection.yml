@@ -2,9 +2,9 @@ collections:
   sgf-2024-show-highlights:
     output: true
     order:
-      - Balcony Gardens/Example Title.md
-      - Balcony Gardens/Balcony Gardens.md
       - Balcony Gardens/.keep
+      - Balcony Gardens/Balcony Gardens.md
+      - Balcony Gardens/Example Title.md
       - Best of Show Designers Gardens/.keep
       - Best of Show Designers Gardens/About the Competition.md
       - Best of Show Designers Gardens/SGF 2024 Landscape Gardens.md
