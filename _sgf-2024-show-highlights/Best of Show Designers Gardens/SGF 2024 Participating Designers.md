@@ -23,7 +23,7 @@ at Suntec Singapore Convention and Exhibition Centre, Level 6, where designers
 will showcase their stunning curations that reflect their creativity, styles
 and countries.</p>
 <p></p>
-<p>Landscape Gardens Designers and Implementing Partners</p>
+<h3>Landscape Gardens Designers and Implementing Partners</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Eliam Eng and Andy Eng" src="/images/SGF 2024/ElaimAndy.jpg">
@@ -41,7 +41,8 @@ of the Singapore Institute of Landscape Architects (SILA).</p>
 Singapore Changi Airport, commercial buildings and festive season floral
 setups. As a Project Director, he leads a vibrant team of designers and
 staff in the firm.</p>
-<p></p>
+<p>Local implementing partner: <a href="https://www.nyeephoe.com/" rel="noopener noreferrer nofollow" target="_blank">Nyee Phoe Flower Garden Pte Ltd</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chin and Libby" src="/images/SGF 2024/ChinLibby.jpg">
@@ -67,3 +68,5 @@ projects in Singapore, including clinching the Landscape Industry Association
 (Singapore)’s ‘LIAS Best of Category for Implementation 2017’ and various
 awards by the Singapore Institute of Landscape Architects. She has also
 been instrumental in achieving BCA Green Mark Platinum Awards for her projects.</p>
+<p>Local implementing partner: <a href="https://www.maosheng.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Mao Sheng Quanji Construction Pte Ltd</a>
+</p>
