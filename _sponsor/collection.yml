@@ -2,6 +2,7 @@ collections:
   sponsor:
     output: true
     order:
+      - SGF 2024 Sponsors.md
       - Be Our Sponsor.md
       - SGF 2022 Sponsors.md
       - SGF 2018 Sponsors.md
