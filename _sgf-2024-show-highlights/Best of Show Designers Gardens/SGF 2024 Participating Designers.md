@@ -70,3 +70,31 @@ awards by the Singapore Institute of Landscape Architects. She has also
 been instrumental in achieving BCA Green Mark Platinum Awards for her projects.</p>
 <p>Local implementing partner: <a href="https://www.maosheng.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Mao Sheng Quanji Construction Pte Ltd</a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mark and Emily Cook" src="/images/SGF 2024/MarkEmily.jpg">
+</div>
+<p><strong>EMILY COOK &amp; MARK COOK (USA) </strong>have been the owners
+of Mark Cook Landscape &amp; Contracting for 23 years. They are known for
+their innovative designs involving a varied pallet in horticulture combined
+with artistic architecture. Mark, both a landscape designer and an artist,
+graduated with a degree in Ornamental Horticulture in 2000 when the company
+began. From initial concept to creation and construction, the two tailor
+each design with their shared understanding and desire to expand the boundaries
+of landscape design.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ishihara" src="/images/SGF 2024/Ishihara.jpg">
+</div>
+<p><strong>KAZUYUKI ISHIHARA (JAPAN) </strong>entered Ikenobo, the mainstream
+school of flower arranging at the age of 22. Since then, he has been fascinated
+by flowers and greenery, and started selling flowers on the street, opening
+a store, and then building a garden. His unique worldview using moss in
+his garden was highly praised at the Chelsea Flower Show, the most prestigious
+international flower show. To date, he has won a total of 11 gold medals
+at the Chelsea Flower Show. Kazuyuki Ishihara was once praised as the "green
+magician" by Queen Elizabeth. He has produced numerous works with rich
+design and solid construction technology that have been recognized around
+the world.</p>
