@@ -2,14 +2,14 @@ collections:
   sgf-2024-show-highlights:
     output: true
     order:
-      - Balcony Gardens/.keep
-      - Balcony Gardens/SGF 2024 Balcony Gardens Designers.md
-      - Balcony Gardens/Past Balcony Gardens.md
       - Best of Show Designers Gardens/.keep
       - Best of Show Designers Gardens/About the Competition.md
       - Best of Show Designers Gardens/SGF 2024 Landscape Gardens.md
       - Best of Show Designers Gardens/SGF 2024 Fantasy Gardens.md
       - Best of Show Designers Gardens/Past Show Gardens.md
       - Floral Windows to the World.md
+      - Balcony Gardens/.keep
+      - Balcony Gardens/SGF 2024 Balcony Gardens Designers.md
+      - Balcony Gardens/Past Balcony Gardens.md
       - Floral Table Top.md
       - MarketPlace.md
