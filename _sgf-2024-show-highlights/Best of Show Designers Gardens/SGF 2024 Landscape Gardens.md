@@ -23,8 +23,9 @@ of the Singapore Institute of Landscape Architects (SILA).</p>
 Singapore Changi Airport, commercial buildings and festive season floral
 setups. As a Project Director, he leads a vibrant team of designers and
 staff in the firm.</p>
-<p>Local implementing partner: <a href="https://www.nyeephoe.com/" rel="noopener noreferrer nofollow" target="_blank">Nyee Phoe Flower Garden Pte Ltd</a>
+<p><strong>Local implementing partner: <a href="https://www.nyeephoe.com/" rel="noopener noreferrer nofollow" target="_blank">Nyee Phoe Flower Garden Pte Ltd</a></strong>
 </p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chin and Libby" src="/images/SGF 2024/ChinLibby.jpg">
@@ -52,6 +53,7 @@ awards by the Singapore Institute of Landscape Architects. She has also
 been instrumental in achieving BCA Green Mark Platinum Awards for her projects.</p>
 <p><strong>Local implementing partner: <a href="https://www.maosheng.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Mao Sheng Quanji Construction Pte Ltd</a></strong>
 </p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mark and Emily Cook" src="/images/SGF 2024/MarkEmily.jpg">
@@ -66,6 +68,7 @@ each design with their shared understanding and desire to expand the boundaries
 of landscape design.</p>
 <p><strong>Local implementing partner: <a href="https://shop.banneechen.com.sg" rel="noopener noreferrer nofollow" target="_blank">Ban Nee Chen Pte Ltd</a></strong>
 </p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ishihara" src="/images/SGF 2024/Ishihara.jpg">
@@ -82,6 +85,7 @@ design and solid construction technology that have been recognized around
 the world.</p>
 <p><strong>Local implementing partner:</strong>  <a href="https://www.princelandscape.com/" rel="noopener noreferrer nofollow" target="_blank">Prince’s Landscape Pte Ltd</a>
 </p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ann Teo" src="/images/SGF 2024/AnnTeo.jpg">
@@ -97,6 +101,7 @@ knowledge to a wide spectrum that transcends the traditional boundaries
 of Landscape Architecture.</p>
 <p><strong>Local implementing partner: <a href="https://teckhenglandscape.com/" rel="noopener noreferrer nofollow" target="_blank">Teck Heng Landscape &amp; Construction Pte Ltd</a></strong>
 </p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Alan Rudden" src="/images/SGF 2024/AlanRudden.jpg">
