@@ -24,12 +24,14 @@ will showcase their stunning curations that reflect their creativity, styles
 and countries.</p>
 <p></p>
 <p>Landscape Gardens Designers and Implementing Partners</p>
+<p></p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Eliam and Andy Eng" src="/images/SGF 2024/ElaimAndy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGF 2024/ElaimAndy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
