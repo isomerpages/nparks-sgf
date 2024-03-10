@@ -53,7 +53,6 @@ been instrumental in achieving BCA Green Mark Platinum Awards for her projects.<
 <p><strong>Local implementing partner: <a href="https://www.maosheng.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Mao Sheng Quanji Construction Pte Ltd</a></strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mark and Emily Cook" src="/images/SGF 2024/MarkEmily.jpg">
 </div>
@@ -83,7 +82,6 @@ design and solid construction technology that have been recognized around
 the world.</p>
 <p><strong>Local implementing partner:</strong>  <a href="https://www.princelandscape.com/" rel="noopener noreferrer nofollow" target="_blank">Prince’s Landscape Pte Ltd</a>
 </p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ann Teo" src="/images/SGF 2024/AnnTeo.jpg">
