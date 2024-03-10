@@ -83,7 +83,8 @@ level. Her designs are supported by a strong practical background in building
 and construction, as well as extensive horticultural experience. Jules
 has propagated many of her own plants having owned and operated three nurseries.
 She is one of the top designers in her field.</p>
-<p></p>
+<p><strong>Local implementing partner: <a href="https://limelite-productions.com/" rel="noopener noreferrer nofollow" target="_blank">Limelite Productions Pte Ltd</a></strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jihae Hwang" src="/images/SGF 2024/Jihae.jpg">
