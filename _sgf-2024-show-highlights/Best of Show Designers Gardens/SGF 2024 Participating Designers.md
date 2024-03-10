@@ -23,3 +23,64 @@ at Suntec Singapore Convention and Exhibition Centre, Level 6, where designers
 will showcase their stunning curations that reflect their creativity, styles
 and countries.</p>
 <p></p>
+<p>Landscape Gardens Designers and Implementing Partners</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Eliam and Andy Eng" src="/images/SGF 2024/ElaimAndy.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELIAM ENG &amp; ANDY ENG (SINGAPORE) are returning winners of SGF, after
+winning Gold, Best of Show and the Best Construction Award in 2022. They
+are both from <a href="https://www.nyeephoe.com/" rel="noopener noreferrer nofollow" target="_blank">Nyee Phoe Flower Garden</a>,
+a landscape architecture company that celebrated its 112th anniversary
+in 2023. Eliam has over 41 years of experience in landscape architecture
+and construction including local and international projects ranging from
+residential and commercial spaces to urban development. Eliam is also an
+affiliate member of the Singapore Institute of Landscape Architects (SILA).</p>
+<p>&nbsp;</p>
+<p>Andy’s experience in the landscape and horticultural industry spans over
+20 years. His portfolio include private residences, condominiums, hotels,
+Singapore Changi Airport, commercial buildings and festive season floral
+setups. As a Project Director, he leads a vibrant team of designers and
+staff in the firm.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
