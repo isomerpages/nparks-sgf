@@ -42,9 +42,9 @@ a landscape architecture company that celebrated its 112th anniversary
 in 2023. Eliam has over 41 years of experience in landscape architecture
 and construction including local and international projects ranging from
 residential and commercial spaces to urban development. Eliam is also an
-affiliate member of the Singapore Institute of Landscape Architects (SILA).</p>
-<p>&nbsp;</p>
-<p>Andy’s experience in the landscape and horticultural industry spans over
+affiliate member of the Singapore Institute of Landscape Architects (SILA).
+<br>
+<br>Andy’s experience in the landscape and horticultural industry spans over
 20 years. His portfolio include private residences, condominiums, hotels,
 Singapore Changi Airport, commercial buildings and festive season floral
 setups. As a Project Director, he leads a vibrant team of designers and
