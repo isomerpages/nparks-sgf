@@ -27,4 +27,7 @@ enjoy the exclusive rates!</p>
 <img style="width: 50%;" height="auto" width="100%" alt="Pan Pacific Driveway" src="/images/SGF 2024/Pan_Pacific_Singapore___Driveway_01.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Atrium" src="/images/SGF 2024/Pan_Pacific_Singapore___Atrium_Lounge___Pods_01.jpg">
+</div>
 <p></p>
