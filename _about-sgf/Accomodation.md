@@ -4,8 +4,8 @@ permalink: /about-sgf/accomodation/
 variant: tiptap
 description: ""
 ---
-<p>Singapore Garden Festival 2024 is thrilled to announce Pan Pacific Singapore
-as our Official Hotel Partner.</p>
+<p>Singapore Garden Festival 2024 is thrilled to announce <a href="https://www.panpacific.com/en/hotels-and-resorts/pp-marina.html" rel="noopener noreferrer nofollow" target="_blank">Pan Pacific Singapore</a> as
+our Official Hotel Partner.</p>
 <p>
 <br>This collaboration offers exclusive rates to our valued visitors during
 their visit to the festival. We take great pride in working with the Pan
@@ -26,7 +26,4 @@ enjoy the exclusive rates!</p>
 <img style="width: 50%;" height="auto" width="100%" alt="Pan Pacific Driveway" src="/images/SGF 2024/Pan_Pacific_Singapore___Driveway_01.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Atrium Pods" src="/images/SGF 2024/Pan_Pacific_Singapore___Atrium_Lounge___Pods_01.jpg">
-</div>
 <p></p>
