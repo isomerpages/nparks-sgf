@@ -2,6 +2,7 @@ collections:
   about-sgf:
     output: true
     order:
+      - Accomodation.md
       - Show Info.md
       - Show Venue.md
       - Getting Here.md
