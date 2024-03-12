@@ -13,7 +13,7 @@ third_nav_title: Best of Show Designers Gardens
 <p><strong>ERIN ANGELA BRIDGET YAP &amp; GLICERIO E. GALAC JR (SINGAPORE) </strong>will
 be pairing up at SGF 2024. Erin Yap is a dynamic landscape architect with
 eight years of experience spanning the Philippines and Singapore. As a
-Senior Landscape Designer at Vertical Green Pte Ltd in Singapore, she collaborated
+Senior Landscape Designer at Vertical Green Pte Ltd in Singapore, she collaborates
 closely with Glicerio Galac, leading innovative projects focused on vertical
 walls, urban greenery, and landscape design. With a foundation of five
 years in the diverse terrains of the Philippines, Erin seamlessly blended
