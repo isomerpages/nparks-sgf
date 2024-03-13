@@ -22,15 +22,6 @@ sections:
         from 3 – 11 August at Suntec Singapore!
       button: More info
       url: /plan-your-visit/show-info
-  - infopic:
-      title: Mark Pampling
-      subtitle: Sgf Master series
-      id: infopic
-      description: 16 March 2024, Saturday
-      button: sign up now
-      image: /images/SGF_Master_Class_Poster_cropped.jpg
-      alt: Banner
-      url: https://sgf.nparks.gov.sg/masterseries-mark
   - textcards:
       title: SGF 2024 Show Highlights
       id: textcards
