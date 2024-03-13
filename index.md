@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/herobanner.jpg
+      background: /images/SGF2024_website.jpg
       url: /contact-us/
       title: Singapore Garden Festival 2024
       subtitle: <b>Suntec Singapore</b><br><b>3 - 11 August 2024</b>
