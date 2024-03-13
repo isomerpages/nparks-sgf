@@ -93,7 +93,7 @@ us in these free activities!</p>
 <p>6.00pm - 6.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Colourful World of Bromeliads</strong> 
+<p><strong>Wonderful World of Bromeliads</strong> 
 <br>Talk by Darren Ng
 <br>Community in Bloom
 <br>
@@ -178,7 +178,7 @@ us in these free activities!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Repurposed, Reused, Reimagined</strong> 
 <br>Floral Demonstration by
-<br>Zoe Kuek &amp; Jun Lim
+<br>Jun Lim
 <br>Nobleman School of Floral Design
 <br>
 <br><em>Join us for an inspiring demonstration celebrating the art of upcycling! In just 45 minutes, we'll unveil the secrets of transforming everyday materials into stunning treasures. Discover how we can reimagine bottles, cans, tins, and plastic bottles, infusing them with new purpose while championing nature and sustainability. Let's come together to ignite change and create a brighter, greener future through our imaginative innovations!</em>
