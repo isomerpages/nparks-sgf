@@ -12,7 +12,7 @@ of gardening-related lifestyle products and decor during our 4-day Prelude
 event at Takashimaya Square B2.</p>
 <p></p>
 <p>14 – 17 March 2024
-<br>10am - 9.30pm
+<br>10.00am - 9.30pm
 <br>Takashimaya Square B2
 <br>
 </p>
