@@ -30,7 +30,7 @@ sections:
           description: Featuring gardens created by top local & international
             award-winning designers.
           linktext: Learn more
-          url: https://sgf.nparks.gov.sg/sgf-2024-show-highlights/showgardens/
+          url: https://sgf.nparks.gov.sg/sgf-2024-show-highlights/best-of-show-designers-gardens/about/
         - title: Floral Windows to the World
           description: Admire the enchanting displays of beautiful flowers.
           linktext: Learn more
