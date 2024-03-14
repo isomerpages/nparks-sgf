@@ -17,7 +17,7 @@ event at Takashimaya Square B2.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="prelude" src="/images/organiser.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="prelude" src="/images/organiser.jpg">
 </div>
 <p>
 <br>
