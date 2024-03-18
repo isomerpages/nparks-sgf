@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Book your tickets today at <a href="https://www.sistic.com.sg/events/sgf2024" rel="noopener noreferrer nofollow" target="_blank">SISTIC</a>!</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ticketing Pricing" src="/images/ticketpricing.jpg">
 </div>
