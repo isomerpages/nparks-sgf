@@ -2,7 +2,7 @@ collections:
   sgf-2024-show-highlights:
     output: true
     order:
-      - Floral Windows to the World/Floral Windows to the World Championship.md
+      - Floral Windows to the World/About the competition.md
       - Floral Windows to the World/.keep
       - Best of Show Designers Gardens/.keep
       - Best of Show Designers Gardens/About the Competition.md
