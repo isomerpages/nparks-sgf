@@ -2,7 +2,6 @@ collections:
   sgf-2024-show-highlights:
     output: true
     order:
-      - Floral Windows to the World Championshipd.md
       - Best of Show Designers Gardens/.keep
       - Best of Show Designers Gardens/About the Competition.md
       - Best of Show Designers Gardens/SGF 2024 Landscape Gardens.md
