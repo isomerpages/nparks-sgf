@@ -2,9 +2,9 @@ collections:
   sgf-2024-show-highlights:
     output: true
     order:
-      - Floral Windows to the World/Tickets for Finals Dinner.md
-      - Floral Windows to the World/About the competition.md
       - Floral Windows to the World/.keep
+      - Floral Windows to the World/About the competition.md
+      - Floral Windows to the World/Tickets for Finals Dinner.md
       - Best of Show Designers Gardens/.keep
       - Best of Show Designers Gardens/About the Competition.md
       - Best of Show Designers Gardens/SGF 2024 Landscape Gardens.md
