@@ -8,6 +8,7 @@ third_nav_title: Floral Windows to the World
 <h4>Tickets for Floral Windows to the World Championship 2024 Finals Dinner</h4>
 <p><strong>Date:</strong> 5 August 2024, Monday
 <br><strong>Time:</strong> 6.00pm – 9.30pm
+<br><strong>Location:</strong> Suntec Level 6 Hospitality Pavilion
 <br><strong>Price:</strong> S$354 (Include admission to Show &amp; MarketPlace
 on 3-5 Aug)
 <br><strong>Dress code:</strong> Formal or Black-tie optional
