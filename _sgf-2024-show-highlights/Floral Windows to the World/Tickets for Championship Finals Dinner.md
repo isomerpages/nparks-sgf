@@ -9,7 +9,7 @@ third_nav_title: Floral Windows to the World
 <p><strong>📅 Date:</strong> 5 August 2024, Monday
 <br><strong>🕟 Time:</strong> 6.00pm – 9.30pm
 <br><strong>📍 Location:</strong> Suntec Level 6 Hospitality Pavilion
-<br>💲 <strong>Ticket:</strong> S$354 (Include admission to Show &amp; MarketPlace
+<br>💲 <strong>Ticket: </strong>S$354 (Include admission to Show &amp; MarketPlace
 on 3-5 Aug)
 <br>🧥 <strong>Dress code:</strong> Formal or Black-tie optional
 <br>🍴 <strong>Dietary options:</strong> Beef / Fish / Vegetarian / Gluten Free</p>
