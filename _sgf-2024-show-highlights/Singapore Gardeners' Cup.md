@@ -17,3 +17,11 @@ feature a variety of tropical plants with an emphasis on sustainability.&nbsp;</
 <img style="width: 100%" height="auto" width="100%" alt="SGC1" src="/images/SGF 2024/SGC1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SGC2" src="/images/SGF 2024/SGC2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SGC3" src="/images/SGF 2024/SGC3.jpg">
+</div>
+<p></p>
