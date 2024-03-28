@@ -33,5 +33,8 @@ feature a variety of tropical plants with an emphasis on sustainability.&nbsp;</
 </div>
 <p><strong>North East District: <em>‘Garden of Nectar’</em></strong>&nbsp;
 <br>Gold Award, Best of Show, Singapore Gardeners’ Cup 2022&nbsp;</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SGC5" src="/images/SGF 2024/SGC5.jpg">
+</div>
+<p><strong>South East District: ‘<em>Epiphyte Haven’</em></strong>&nbsp;
+<br>Silver Award, Singapore Gardeners’ Cup 2022&nbsp;</p>
