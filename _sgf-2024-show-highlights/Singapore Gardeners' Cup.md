@@ -11,9 +11,8 @@ the five districts in Singapore will partner staff from National Parks
 Board, landscape architects, and implementing partners to develop one show
 garden for each district. This year’s theme is ‘Botanical Fun’ and will
 feature a variety of tropical plants with an emphasis on sustainability.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGC4" src="/images/SGF 2024/SGC4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SGC5" src="/images/SGF 2024/SGC5.jpg">
 </div>
 <p><strong>North East District: <em>‘Garden of Nectar’</em></strong>&nbsp;
 <br>Best of Show and Gold Award, Singapore Gardeners’ Cup 2022&nbsp;</p>
@@ -33,7 +32,7 @@ feature a variety of tropical plants with an emphasis on sustainability.&nbsp;</
 <p><strong>North West District: <em>‘The Enchanted Fruit Forest’</em></strong>&nbsp;
 <br>Silver Award and Community Choice Award, Singapore Gardeners’ Cup 2022&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGC5" src="/images/SGF 2024/SGC5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SGC4" src="/images/SGF 2024/SGC4.jpg">
 </div>
 <p><strong>South East District: ‘<em>Epiphyte Haven’</em></strong>&nbsp;
 <br>Silver Award, Singapore Gardeners’ Cup 2022&nbsp;</p>
