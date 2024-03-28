@@ -27,7 +27,7 @@ feature a variety of tropical plants with an emphasis on sustainability.&nbsp;</
 <img style="width: 100%" height="auto" width="100%" alt="SGC3" src="/images/SGF 2024/SGC3.jpg">
 </div>
 <p><strong>South West District: ‘<em>The Dance of Dragonflies’</em></strong>&nbsp;
-<br>Gold Award, Best of Show, Singapore Gardeners’ Cup 2022&nbsp;</p>
+<br>Gold Award, Singapore Gardeners’ Cup 2022&nbsp;</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SGC2" src="/images/SGF 2024/SGC2.jpg">
