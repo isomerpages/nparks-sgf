@@ -15,9 +15,11 @@ on 3-5 Aug)
 <br>🍴 <strong>Dietary options:</strong> Beef / Fish / Vegetarian / Gluten Free</p>
 <p>Join us at our SGF Floral Windows to the World Championship Finals Dinner
 on 5<sup> </sup>August 2024, to witness the top five finalists of this
-inaugural competition. This is your last opportunity to show your support
-for your favourite competitor as they compete in the final challenge to
-be crowned the Champion for SGF Floral Windows to the World 2024.
+exciting competition with its new refreshed concept where tasks will be
+carried out in front of live audiences. This is your last opportunity to
+show your support for your favourite competitor as they compete in the
+final challenge to be crowned the Champion for SGF Floral Windows to the
+World Championship 2024.
 <br>
 <br>We will be providing you with a fabulous 3-course dinner with wine served.
 <br>
