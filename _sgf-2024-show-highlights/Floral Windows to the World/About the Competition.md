@@ -1,8 +1,9 @@
 ---
-title: Floral Windows to the World Championship
+title: About the Competition
 permalink: /sgf-2024-show-highlights/fwwc/
 variant: tiptap
 description: ""
+third_nav_title: Floral Windows to the World
 ---
 <p>Floral Windows to the World has always been a key highlight of SGF since
 the first edition held in 2006. It showcases colourful and creatively cut
@@ -13,10 +14,8 @@ and delicately designed by celebrated local and international floral designers.<
 <p>At SGF 2024, Floral Windows to the World will adopt a fresh and different
 concept and will be renamed Floral Windows to the World Championship. For
 this new edition, the National Parks Board is calling for international
-floral designers to compete in the Championship. Interested floral designers
-are welcome to submit their application by 31 March 2024, Sunday, 2359
-hrs (GMT +8). For more information, you may download the competition kit
-<a href="/files/SGF2024_Floral_Windows_to_the_World_Championship_Registration_Kitv3.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+floral designers to compete in the Championship. The list of the shortlisted
+competitors will be announced soon.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
