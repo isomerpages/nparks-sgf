@@ -1,6 +1,6 @@
 ---
-title: Accomodation
-permalink: /about-sgf/accomodation/
+title: Accommodation
+permalink: /about-sgf/accommodation/
 variant: tiptap
 description: ""
 ---
