@@ -19,7 +19,7 @@ your eyes!</p>
 <h4>Highlights of Landscape Design Challenge 2022</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Gold Award" src="/images/SGF 2024/1_Gold__ITE_Team_1_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Gold Award" src="/images/SGF 2024/1_Gold__ITE_Team_1_.jpg">
 </div>
 <p>Gold Award - ITE College East (Team 1)
 <br>
