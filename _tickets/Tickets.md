@@ -13,3 +13,6 @@ description: ""
 <br><em>* ID Verification may be required for admission.</em> 
 <br>@ <em>No admission for infant in arms and children aged below 13 years old. Children aged 13 and above must purchase a ticket for admission.</em>
 </p>
+<p></p>
+<p>For organisations who wish to purchase bulk tickets (20% group discount
+for minimum 20 tickets), you may email directly to&nbsp;<a href="mailto:groupsales@sistic.com.sg" rel="noopener noreferrer nofollow" target="_blank">groupsales@sistic.com.sg</a>.</p>
