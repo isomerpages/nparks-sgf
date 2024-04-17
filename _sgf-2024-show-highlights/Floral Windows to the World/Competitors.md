@@ -165,6 +165,10 @@ She has also taken on leadership roles such as Chairwoman of the Interflora
 Expo Vietnam in 2016 and the Vietnam International Flora Expo in 2018 and
 2019.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vietnam_Khoi Ha" src="/images/SGF 2024/FWWC/Vietnam_Khoi_Ha.jpg">
+</div>
 <p><strong>KHOI <u>HA</u> (VIETNAM) </strong>inherited his love for florals
 from his mother at a young age and his passion for florals has only further
 blossomed since then. His dedication to floral design has brought him across
