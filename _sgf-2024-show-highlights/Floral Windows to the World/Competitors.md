@@ -89,6 +89,10 @@ demonstrations internationally such as in Estonia, Korea, Russia, Singapore,
 and the UK. He finds endless inspiration from nature and dedicates himself
 to being a successful florist.&nbsp;</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Japan_Hiroto Inoue" src="/images/SGF 2024/FWWC/Japan_Hiroto_Inoue.jpg">
+</div>
 <p><strong><u>HIROTO</u> INOUE (JAPAN)</strong> was initially trained in architectural
 engineering in school and worked in the construction industry for a decade
 before developing an interest in flower design. He then moved on to participating
@@ -99,6 +103,10 @@ for his mixed-media arrangements which incorporates traditional elements
 of Japanese culture such as Washi (Japanese traditional hand-made paper)
 and Koyori (paper string) in novel ways.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Malaysia_Caroline Loo" src="/images/SGF 2024/FWWC/Malaysia_Caroline_Loo.jpg">
+</div>
 <p><strong>CAROLINE <u>LOO</u> (MALAYSIA)</strong> studied European floral
 design in Germany and Holland and learnt Ikebana floral design in Malaysia
 and Taiwan. Caroline is also a master Floral Designer certified by IHK
@@ -107,6 +115,10 @@ and Taiwan. Caroline is also a master Floral Designer certified by IHK
 the Malaysian floral industry through organising events to promote floral
 education and appreciation.&nbsp;</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Netherlands_Robert Koene" src="/images/SGF 2024/FWWC/Netherlands_Robert_Koene.jpg">
+</div>
 <p><strong>ROBERT <u>KOENE</u> (NETHERLANDS)</strong> was immersed in the
 world of flowers from an early age, as his family ran a flower wholesale
 business. He has since developed a distinctive style characterised by a
@@ -117,6 +129,10 @@ large floral creations for 18 royal weddings and other large events. He
 is driven to redefine the possibilities of floral design.</p>
 <p>&nbsp;</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Zealand_Franca Logan" src="/images/SGF 2024/FWWC/New_Zealand_Franca_Logan.jpg">
+</div>
 <p><strong>FRANCA <u>LOGAN</u> (NEW ZEALAND)</strong> has over 30 years of
 international design, competition, and teaching experience for all things
 botanical. Franca started Florienne, a floral design studio situated at
@@ -125,6 +141,10 @@ by her childhood in Holland and her lifelong love of blooms to open her
 own establishment. The studio specialises in making use of seasonal blooms
 to create customised bouquets.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Poland_Iza Tkaczyk" src="/images/SGF 2024/FWWC/Poland_Iza_Tkaczyk.jpg">
+</div>
 <p><strong>IZA <u>TKACZYK</u> (POLAND)</strong> embarked on her journey as
 a florist after graduating as a Master Florist from Akademia Marioli Miklaszewskiej
 in Poland in 2015. Since then, Iza has been actively engaged in running
@@ -134,6 +154,10 @@ of Fine Arts in Gdańsk, Poland. She also enjoys playing with colour and
 form, as well as using contrast and looking for the balance in composition
 in her works.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Republic of Korea_Hung Mo Joo, Momo" src="/images/SGF 2024/FWWC/Republic_of_Korea_Hung_Mo_Joo.jpg">
+</div>
 <p><strong>HUNG MO <u>JOO</u>, MOMO (REPUBLIC OF KOREA)</strong> is a Korean
 floral designer, garden stylist and educator. He has shared his expertise
 through conducting demonstrations and workshops around the world for close
