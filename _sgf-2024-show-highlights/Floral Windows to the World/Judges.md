@@ -38,7 +38,7 @@ was a judge for Floral Windows to the World in 2012, 2014, 2016 and 2018.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Harijanto" src="/images/SGF 2024/FWWC/Harijanto_Setiawan.jpg">
 </div>
-<p><strong>HARIJIANTO <u>SETIAWAN</u>, International Master Florist, Singapore</strong> 
+<p><strong>HARIJANTO <u>SETIAWAN</u>, International Master Florist, Singapore</strong> 
 <br><strong>Judge</strong>
 </p>
 <p>&nbsp;Harijanto Setiawan, originally trained as an architect, found his
