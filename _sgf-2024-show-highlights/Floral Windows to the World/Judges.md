@@ -25,7 +25,7 @@ and 2018.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Kubo" src="/images/SGF 2024/FWWC/Kazumasa_Kubo.jpg">
 </div>
-<p><strong><u>KAZUMASA</u> KUBO, Founder and Master Instructor of Hana Ami Blumenschule, Japan</strong> 
+<p><strong>KAZUMASA <u>KUBO</u>, Founder and Master Instructor of Hana Ami Blumenschule, Japan</strong> 
 <br><strong>Judge</strong>
 </p>
 <p>Kazumasa Kubo is a Japanese floral designer who is active in Japan and
