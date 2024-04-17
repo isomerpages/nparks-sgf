@@ -21,7 +21,6 @@ floral design concepts, and been featured as a BBC Expert on Floral Design,
 as well as on a BBC documentary about her garden and her work. Alison was
 a judge for Floral Windows to the World at SGF in 2010, 2012, 2014, 2016
 and 2018.</p>
-<p>&nbsp;</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Kubo" src="/images/SGF 2024/FWWC/Kazumasa_Kubo.jpg">
@@ -35,8 +34,6 @@ His books contain new designs and interesting design techniques. As a specialist
 he was a judge of flower design competitions like the 2007 International
 Horticulture Fair in Shanghai, China and past editions of SGF – Kazumasa
 was a judge for Floral Windows to the World in 2012, 2014, 2016 and 2018.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Harijanto" src="/images/SGF 2024/FWWC/Harijanto_Setiawan.jpg">
@@ -57,7 +54,6 @@ an indelible mark on the floristry world through countless workshops, seminars,
 and commercial projects. Harijanto was a judge for Floral Windows to the
 World at SGF in 2016 and 2018.</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Petra Konrad" src="/images/SGF 2024/FWWC/Petra_Konrad.jpg">
 </div>
@@ -71,7 +67,6 @@ International Floral Design Education Foundation in Taiwan, Dream Flower
 Academy in South Korea and the Officina delle Piante Flower Academy in
 Italy.</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bart Hassam" src="/images/SGF 2024/FWWC/Bart_Hassam.jpg">
 </div>
@@ -87,7 +82,6 @@ at the 2019 Florists’ Transworld Delivery (FTD) World Cup of Floral Design
 and became the FTD World Cup Champion at the Philadelphia Flower Show in
 2019.</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Max van de Sluis" src="/images/SGF 2024/FWWC/Max_van_de_Sluis.jpg">
 </div>
