@@ -8,9 +8,9 @@ description: ""
 gardening groups to co-create thematic garden displays and now into its
 seventh edition, will be back at the Festival. Gardening groups from the
 five districts in Singapore will partner staff from the National Parks
-Board, landscape architects, and implementing partners to develop one show
-garden for each district. This year’s theme is ‘Botanical Fun’ and will
-feature a variety of tropical plants with an emphasis on sustainability.&nbsp;</p>
+Board, landscape architects, and implementing partners to develop one garden
+for each district. This year’s theme is ‘Botanical Fun’ and will feature
+a variety of tropical plants with an emphasis on sustainability.&nbsp;</p>
 <h4>Highlights of previous Singapore Gardeners' Cup edition</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SGC5" src="/images/SGF 2024/SGC5.jpg">
