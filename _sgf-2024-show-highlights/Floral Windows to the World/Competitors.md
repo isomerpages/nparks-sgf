@@ -157,4 +157,19 @@ He is respected as a judge and speaker in the floral industry and continues
 to innovate and inspire, having co-founded his own event design company
 in London while maintaining a global presence in the world of floral design.</p>
 <hr>
-<p></p>
+<p><strong><u>HOA</u> MAI, CHERRIE (UNITED STATES) </strong>is a notable
+figure in California’s floral design scene. She is the owner and designer
+of HBflorist - Queen’s Flowers in Huntington Beach, CA, since 1993. In
+1999, Hoa Mai made history as the first Interflora florist in Vietnam.
+She has also taken on leadership roles such as Chairwoman of the Interflora
+Expo Vietnam in 2016 and the Vietnam International Flora Expo in 2018 and
+2019.</p>
+<hr>
+<p><strong>KHOI <u>HA</u> (VIETNAM) </strong>inherited his love for florals
+from his mother at a young age and his passion for florals has only further
+blossomed since then. His dedication to floral design has brought him across
+32 countries in 17 years, growing his skills and experience. Khoi’s skills
+have led him to grace the cover of the French floral art magazine, Nacre,
+in 2020 and 2023. He opened the first Khoi Ha flower boutique in 2019 and
+aims to continue creating signature designs and contributing to the development
+of the Vietnamese floral design community.</p>
