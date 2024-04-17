@@ -64,6 +64,10 @@ high school. She embraces nature, harmony, joy and simplicity in her designs.
 Berit enjoys working with different techniques to create her arrangements
 and loves challenging herself through competitions.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Estonia_Ahti Lyra" src="/images/SGF 2024/FWWC/Estonia_Ahti_Lyra.jpg">
+</div>
 <p><strong>ATHI <u>LYRA</u> (ESTONIA)</strong> is a master florist with over
 20 years of professional experience in the industry. He is a well-recognised
 figure in the Estonian floral design industry, organising Estonian florist
@@ -72,6 +76,10 @@ championships and a founding member of the Estonian Florist Association
 books and magazines such as the bi-annual florist book International Floral
 Art and a Japanese floral design magazine among others.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hungary_Tamás Mezőffy" src="/images/SGF 2024/FWWC/Hungary_Tam_s_Mez_ffy.jpg">
+</div>
 <p><strong>TAMÁS <u>MEZŐFFY</u> (HUNGARY)</strong> spent his childhood living
 close to nature, where he first cultivated a connection with flowers. This
 interest has led to him joining his first floral competition at 15, then
