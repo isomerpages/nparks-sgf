@@ -22,3 +22,18 @@ bringing his expertise to countries including France, Russia, and the UK.
 Stefan's talent extends beyond competitions; he's been featured in publications,
 appeared on television, and served as a teacher and organiser in the floral
 community. Stefan continues to inspire and innovate in the world of floristry.&nbsp;</p>
+<p></p>
+<p><strong>LEA <u>ROMANOWSKI</u> (CANADA)</strong> makes use of her extensive
+skill set of carpentry, painting, metal work and electrical expertise to
+craft her floral designs. She is known for continuously pushing the boundaries
+of floral design throughout her career spanning more than three decades.
+As part of Designing on the Edge, the studio she founded, Lea provides
+a diverse range of services. These services include creating structural
+floral art and designing and decorating both small and large-scale events.&nbsp;&nbsp;</p>
+<p></p>
+<p><strong><u>ZHAO</u> GUANGLONG (CHINA) </strong>is a multi-talented floral
+designer and entrepreneur heading multiple companies. He discovered his
+passion for floral design when he was close to 40. Since then, he has dedicated
+himself to learning more about floral design, seeking mentors in the industry
+and learning from them. He believes that flowers are indispensable in modern
+lifestyles. Guanglong is keen on honing his skills and improving his craft.&nbsp;&nbsp;</p>
