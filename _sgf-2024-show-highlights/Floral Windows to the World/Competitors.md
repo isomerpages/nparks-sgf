@@ -163,6 +163,10 @@ floral designer, garden stylist and educator. He has shared his expertise
 through conducting demonstrations and workshops around the world for close
 to 15 years. Momo is also the owner of Yeosu Flower Department Store.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore_Benard Soh" src="/images/SGF 2024/FWWC/Singapore_Benard_Soh.jpg">
+</div>
 <p><strong>BERNARD <u>SOH</u> (SINGAPORE)</strong> is a self-taught designer
 who has honed his craft through three decades of experience in the floral
 design industry. His passion for perfection has helped him push boundaries
@@ -170,6 +174,10 @@ of what is possible in design and develop a unique sense of personal style.
 Bernard uses his keen eye for detail and unique style to create breathtaking
 floral arrangements.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="South Africa_Coral Shortt" src="/images/SGF 2024/FWWC/South_Africa_Coral_Shortt.jpg">
+</div>
 <p><strong>CORAL <u>SHORTT</u> (SOUTH AFRICA)</strong> found her calling in
 the floral industry after a successful career in IT. Born in Zimbabwe,
 her early exposure to floral design clubs and community events kindled
@@ -179,6 +187,10 @@ has improved her skills through continuous learning. She has participated
 in workshops with renowned designers like Gregor Lersch and Hitomi Gilliam
 and achieved certifications such as the European Master Certification.</p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="United Kingdom_Timo Bolte" src="/images/SGF 2024/FWWC/United_Kingdom_Timo_Bolte.jpg">
+</div>
 <p><strong>TIMO <u>BOLTE</u> (UNITED KINGDOM) </strong>is<strong> </strong>discovered
 his passion for plants and flowers from his grandmother's expansive garden.
 His educational journey took him through various internships and roles
