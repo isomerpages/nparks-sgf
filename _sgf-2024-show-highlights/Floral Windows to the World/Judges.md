@@ -41,9 +41,9 @@ was a judge for Floral Windows to the World in 2012, 2014, 2016 and 2018.</p>
 <p><strong>HARIJANTO <u>SETIAWAN</u>, International Master Florist, Singapore</strong> 
 <br><strong>Judge</strong>
 </p>
-<p>&nbsp;Harijanto Setiawan, originally trained as an architect, found his
-true calling in floristry, earning acclaim for his artistic vision in the
-realm of floral-scape. He attained the title of International Master Florist
+<p>Harijanto Setiawan, originally trained as an architect, found his true
+calling in floristry, earning acclaim for his artistic vision in the realm
+of floral-scape. He attained the title of International Master Florist
 from Boerma Institute Flower School in Holland in 2023 and serves as a
 distinguished floral ambassador for Floral Fundamentals UK. Notably, Harijanto
 stands as the inaugural floral designer in Singapore to receive the Designer
