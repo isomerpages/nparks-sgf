@@ -157,6 +157,9 @@ He is respected as a judge and speaker in the floral industry and continues
 to innovate and inspire, having co-founded his own event design company
 in London while maintaining a global presence in the world of floral design.</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="United States_Hoa Mai, Cherrie" src="/images/SGF 2024/FWWC/United_States_Hoa_Mai.jpg">
+</div>
 <p><strong><u>HOA</u> MAI, CHERRIE (UNITED STATES) </strong>is a notable
 figure in California’s floral design scene. She is the owner and designer
 of HBflorist - Queen’s Flowers in Huntington Beach, CA, since 1993. In
@@ -177,3 +180,4 @@ have led him to grace the cover of the French floral art magazine, Nacre,
 in 2020 and 2023. He opened the first Khoi Ha flower boutique in 2019 and
 aims to continue creating signature designs and contributing to the development
 of the Vietnamese floral design community.</p>
+<p></p>
