@@ -30,9 +30,8 @@ with us.</p>
 <p></p>
 </li>
 </ul>
-<p>We welcome your participation and look forward to having you on board!
-Subscribe <a href="https://go.gov.sg/sgf-reg-volunteer" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-be informed of the call for volunteers sometime in May 2024.</p>
+<p>We welcome your participation and look forward to having you on board! <strong> </strong>Sign
+up as a volunteer <a href="https://go.gov.sg/sgf2024-ext-volunteers" rel="noopener noreferrer nofollow" target="_blank">here</a> by Sun 12 May 2024.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Volunteers/Volunteers1.png">
 </div>
