@@ -12,10 +12,13 @@ to the Show admire the enchanting displays of beautiful flowers, creatively
 and delicately designed by celebrated local and international floral designers.</p>
 <p></p>
 <p>At SGF 2024, Floral Windows to the World will adopt a fresh and different
-concept and will be renamed Floral Windows to the World Championship. For
-this new edition, the National Parks Board is calling for international
-floral designers to compete in the Championship. The list of the shortlisted
-competitors will be announced soon.</p>
+concept and will be renamed Floral Windows to the World Championship. Up
+to 18 shortlisted floral designers, each from a different country, will
+compete in the Championship from 3 August 2024, Saturday to 5 August 2024,
+Monday. The Championship is divided into three parts: Heats (18 Competitors),
+Semi-Final (10 Competitors) and the Grand Final (5 Competitors). The top
+5 finalists will compete at a ticketed dinner event where the champion
+will be crowned.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
