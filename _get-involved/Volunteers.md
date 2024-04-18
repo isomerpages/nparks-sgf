@@ -27,8 +27,7 @@ designs throughout your time with us.</p>
 </li>
 </ul>
 <p>We welcome your participation and look forward to having you on board!
-Sign up <a href="https://go.gov.sg/sgf2024-ext-volunteers" rel="noopener noreferrer nofollow" target="_blank">here</a> by
-Sun 12 May 2024!</p>
+If you are keen on volunteering for SGF, sign up <a href="https://go.gov.sg/sgf2024-ext-volunteers" rel="noopener noreferrer nofollow" target="_blank">here</a> by Sun 12 May 2024!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Volunteers/Volunteers1.png">
 </div>
