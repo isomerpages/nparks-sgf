@@ -83,9 +83,9 @@ third_nav_title: Floral Windows to the World
 <p>10.30am - 12.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Task 5</p>
-<p>&nbsp;</p>
-<p>The top 10 semi-finalists will compete in Task 5.</p>
+<p>Task 5
+<br>
+<br>The top 10 semi-finalists will compete in Task 5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Surprise Package</p>
