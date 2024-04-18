@@ -191,15 +191,15 @@ and achieved certifications such as the European Master Certification.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="United Kingdom_Timo Bolte" src="/images/SGF 2024/FWWC/United_Kingdom_Timo_Bolte.jpg">
 </div>
-<p><strong>TIMO <u>BOLTE</u> (UNITED KINGDOM) </strong>is<strong> </strong>discovered
-his passion for plants and flowers from his grandmother's expansive garden.
-His educational journey took him through various internships and roles
-in flower shops before he started pursuing formal education under Gregor
-Lersch. Timo served as a Senior Designer for Hibiya Kadan in Tokyo, and
-later worked as the artistic director of the Ritz Carlton hotel in Vienna.
-He is respected as a judge and speaker in the floral industry and continues
-to innovate and inspire, having co-founded his own event design company
-in London while maintaining a global presence in the world of floral design.</p>
+<p><strong>TIMO <u>BOLTE</u> (UNITED KINGDOM) </strong>discovered his passion
+for plants and flowers from his grandmother's expansive garden. His educational
+journey took him through various internships and roles in flower shops
+before he started pursuing formal education under Gregor Lersch. Timo served
+as a Senior Designer for Hibiya Kadan in Tokyo, and later worked as the
+artistic director of the Ritz Carlton hotel in Vienna. He is respected
+as a judge and speaker in the floral industry and continues to innovate
+and inspire, having co-founded his own event design company in London while
+maintaining a global presence in the world of floral design.</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="United States_Hoa Mai, Cherrie" src="/images/SGF 2024/FWWC/United_States_Hoa_Mai.jpg">
