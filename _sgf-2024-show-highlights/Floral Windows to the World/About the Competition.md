@@ -6,19 +6,27 @@ description: ""
 third_nav_title: Floral Windows to the World
 ---
 <p>Floral Windows to the World has always been a key highlight of SGF since
-the first edition held in 2006. It showcases colourful and creatively cut
-flower displays, complemented by stunning set design and lighting. Visitors
-to the Show admire the enchanting displays of beautiful flowers, creatively
-and delicately designed by celebrated local and international floral designers.</p>
-<p></p>
+the first edition held in 2006, showcasing colourful and creatively cut
+flower displays.</p>
+<p>&nbsp;</p>
 <p>At SGF 2024, Floral Windows to the World will adopt a fresh and different
-concept and will be renamed Floral Windows to the World Championship. Up
-to 18 shortlisted floral designers, each from a different country, will
-compete in the Championship from 3 August 2024, Saturday to 5 August 2024,
-Monday. The Championship is divided into three parts: Heats (18 Competitors),
-Semi-Final (10 Competitors) and the Grand Final (5 Competitors). The top
-5 finalists will compete at a ticketed dinner event where the champion
-will be crowned.</p>
+concept and will be renamed Floral Windows to the World Championship.</p>
+<p>&nbsp;</p>
+<p>Audience members can look forward to a live competition element during
+the first three days of the Festival from 3 to 5 August 2024 when designers
+will execute a series of six tasks live in front of judges and visitors
+to create their masterpieces, with the aim of becoming the Grand Champion.</p>
+<p>&nbsp;</p>
+<p>A total of 18 shortlisted floral designers, hailing from 18 countries
+across five continents, will compete in the Championship.</p>
+<p>&nbsp;</p>
+<p>The Championship is divided into three parts: Heats (18 competitors),
+Semi-Final (10 competitors) and the Grand Final (five competitors). The
+top five finalists will compete at a ticketed dinner event* where the Grand
+Champion will be crowned.</p>
+<p>&nbsp;</p>
+<p><em>* Note: A ticket to the Championship finals dinner is required to attend and watch the Grand Final. Tickets for SGF 2024 and the Championship finals dinner can be purchased here (hyperlink to <a rel="noopener noreferrer nofollow" target="_blank">www.sistic.com.sg/events/sgf2024</a>) while more information on the Championship finals dinner can be found here (hyperlink to <a rel="noopener noreferrer nofollow" target="_blank">www.sgf.nparks.gov.sg/tickets-for-finals-dinner/</a></em>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
