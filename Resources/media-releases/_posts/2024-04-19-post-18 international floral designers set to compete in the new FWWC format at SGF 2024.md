@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <p><strong><em>18 international floral designers set to compete in the new Floral Windows to the World Championship format at Singapore Garden Festival 2024</em></strong>
 </p>
-<p>-&nbsp;<em>National Parks Board rolls out a new format after a six-year hiatus of this competition</em>
+<p>-&nbsp;<em>National Parks Board rolls out a new format after a six-year hiatus of this competition</em> 
 <br>-&nbsp;<em>The Championship will feature a new live competition element and a record number of 18 international floral designers vying for the Grand Champion title</em>
 </p>
 <p><strong>Singapore, 20 April 2024 </strong>– The National Parks Board (NParks)
