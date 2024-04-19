@@ -24,8 +24,9 @@ from 3 to 11 August 2024.&nbsp;</p>
 <p><strong>Refreshed Championship format to engage Festival visitors with exciting live competition element</strong>
 </p>
 <p>The Floral Windows to the World competition takes on a new Championship
-format as it returns after a six-year hiatus<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>. Audience members can look forward to a <strong>live competition element</strong> during
-the first three days of the Festival from 3 to 5 August 2024 when designers
+format as it returns after a six-year hiatus <sup>[1]</sup>. Audience members
+can look forward to a <strong>live competition element</strong> during the
+first three days of the Festival from 3 to 5 August 2024 when designers
 will execute a series of six tasks in front of judges and visitors to create
 their masterpieces from scratch, competing for the title of Grand Champion.
 This refreshed format differs from previous editions of the competition
@@ -177,11 +178,9 @@ Facebook page <a rel="noopener noreferrer nofollow" target="_blank">www.facebook
 Instagram <a rel="noopener noreferrer nofollow" target="_blank"><u>www.instagram.com/sggardenfest/</u></a>.</p>
 <p></p>
 <p>-End-</p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> The
-Floral Windows of the World competition first started in the inaugural
-edition of SGF in 2016 and became a key highlight of the Festival. Previous
-editions of Floral Windows to the World were held in 2006, 2008, 2010,
-2012, 2014, 2016 and 2018 at SGF.</p>
+<p><sup>[1]</sup> The Floral Windows of the World competition first started
+in the inaugural edition of SGF in 2016 and became a key highlight of the
+Festival. Previous editions of Floral Windows to the World were held in
+2006, 2008, 2010, 2012, 2014, 2016 and 2018 at SGF.</p>
 <p></p>
 <p></p>
