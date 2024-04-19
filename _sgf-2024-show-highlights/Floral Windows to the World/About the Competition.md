@@ -30,12 +30,14 @@ Champion will be crowned.</p>
 <p><strong><em>Stretching Time<br>Designed by Natasha Lisitsa &amp; Daniel Schultz (USA)<br>Gold and Best of Show, SGF 2016</em></strong>
 </p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dmitri Turcan" src="/images/Floral/1_W13_Seize_the_Moment_Dmitri_Turcan__Azerbaijan__Gold_and_BOS_NNM_2521cr.jpg">
 </div>
 <p><strong><em>Seize the Moment<br>Designed by Dmitri Turcan (Azerbaijan)<br>Gold and Best of Show, SGF 2018</em></strong>
 </p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Annette von Einem" src="/images/Floral/SGF2014_W13_150814__4_.jpg">
 </div>
