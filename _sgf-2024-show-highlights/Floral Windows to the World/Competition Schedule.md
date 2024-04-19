@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Floral Windows to the World
 ---
+<p>Date: 3 - 5 August 2024
+<br>Venue: Suntec Singapore, Level 6</p>
 <table>
 <tbody>
 <tr>
