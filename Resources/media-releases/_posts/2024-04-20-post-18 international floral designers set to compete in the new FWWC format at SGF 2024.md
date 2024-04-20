@@ -68,9 +68,10 @@ finalists will compete at a ticketed dinner event on the final day of the
 competition (5 August), where the Grand Champion will be crowned. A ticket
 to the Championship finals dinner is required to attend and watch the finals
 (Task 6). Tickets for SGF 2024 and the Championship finals dinner can be
-purchased at <a rel="noopener noreferrer nofollow" target="_blank">www.sistic.com.sg/events/sgf2024</a> while
+purchased at <a href="www.sistic.com.sg/events/sgf2024" rel="noopener noreferrer nofollow" target="_blank">www.sistic.com.sg/events/sgf2024</a> while
 more information on the Championship finals dinner can be found here
-<a rel="noopener noreferrer nofollow" target="_blank">www.sgf.nparks.gov.sg/tickets-for-finals-dinner/</a>.</p>
+<a href="https://sgf.nparks.gov.sg/tickets-for-finals-dinner/" rel="noopener noreferrer nofollow" target="_blank">https://sgf.nparks.gov.sg/tickets-for-finals-dinner/</a>
+</p>
 <p></p>
 <table>
 <tbody>
@@ -173,8 +174,8 @@ will compete on stage.</p>
 </tr>
 </tbody>
 </table>
-<p>For more information, please visit <a rel="noopener noreferrer nofollow" target="_blank">www.sgf.nparks.gov.sg</a> or
-Facebook page <a rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/SGGardenFest</a> or
+<p>For more information, please visit <a href="https://sgf.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://sgf.nparks.gov.sg/</a> or Facebook
+page <a rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/SGGardenFest</a> or
 Instagram <a rel="noopener noreferrer nofollow" target="_blank"><u>www.instagram.com/sggardenfest/</u></a>.</p>
 <p></p>
 <p>-End-</p>
