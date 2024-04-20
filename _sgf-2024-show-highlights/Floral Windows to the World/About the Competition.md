@@ -20,9 +20,7 @@ across five continents, will compete in the Championship.</p>
 Semi-Final (10 competitors) and the Grand Final (five competitors). The
 top five finalists will compete at a ticketed dinner event* where the Grand
 Champion will be crowned.</p>
-<p><em>* Note: A ticket to the Championship finals dinner is required to attend and watch the Grand Final. Tickets for SGF 2024 and the Championship finals dinner can be purchased </em>
-<a href="https://www.sistic.com.sg/events/sgf2024" rel="noopener noreferrer nofollow" target="_blank">here</a><em> while more information on the Championship finals dinner can be found </em>
-<a href="https://sgf.nparks.gov.sg/tickets-for-finals-dinner/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p><em>* Note: A ticket to the Championship finals dinner is required to attend and watch the Grand Final. Tickets for SGF 2024 and the Championship finals dinner can be purchased <a href="https://www.sistic.com.sg/events/sgf2024" rel="noopener noreferrer nofollow" target="_blank">here</a> while more information on the Championship finals dinner can be found <a href="https://sgf.nparks.gov.sg/tickets-for-finals-dinner/" rel="noopener noreferrer nofollow" target="_blank">here</a></em>
 </p>
 <p></p>
 <p></p>
