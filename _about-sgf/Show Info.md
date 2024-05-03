@@ -23,7 +23,7 @@ in Southeast Asia. For more information, you may visit <a href="https://www.8gbg
 <p><em>“Singapore Garden Festival has established itself as a must-attend event, not only because it takes place in a tropical environment, but also because it brings together the la crème de la crème of the industry!”</em>
 </p>
 <p></p>
-<p><strong>Pascal Garbe, France</strong>
+<p><strong>Pascal Garbe, France</strong> 
 <br><strong>Head Judge for SGF</strong>
 </p>
 </blockquote>
@@ -32,7 +32,7 @@ in Southeast Asia. For more information, you may visit <a href="https://www.8gbg
 <p><em>“The Gold medal winning gardens certainly would have been awarded gold at Chelsea Flower Show.”</em>
 </p>
 <p></p>
-<p><strong>Bob Sweet, UK</strong>
+<p><strong>Bob Sweet, UK</strong> 
 <br><strong>Judge for SGF</strong>
 </p>
 </blockquote>
@@ -41,7 +41,7 @@ in Southeast Asia. For more information, you may visit <a href="https://www.8gbg
 <p><em>“It really is firing at an international level now with imaginative design and pretty good horticulture. Design was good and so was the horticulture.”</em>
 </p>
 <p></p>
-<p><strong>Michael Balston, UK</strong>
+<p><strong>Michael Balston, UK</strong> 
 <br><strong>Head Judge for SGF</strong>
 </p>
 </blockquote>
