@@ -11,7 +11,7 @@ description: ""
 <p>^ <em>Tickets valid for single day admission only. Multiple entries are allowed within the same day.</em> 
 <br># <em>Singapore citizens, permanent residents and those living in Singapore, including holders of employment pass, work permit, dependent or school pass. Proof of residency may be required for admission.</em> 
 <br><em>* ID Verification may be required for admission.</em> 
-<br>@ <em>No admission for infant in arms and children aged below 13 years old. Children aged 13 and above must purchase a ticket for admission.</em>
+<br>@ <em>No admission for infant in arms and children aged below 13 years old. Children aged 13 and above must purchase a ticket for admission to the FWWC Dinner.</em>
 </p>
 <p></p>
 <p>For organisations who wish to purchase bulk tickets (20% group discount
