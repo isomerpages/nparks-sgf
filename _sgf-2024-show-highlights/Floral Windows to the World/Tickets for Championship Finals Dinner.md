@@ -10,7 +10,7 @@ third_nav_title: Floral Windows to the World
 <br><strong>🕟 Time:</strong> 6.00pm – 9.30pm
 <br><strong>📍 Location:</strong> Suntec Singapore, Level 6 Hospitality Pavilion
 <br>💲 <strong>Ticket: </strong>S$354 (Include admission to Show &amp; MarketPlace
-on 3-5 Aug)
+on 3-6 Aug)
 <br>🧥 <strong>Dress code:</strong> Formal or Black-tie optional
 <br>🍴 <strong>Dietary options:</strong> Beef / Fish / Vegetarian / Gluten Free</p>
 <p>Join us at our SGF Floral Windows to the World Championship Finals Dinner
