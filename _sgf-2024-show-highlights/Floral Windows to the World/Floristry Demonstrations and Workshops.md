@@ -59,10 +59,19 @@ nature's most exquisite creations.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Designers Profile Pics/Guru.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Elizabeth Newcombe (United Kingdom)</div><div class="isomer-card-description">Floral Workshop, 3 August 2024 
-11.00am – 1.00pm (2 hours), S$ 200
-</div><div class="isomer-card-link">Register </div></div></a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Designers Profile Pics/Pierre.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tiffany  van Lenten Netherlands</div><div class="isomer-card-description">Floral Demonstration, 3 August 2024, 2.00pm – 3.00pm (1 hour), S$ 30
-</div><div class="isomer-card-link">Register</div></div></a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Designers Profile Pics/Guru.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Elizabeth Newcombe (United Kingdom)</div><div class="isomer-card-description">Floral Workshop &lt;br&gt;3 August 2024  &lt;br&gt; 11.00am – 1.00pm (2 hours)  &lt;br&gt; S$ 200</div><div class="isomer-card-link">Register</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Designers Profile Pics/Pierre.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Tiffany van Lenten Netherlands</div>
+<div class="isomer-card-description">Floral Demonstration, 3 August 2024, 2.00pm – 3.00pm (1 hour), S$ 30</div>
+<div class="isomer-card-link">Register</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
