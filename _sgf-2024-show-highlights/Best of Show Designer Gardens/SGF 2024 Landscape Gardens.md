@@ -3,7 +3,7 @@ title: SGF 2024 Landscape Gardens
 permalink: /sgf-2024-show-highlights/best-of-show-designers-gardens/landscapegardens/
 variant: tiptap
 description: ""
-third_nav_title: Best of Show Designers Gardens
+third_nav_title: Best of Show Designer Gardens
 ---
 <h3>Landscape Gardens Designers and Implementing Partners</h3>
 <p></p>

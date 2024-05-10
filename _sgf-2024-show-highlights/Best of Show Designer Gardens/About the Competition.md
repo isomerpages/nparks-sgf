@@ -3,7 +3,7 @@ title: About the Competition
 permalink: /sgf-2024-show-highlights/best-of-show-designers-gardens/about/
 variant: tiptap
 description: ""
-third_nav_title: Best of Show Designers Gardens
+third_nav_title: Best of Show Designer Gardens
 ---
 <p>Featuring gardens created by top local and international award-winning
 designers from garden shows around the world. There are two categories
