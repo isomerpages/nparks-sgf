@@ -47,7 +47,7 @@ nature's most exquisite creations.</p>
 <div class="isomer-card-description">Floral Demonstration | 4 August 2024 | 2.00pm - 3.00pm (1 hour) | S$30</div>
 <div class="isomer-card-link">Register</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/6640f89ceefc4b87a86e7236" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="IMF" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">IMF</div><div class="isomer-card-description">Floral Demonstration | 4 August 2024 | 4.00pm - 5.00pm (1 hour) | S$30</div><div class="isomer-card-link">Register</div></div></a>
+</a>
 </div>
 <hr>
 <h4>5 August (Mon) &amp; 6 August 2024 (Tue)</h4>
