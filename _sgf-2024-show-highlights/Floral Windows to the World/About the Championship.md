@@ -23,17 +23,17 @@ Champion will be crowned.</p>
 <p><em>* Note: A ticket to the Championship finals dinner is required to attend and watch the Grand Final. Tickets for SGF 2024 and the Championship finals dinner can be purchased <a href="https://www.sistic.com.sg/events/sgf2024" rel="noopener noreferrer nofollow" target="_blank">here</a> while more information on the Championship finals dinner can be found <a href="https://sgf.nparks.gov.sg/tickets-for-finals-dinner/" rel="noopener noreferrer nofollow" target="_blank">here</a></em>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Competition Schedule</div><div class="isomer-card-link">Click here for more info</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://sgf.nparks.gov.sg/competition-schedule/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Floral windows to the world championship schedule" src="/images/SGF 2024/FWWC/Screenshot_2024_05_15_at_5_16_12_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Competition Schedule</div><div class="isomer-card-link">Click here for more info</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://sgf.nparks.gov.sg/tickets-for-finals-dinner/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_05_15_at_5_17_49_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Championship Finals Dinner</div>
 <div class="isomer-card-link">Click here for more info</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Floristry Demonstrations and Workshops</div><div class="isomer-card-link">Click here for more info</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/432980064_930363231882353_389349322277558561_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Floristry Demonstrations and Workshops</div><div class="isomer-card-link">Click here for more info</div></div></a>
 </div>
 <p></p>
