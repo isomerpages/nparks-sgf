@@ -51,7 +51,7 @@ nature's most exquisite creations.</p>
 </div>
 <hr>
 <h4>5 August (Mon) &amp; 6 August 2024 (Tue)</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/6640fedcc6d018326ab38628" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AIFD</div><div class="isomer-card-description">Floral Demonstration | 5 August 2024 | 10.00am - 11.00am (1 hour) | S$30</div><div class="isomer-card-link">Register</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/6640fedcc6d018326ab38628" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AIFD" src="/images/SGF 2024/FWWC/AIFD.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jackie Smith Aifd, Ellie Grande Aifd and Tricia Won Aifd</div><div class="isomer-card-description">Floral Demonstration | 5 August 2024 | 10.00am - 11.00am (1 hour) | S$30</div><div class="isomer-card-link">Register</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/flworkshop-np" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
