@@ -50,21 +50,11 @@ nature's most exquisite creations.</p>
 </a>
 </div>
 <hr>
-<h4>5 August (Mon) &amp; 6 August 2024 (Tue)</h4>
+<h4>5 August 2024 (Mon)  </h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/6640fedcc6d018326ab38628" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AIFD" src="/images/SGF 2024/FWWC/AIFD_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jackie Smith Johns AIFD, Ellie Grande AIFD and Tricia Won AIFD</div><div class="isomer-card-description">Floristry Demonstration | 5 August 2024 | 10.00am - 11.00am (1 hour) | S$30</div><div class="isomer-card-link">Register</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/flworkshop-np" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nicolaus Peters" src="/images/SGF 2024/FWWC/Nicolaus_600x400.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Nicolaus Peters (Germany)</div>
-<div class="isomer-card-description">Floristry Workshop | 6 August 2024 | 8.30am - 1.00pm (4.5 hours) | $450
-(with tea break provided)</div>
-<div class="isomer-card-link">Register</div>
-</div>
-</a>
 </div>
 <hr>
+<h4>6 August 2024 (Tue)</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/flworkshop-np" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nicolaus Peters" src="/images/SGF 2024/FWWC/Nicolaus_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nicolaus Peters (Germany)</div><div class="isomer-card-description">Floristry Workshop | 6 August 2024 | 8.30am - 1.00pm (4.5 hours) | $450 (with tea break provided)</div><div class="isomer-card-link">Register</div></div></a>
+</div>
 <p></p>
