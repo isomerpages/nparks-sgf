@@ -22,6 +22,8 @@ final challenge to be crowned the Champion for SGF Floral Windows to the
 World Championship 2024.
 <br>
 <br>We will be providing you with a fabulous 3-course dinner with wine served.
+The dinner also includes an exclusive floral demonstration by internationally
+renowned designer, Nicolaus Peters from Germany.
 <br>
 <br>Kindly take note that each table can accommodate a maximum of 10 individuals
 on a first-come, first-served basis at your chosen table during the event.
