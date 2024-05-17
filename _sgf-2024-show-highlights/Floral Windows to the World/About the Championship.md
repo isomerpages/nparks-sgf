@@ -8,14 +8,16 @@ third_nav_title: Floral Windows to the World
 <p>Floral Windows to the World has always been a key highlight of SGF since
 the first edition held in 2006, showcasing colourful and creatively cut
 flower displays. At SGF 2024, Floral Windows to the World will adopt a
-fresh and different concept and will be renamed Floral Windows to the World
-Championship.</p>
+fresh concept and renamed Floral Windows to the World Championship.</p>
 <p>Audience members can look forward to a live competition element during
 the first three days of the Festival from 3 to 5 August 2024 when designers
 will execute a series of six tasks live in front of judges and visitors
-to create their masterpieces, with the aim of becoming the Grand Champion.</p>
-<p>A total of 18 shortlisted floral designers, hailing from 18 countries
-across five continents, will compete in the Championship.</p>
+to create their masterpieces, with the aim of becoming the Grand Champion.
+This refreshed format differs from previous editions of the competition
+in which each designer only put up one window installation, and the displays
+were completed over four to five days prior to the start of SGF for judging.</p>
+<p>A total of 18 floral designers, hailing from 18 countries across five
+continents, will compete in the Championship.</p>
 <p>The Championship is divided into three parts: Heats (18 competitors),
 Semi-Final (10 competitors) and the Grand Final (five competitors). The
 top five finalists will compete at a ticketed dinner event* where the Grand
