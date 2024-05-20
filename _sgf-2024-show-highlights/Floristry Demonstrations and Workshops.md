@@ -6,13 +6,17 @@ description: ""
 ---
 <h3>SGF Master Series</h3>
 <p>Experience the beauty of floristry with our captivating demonstrations
-and engaging workshops. Immerse yourself in the art of floral arrangement
-as our professional florists guide you through the creation of stunning
-floral pieces. Whether you are a novice or a seasoned enthusiast, our workshops
-cater to all skill levels, offering a delightful opportunity to learn new
-techniques and unleash your creativity. Join us for an unforgettable journey
-into the world of flowers, where you will discover the joy of working with
-nature's most exquisite creations.</p>
+and engaging workshops. During the first four days of the festival, we
+have various workshops and demonstrations lined up to engage our visitors
+in a floral galore. Whether you are a novice or a seasoned enthusiast,
+we have something catered to you.</p>
+<p>Participants in the floristry workshops will have the opportunity to bring
+home their own beautiful arrangements, serving as a lasting memento of
+their time at the festival. Meanwhile, the floristry demonstrations provide
+a once-in-a-lifetime chance for participants to witness our demonstrators
+in action, gaining valuable insights and inspiration.</p>
+<p>Join us for an unforgettable journey into the world of flowers, where
+you will discover the joy of working with nature's most exquisite creations.</p>
 <p>Register now and don’t miss this opportunity!</p>
 <p><strong><em>Note:</em></strong><em> Participants for the floral demonstrations and workshops will need to purchase a separate general admission ticket to the Singapore Garden Festival (SGF) for entry (except for visitors who have purchased tickets for the Floral Windows to the World Championship Finals Dinner, which includes admission to SGF between 3 to 6 Aug). Tickets for SGF can be purchased through this <a href="https://www.sistic.com.sg/events/sgf2024" rel="noopener noreferrer nofollow" target="_blank">link</a>.</em>
 </p>
