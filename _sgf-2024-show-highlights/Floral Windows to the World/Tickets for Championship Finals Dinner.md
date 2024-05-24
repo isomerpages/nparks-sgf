@@ -12,7 +12,7 @@ third_nav_title: Floral Windows to the World
 <br>💲 <strong>Ticket: </strong>S$354 (Include admission to Show &amp; MarketPlace
 between 3 to 6 Aug)
 <br>🧥 <strong>Dress code:</strong> Formal or Black-tie optional
-<br>🍴 <strong>Dietary options:</strong> Beef / Fish / Vegetarian / Gluten Free</p>
+<br>🍴 <strong>Dietary options:</strong> Beef / Fish / Vegan Gluten Free</p>
 <p>Join us at our SGF Floral Windows to the World Championship Finals Dinner
 on 5<sup> </sup>August 2024, to witness the top five finalists of this
 exciting competition with its new refreshed concept where tasks will be
