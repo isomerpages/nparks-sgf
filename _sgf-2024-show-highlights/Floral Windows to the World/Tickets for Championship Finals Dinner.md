@@ -32,5 +32,6 @@ tickets individually. All tickets must be booked and paid for together
 in a single transaction to ensure seating together at the dinner.
 <br>
 <br>Tickets are limited, so book your tickets at <a href="https://ticketing.sistic.com.sg/sistic/booking/sgf2024a" rel="noopener noreferrer nofollow" target="_blank">SISTIC</a> today
-to avoid disappointment!</p>
+to avoid disappointment! Closing date for dinner ticket sales is on 15
+July 2024, 2359h (SGT).</p>
 <p>&nbsp;</p>
