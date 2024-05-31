@@ -33,17 +33,11 @@ cocktails at PLUME, and complimentary two-way airport transfer.</p>
 Garden Getaway experience.</p>
 <p>For more details and to book your package, please visit Pan Pacific Singapore
 website:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Garden Getaway: <a rel="noopener noreferrer nofollow" target="_blank"><u>https://www.panpacific.com/en/hotels-and-resorts/pp-marina/offers/garden-getaway.html</u></a>
+<p> <a href="https://www.panpacific.com/en/hotels-and-resorts/pp-marina/offers/garden-getaway.html" rel="noopener noreferrer nofollow" target="_blank">Garden Getaway</a>
 </p>
-</li>
-<li>
-<p>Flora &amp; Fauna: <a rel="noopener noreferrer nofollow" target="_blank"><u>https://www.panpacific.com/en/hotels-and-resorts/pp-marina/offers/flora-fauna.html</u></a>
+<p> <a href="https://www.panpacific.com/en/hotels-and-resorts/pp-marina/offers/flora-fauna.htm" rel="noopener noreferrer nofollow" target="_blank">Flora &amp; Fauna</a>
 </p>
 <p></p>
-</li>
-</ul>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
