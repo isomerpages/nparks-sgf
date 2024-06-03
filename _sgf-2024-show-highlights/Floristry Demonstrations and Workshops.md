@@ -53,7 +53,7 @@ you will discover the joy of working with nature's most exquisite creations.</p>
 <div class="isomer-card-description">Floristry Demonstration | 4 August 2024 | 2.00pm - 3.00pm (1 hour) | S$30</div>
 <div class="isomer-card-link">Register</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="IMF" src="/images/SGF 2024/FWWC/IMF.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mike Boerma IMF, Matthew Landers IMF and Song Tao IMF</div><div class="isomer-card-description">Floristry Demonstration | 4 August 2023 | 4.00pm - 5.00pm (1 hour) | S$30</div><div class="isomer-card-link">Register</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/fldemo-imf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="IMF" src="/images/SGF 2024/FWWC/IMF.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mike Boerma IMF, Matthew Landers IMF and Song Tao IMF</div><div class="isomer-card-description">Floristry Demonstration | 4 August 2023 | 4.00pm - 5.00pm (1 hour) | S$30</div><div class="isomer-card-link">Register</div></div></a>
 </div>
 <hr>
 <h4>5 August 2024 (Mon)</h4>
