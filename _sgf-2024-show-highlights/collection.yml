@@ -2,7 +2,6 @@ collections:
   sgf-2024-show-highlights:
     output: true
     order:
-      - Floral Harmony.md
       - Best of Show Designer Gardens/.keep
       - Best of Show Designer Gardens/About the Competition.md
       - Best of Show Designer Gardens/SGF 2024 Landscape Gardens.md
@@ -20,6 +19,7 @@ collections:
       - Singapore Gardeners' Cup.md
       - Floral Table Top.md
       - Landscape Design Challenge.md
+      - Floral Harmony.md
       - Floral Designers Society (Singapore) Cup.md
       - MarketPlace.md
       - Floristry Demonstrations and Workshops.md
