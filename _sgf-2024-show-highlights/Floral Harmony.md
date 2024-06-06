@@ -27,4 +27,5 @@ place on Saturday, 3 August 2024, at Suntec Singapore, Level 4.
 to this <strong><a href="/files/Letter_of_Invitation__Floral_Harmony_Art_Competition_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Invitation</a>.&nbsp;</strong>
 <br>
 <br>Should you have any other inquiries about the competition, please don't
-hesitate to contact us at <a rel="noopener noreferrer nofollow" target="_blank">floralharmony2024@qihua.edu.sg</a>.</p>
+hesitate to contact us at <a href="floralharmony2024@qihua.edu.sg" rel="noopener noreferrer nofollow" target="_blank">floralharmony2024@qihua.edu.sg</a>
+</p>
