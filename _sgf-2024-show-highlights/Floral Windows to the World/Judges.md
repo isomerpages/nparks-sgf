@@ -23,19 +23,6 @@ a judge for Floral Windows to the World at SGF in 2010, 2012, 2014, 2016
 and 2018.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kubo" src="/images/SGF 2024/FWWC/Kazumasa_Kubo.jpg">
-</div>
-<p><strong>KAZUMASA <u>KUBO</u>, Founder and Master Instructor of Hana Ami Blumenschule, Japan</strong> 
-<br><strong>Judge</strong>
-</p>
-<p>Kazumasa Kubo is a Japanese floral designer who is active in Japan and
-overseas. He is well-known for his demonstrations, lectures and lessons.
-His books contain new designs and interesting design techniques. As a specialist,
-he was a judge of flower design competitions like the 2007 International
-Horticulture Fair in Shanghai, China and past editions of SGF – Kazumasa
-was a judge for Floral Windows to the World in 2012, 2014, 2016 and 2018.</p>
-<hr>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Harijanto" src="/images/SGF 2024/FWWC/Harijanto_Setiawan.jpg">
 </div>
 <p><strong>HARIJANTO <u>SETIAWAN</u>, International Master Florist, Singapore</strong> 
