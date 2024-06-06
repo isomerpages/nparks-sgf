@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Best of Show Designer Gardens/.keep
-      - Best of Show Designer Gardens/Judges.md
       - Best of Show Designer Gardens/About the Competition.md
       - Best of Show Designer Gardens/SGF 2024 Landscape Gardens.md
       - Best of Show Designer Gardens/SGF 2024 Fantasy Gardens.md
+      - Best of Show Designer Gardens/Judges.md
       - Best of Show Designer Gardens/Past Show Gardens.md
       - Floral Windows to the World/.keep
       - Floral Windows to the World/About the Championship.md
