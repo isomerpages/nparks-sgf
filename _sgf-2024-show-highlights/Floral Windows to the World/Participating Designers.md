@@ -56,16 +56,6 @@ lifestyles. Guanglong is keen on honing his skills and improving his craft.&nbsp
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Denmark_Berit Skjottgaard Laursen" src="/images/SGF 2024/FWWC/Denmark_Berit_Skjottgaard_Laursen.jpg">
-</div>
-<p><strong>BERIT SKJOTTGAAARD <u>LAURSEN</u> (DENMARK) </strong>is a veteran
-floral designer who started pursuing her interest in floral design after
-high school. She embraces nature, harmony, joy and simplicity in her designs.
-Berit enjoys working with different techniques to create her arrangements
-and loves challenging herself through competitions.</p>
-<hr>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Estonia_Ahti Lyra" src="/images/SGF 2024/FWWC/Estonia_Ahti_Lyra.jpg">
 </div>
 <p><strong>ATHI <u>LYRA</u> (ESTONIA)</strong> is a master florist with over
