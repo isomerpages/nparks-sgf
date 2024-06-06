@@ -24,7 +24,7 @@ closing date for registration is 25th June 2024. The competition takes
 place on Saturday, 3 August 2024, at Suntec Singapore, Level 4.
 <br>
 <br>For more information about the competition and to register, please refer
-to this <strong>"Letter of Invitation".&nbsp;</strong>
+to this <strong><a href="/files/Letter_of_Invitation__Floral_Harmony_Art_Competition_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Invitation</a>.&nbsp;</strong>
 <br>
 <br>Should you have any other inquiries about the competition, please don't
 hesitate to contact us at <a rel="noopener noreferrer nofollow" target="_blank">floralharmony2024@qihua.edu.sg</a>.</p>
