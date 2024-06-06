@@ -37,7 +37,7 @@ plastic bags, and paper cups, redefining beauty while encouraging a commitment
 to our planet's well-being.</p>
 <hr>
 <p></p>
-<h4>Celestial Garden&nbsp;By Ikebana International Singapore Chapter 135 </h4>
+<h4>Celestial Garden&nbsp;By Ikebana International Singapore Chapter 135</h4>
 <p>Step into the <em>Celestial Garden</em> exhibition, where 30 master ikebana
 floral artists have orchestrated an awe-inspiring display. Behold the celestial
 theme brought to life through their meticulous arrangements, each mirroring
