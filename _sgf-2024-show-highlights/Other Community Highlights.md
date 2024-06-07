@@ -14,8 +14,8 @@ such as antique pots and plant stands, providing an excellent platform
 for local bonsai enthusiasts and hobbyists to showcase their art pieces,
 cultivated with years of training and tender care. &nbsp;A highlight of
 the exhibition is a talk titled “Pots for Bonsai” on 10 August (Saturday)
-from 1-2 pm. We invite you to join us at this event to gain a deeper appreciation
-for the intricacies of bonsai.</p>
+from 1-2 pm at Suntec Level 4 stage. We invite you to join us at this event
+to gain a deeper appreciation for the intricacies of bonsai.</p>
 <hr>
 <p></p>
 <h4>Floral Fantasies: Where Nature Meets Fashion By ITE College Central</h4>
