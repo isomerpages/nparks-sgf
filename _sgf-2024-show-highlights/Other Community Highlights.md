@@ -4,7 +4,7 @@ permalink: /other-community-highlights/
 variant: tiptap
 description: ""
 ---
-<h4>Penjing and Artistic Stones Exhibition and Competition 2024&nbsp;</h4>
+<h4>Penjing and Artistic Stone Exhibition and Competition 2024&nbsp;</h4>
 <p>Organised by the Singapore Penjing and Stone Appreciation Society, this
 event showcases tropical bonsai species, including mature specimens of
 up to 100 years old, a variety of plants from different genera, as well
