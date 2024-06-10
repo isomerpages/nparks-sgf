@@ -16,9 +16,9 @@ to create their masterpieces, with the aim of becoming the Grand Champion.
 This refreshed format differs from previous editions of the competition
 in which each designer only put up one window installation, and the displays
 were completed over four to five days prior to the start of SGF for judging.</p>
-<p>A total of 18 floral designers, hailing from 18 countries across five
+<p>A total of 16 floral designers, hailing from 16 countries across five
 continents, will compete in the Championship.</p>
-<p>The Championship is divided into three parts: Heats (18 competitors),
+<p>The Championship is divided into three parts: Heats (16 competitors),
 Semi-Final (10 competitors) and the Grand Final (five competitors). The
 top five finalists will compete at a ticketed dinner event* where the Grand
 Champion will be crowned.</p>
