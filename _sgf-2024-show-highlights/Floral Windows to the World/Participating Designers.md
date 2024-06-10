@@ -107,20 +107,6 @@ education and appreciation.&nbsp;</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Netherlands_Robert Koene" src="/images/SGF 2024/FWWC/Netherlands_Robert_Koene.jpg">
-</div>
-<p><strong>ROBERT <u>KOENE</u> (NETHERLANDS)</strong> was immersed in the
-world of flowers from an early age, as his family ran a flower wholesale
-business. He has since developed a distinctive style characterised by a
-blend of classic elegance and contemporary flair. Robert has worked in
-Japan to gain practical experience in working with diverse floral products.
-He has also worked in Saudi Arabia, designing, curating and co-ordinating
-large floral creations for 18 royal weddings and other large events. He
-is driven to redefine the possibilities of floral design.</p>
-<p>&nbsp;</p>
-<hr>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="New Zealand_Franca Logan" src="/images/SGF 2024/FWWC/New_Zealand_Franca_Logan.jpg">
 </div>
 <p><strong>FRANCA <u>LOGAN</u> (NEW ZEALAND)</strong> has over 30 years of
