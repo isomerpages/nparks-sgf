@@ -41,6 +41,9 @@ an indelible mark on the floristry world through countless workshops, seminars,
 and commercial projects. Harijanto was a judge for Floral Windows to the
 World at SGF in 2016 and 2018.</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Takumi Nakaya" src="/images/SGF 2024/FWWC/Takumi_Nakaya.jpg">
+</div>
 <p><strong>MR TAKUMI NAKAYA, President of Floral School “Madka”, Japan</strong>
 <br><strong>Judge</strong>
 </p>
@@ -51,6 +54,7 @@ Minister Award) at the 14<sup>th</sup> JFTD Japan Cup Competition and serving
 as a judge in prestigious competitions such as the World Flower Art Contest
 in Beijing in 2019. Takumi has also showed off his design skills through
 floral demonstrations in Japan, China, Taiwan and Hong Kong.</p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Petra Konrad" src="/images/SGF 2024/FWWC/Petra_Konrad.jpg">
 </div>
