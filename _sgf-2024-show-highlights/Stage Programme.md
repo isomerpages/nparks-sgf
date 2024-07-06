@@ -479,7 +479,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Biophyllic Skyrise Greenery</strong>
@@ -489,7 +489,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Cultural guides for Commonly Grown Orchids in Singapore </strong>
@@ -499,7 +499,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Efforts to Restore Natural Areas to Sites Left Behind by Large-Scale Earth and Sand Mining</strong>
@@ -509,7 +509,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Composting in Singapore</strong>
@@ -519,7 +519,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3D Jelly Art Floral Cake</strong>
@@ -529,17 +529,49 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Threads of Time: Weaving Traditional and Modern Florals </strong>
+<br>Ms Susie Un &amp; Ms Ta Quynh Giang
+<br>Singapore Flower Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Edibles garden in Jurong Lake Gardens </strong>
+<br>Dr Wilson Wong
+<br>National Parks Board</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Day 8 - Saturday, 10 Aug 2024</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Threads of Time: Weaving Traditional and Modern Florals
-<br>Ms Susie Un &amp; Ms Ta Quynh Giang
-<br>Singapore Flower Club
-<br>
-<br>
-<br>
-<br>
-</p>
+<p><strong>Growing High Nutrition Microgreens at Home</strong>
+<br>Ms Faith Foo
+<br>The Living Centre</p>
 </td>
 </tr>
 <tr>
@@ -547,16 +579,62 @@ Philip Foo
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Edibles garden in Jurong Lake Gardens
-<br>Dr Wilson Wong
-<br>National Parks Board
-<br>
-<br>
-</p>
+<p><strong>How to be a Highrise Gardener</strong>
+<br>Mr Ben Chong
+<br>Plant Entrepreneur</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Pots for Bonsai</strong>
+<br>Mr Lim Keow Hua
+<br>Singapore Penjing and Stone Appreciation Society</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Plenteous Joy - Floral Demo</strong>
+<br>Ms Evelyn Lee
+<br>Floral Designers Society (Singapore)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Magic of Mushrooms (Fungi): An Artistic &amp; Fascinating Journey from Anywhere to Everywhere</strong>
+<br>Mr Remus Chua
+<br>Mushroom Academy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Floral Concerto</strong>
+<br>Ms Christina Yew
+<br>Singapore Flower Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Growing Together: A Kampung Garden</strong>
+<br>Mr Roc Koh Chit Song
+<br>Corridor Farming</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Day 8 - Saturday, 10 Aug 2024</h3>
 <h3>Day 9 - Saturday, 11 Aug 2024</h3>
 <p></p>
