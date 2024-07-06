@@ -250,7 +250,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 <p>1pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Entomology and Nematology<br>Simple Sylla-buzz to Common Garden Pests. Learn the Right Ant-sers to Your Problems!</strong>
+<p><strong>Entomology and Nematology: Simple Sylla-buzz to Common Garden Pests. Learn the Right Ant-sers to Your Problems!</strong>
 <br>Derrick Nguyen &amp; Jaren Wong
 <br>National Parks Board
 <br>
@@ -312,8 +312,251 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </tbody>
 </table>
 <h3>Day 5 - Saturday, 7 Aug 2024</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Biophyllic Design for Home &amp; Office</strong>
+<br>Mr David Wu
+<br>Biophilic Private Limited</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>My Rewards as a Lifelong Gardener</strong>
+<br>Ms Shelley Siu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Essential Growing Orchids in Highrise Apartments </strong>
+<br>Mr Ridwan
+<br>Wan Orchids</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Semi Hydroponic Gardening </strong>
+<br>Fendi
+<br>LittleBotany</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Floral Delights: The Artistry of 3D Jelly Creations</strong>
+<br>Ms Janet Su
+<br>Vanilla Bean SG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Botanical Tapestry: Exploring Unusual Natural Materials</strong>
+<br>Keith Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>International FDSS Cup Floral Designing Competition Prize Presentation Ceremony</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Day 6 - Saturday, 8 Aug 2024</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Exploring Fruits and Seeds of Heritage Trees</strong> 
+<br>Ms Pauline Tay &amp; Ms Low Wei Ting
+<br>National Parks Board</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Soil Management Laboratory: Magic Beneath our feet </strong>
+<br>Mr Edgar Raeben George
+<br>National Parks Board</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Growing Xeric Orchids in an Apartment</strong>
+<br>Mr Mark Choo
+<br>National Parks Board</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>An Orchid's Journey-From Seedpod to Flower pot</strong>
+<br>Ms Kee Kai Ying
+<br>National Parks Board</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fleurbulous 59:&nbsp; Celebrating Singapore's 59th National Day with Sustainable Elegance</strong><s><br></s>Mr
+Philip Foo
+<br>Floral Designers Society (Singapore)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Day 7 - Saturday, 9 Aug 2024</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Biophyllic Skyrise Greenery</strong>
+<br>David Wu
+<br>Biophilic Private Limited</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Cultural guides for Commonly Grown Orchids in Singapore </strong>
+<br>Mr K Gopalan
+<br>Orchid Society of South East Asia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Efforts to Restore Natural Areas to Sites Left Behind by Large-Scale Earth and Sand Mining</strong>
+<br>Mr Tatsuya Koyama
+<br>Hyogo Prefectural Government</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Composting in Singapore</strong>
+<br>Ms Jayden &amp; Ms Ang Ee Peng
+<br>Soil Social</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3D Jelly Art Floral Cake</strong>
+<br>Ms Janet Su
+<br>Vanilla Bean SG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Threads of Time: Weaving Traditional and Modern Florals
+<br>Ms Susie Un &amp; Ms Ta Quynh Giang
+<br>Singapore Flower Club
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edibles garden in Jurong Lake Gardens
+<br>Dr Wilson Wong
+<br>National Parks Board
+<br>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Day 8 - Saturday, 10 Aug 2024</h3>
 <h3>Day 9 - Saturday, 11 Aug 2024</h3>
 <p></p>
