@@ -698,9 +698,7 @@ Philip Foo
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Daily Blooms: Finding Beauty in the Everyday </strong>
-<br>Ms Lynda Suryadi
-<br>Ms Sumi Madayya
-<br>Ms Sujata Cowlagi
+<br>Ms Lynda Suryadi , Ms Sumi Madayya &amp; Ms Sujata Cowlagi
 <br>Singapore Flower Club</p>
 </td>
 </tr>
