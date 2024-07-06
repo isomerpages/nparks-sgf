@@ -704,4 +704,5 @@ Philip Foo
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>Information is correct at the time of publish and is subject to change without prior notice.<br>All talks are approximately 45 minutes in duration.</em>
+</p>
