@@ -2,7 +2,6 @@ collections:
   sgf-2024-show-highlights:
     output: true
     order:
-      - Stage Programme.md
       - Best of Show Designer Gardens/.keep
       - Best of Show Designer Gardens/About the Competition.md
       - Best of Show Designer Gardens/SGF 2024 Landscape Gardens.md
@@ -26,3 +25,4 @@ collections:
       - Other Community Highlights.md
       - MarketPlace.md
       - Floristry Demonstrations and Workshops.md
+      - Stage Programme.md
