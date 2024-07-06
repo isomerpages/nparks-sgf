@@ -211,6 +211,146 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </tbody>
 </table>
 <h3>Day 4 - Saturday, 6 Aug 2024</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>10am</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>10am</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Lessons Learnt Growing in an Urban Farm
+<br>Ms Rebecca Neo
+<br>Edible Garden City</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>10am</p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Companion Planting for a Sustainable Organic Garden
+<br>Nagib Elimad
+<br>City Sprouts
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Entomology and Nematology
+<br>&nbsp;"Simple Sylla-buzz to Common Garden Pests. Learn the Right Ant-sers
+to Your Problems!"
+<br>Derrick Nguyen &amp; Jaren Wong
+<br>National Parks Board
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>An Orchid's Journey-From Seedpod to Flower pot
+<br>Ms Kee Kai Ying
+<br>National Parks Board
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Delights: The Artistry of 3D Jelly Creations"
+<br>&nbsp;MS Janet Su
+<br>Vanilla Bean SG
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reaching New Heights: Elevating Your Orchid Cultivation in High-Rise Spaces
+<br>Nicholas Chua
+<br>Orchid Society of South East Asia
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Urban Oasis: Exploring High-Rise and Indoor Gardening"
+<br>Dr Wilson Wong
+<br>National Parks Board
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop
+<br>Semi- Hydroponics for your Houseplants
+<br>Mohammed Effendi Bin Mohammed Sani
+<br>&nbsp;Little Botany
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Day 5 - Saturday, 7 Aug 2024</h3>
 <h3>Day 6 - Saturday, 8 Aug 2024</h3>
 <h3>Day 7 - Saturday, 9 Aug 2024</h3>
