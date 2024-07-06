@@ -210,7 +210,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </tr>
 </tbody>
 </table>
-<h3>Day 4 - Saturday, 6 Aug 2024</h3>
+<h3>Day 4 - Tuesday, 6 Aug 2024</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -311,7 +311,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </tr>
 </tbody>
 </table>
-<h3>Day 5 - Saturday, 7 Aug 2024</h3>
+<h3>Day 5 - Wednesday, 7 Aug 2024</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -395,7 +395,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </tr>
 </tbody>
 </table>
-<h3>Day 6 - Saturday, 8 Aug 2024</h3>
+<h3>Day 6 - Thursday, 8 Aug 2024</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -462,7 +462,7 @@ Philip Foo
 </tr>
 </tbody>
 </table>
-<h3>Day 7 - Saturday, 9 Aug 2024</h3>
+<h3>Day 7 - Friday, 9 Aug 2024</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -636,7 +636,7 @@ Philip Foo
 </tr>
 </tbody>
 </table>
-<h3>Day 9 - Saturday, 11 Aug 2024</h3>
+<h3>Day 9 - Sunday, 11 Aug 2024</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
