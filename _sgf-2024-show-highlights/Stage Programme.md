@@ -566,7 +566,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Growing High Nutrition Microgreens at Home</strong>
@@ -576,7 +576,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>How to be a Highrise Gardener</strong>
@@ -586,7 +586,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Pots for Bonsai</strong>
@@ -596,7 +596,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plenteous Joy - Floral Demo</strong>
@@ -606,7 +606,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>The Magic of Mushrooms (Fungi): An Artistic &amp; Fascinating Journey from Anywhere to Everywhere</strong>
@@ -626,7 +626,7 @@ Philip Foo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Growing Together: A Kampung Garden</strong>
