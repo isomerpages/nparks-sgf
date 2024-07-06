@@ -93,26 +93,43 @@ Presentation Ceremony</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Plant Styling</strong>
+<br><strong>Planty Makeover</strong>
+<br>Mr Leo Tay
+<br>The3Keys</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ikenobo Ikebana: ''Bridging Tradition and Modernity"</strong>
+<br>Dr Leonard
+<br>Ikenobo Ikebana Society</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Paper Petals: Sustainable Floral Artistry<br></strong>Mr Anson
+Low, AIFD
+<br>Nobleman School of Floral Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Workshop: </em>The Magical World of Mushrooms</strong>
+<br><strong>Fogo Fungi Pte Ltd</strong>
+<br>Mr Ryan Ong</p>
 </td>
 </tr>
 </tbody>
