@@ -87,8 +87,8 @@ description: ""
 <p>9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Penjing &amp; Artistic Stone Exhibition &amp; Competition &amp; Prize
-Presentation Ceremony</p>
+<p><strong>Penjing &amp; Artistic Stone Exhibition &amp; Competition &amp; Prize Presentation Ceremony</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -221,64 +221,36 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
-<td rowspan="1" colspan="1">
-<p><strong>Programme</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>10am</p>
-</th>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
+<p>10am</p>
 </td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>10am</p>
-</th>
 <td rowspan="1" colspan="1">
-<p>Lessons Learnt Growing in an Urban Farm
+<p><strong>Lessons Learnt Growing in an Urban Farm</strong>
 <br>Ms Rebecca Neo
 <br>Edible Garden City</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>10am</p>
-</th>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>11am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Companion Planting for a Sustainable Organic Garden
+<p><strong>Companion Planting for a Sustainable Organic Garden</strong>
 <br>Nagib Elimad
-<br>City Sprouts
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<br>City Sprouts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Entomology and Nematology
-<br>&nbsp;"Simple Sylla-buzz to Common Garden Pests. Learn the Right Ant-sers
-to Your Problems!"
+<p><strong>Entomology and Nematology<br>Simple Sylla-buzz to Common Garden Pests. Learn the Right Ant-sers to Your Problems!</strong>
 <br>Derrick Nguyen &amp; Jaren Wong
 <br>National Parks Board
 <br>
@@ -287,64 +259,52 @@ to Your Problems!"
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>An Orchid's Journey-From Seedpod to Flower pot
+<p><strong>An Orchid's Journey-From Seedpod to Flower pot</strong>
 <br>Ms Kee Kai Ying
-<br>National Parks Board
-<br>
-<br>
-</p>
+<br>National Parks Board</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Delights: The Artistry of 3D Jelly Creations"
-<br>&nbsp;MS Janet Su
-<br>Vanilla Bean SG
-<br>
-</p>
+<p><strong>Floral Delights: The Artistry of 3D Jelly Creations</strong>
+<br>Ms Janet Su
+<br>Vanilla Bean SG</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reaching New Heights: Elevating Your Orchid Cultivation in High-Rise Spaces
+<p><strong>Reaching New Heights: Elevating Your Orchid Cultivation in High-Rise Spaces</strong>
 <br>Nicholas Chua
-<br>Orchid Society of South East Asia
-<br>
-<br>
-</p>
+<br>Orchid Society of South East Asia</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Urban Oasis: Exploring High-Rise and Indoor Gardening"
+<p><strong>Urban Oasis: Exploring High-Rise and Indoor Gardening</strong>
 <br>Dr Wilson Wong
-<br>National Parks Board
-<br>
-<br>
-</p>
+<br>National Parks Board</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop
-<br>Semi- Hydroponics for your Houseplants
+<p><strong><em>Workshop:</em> Semi- Hydroponics for your Houseplants</strong>
 <br>Mohammed Effendi Bin Mohammed Sani
-<br>&nbsp;Little Botany
+<br>Little Botany
 <br>
 </p>
 </td>
