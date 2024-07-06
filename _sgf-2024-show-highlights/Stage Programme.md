@@ -637,5 +637,73 @@ Philip Foo
 </tbody>
 </table>
 <h3>Day 9 - Saturday, 11 Aug 2024</h3>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tillandsia Tales: Unlocking the Secrets of Airplants Growth</strong>
+<br>Mr Kevin Cheong
+<br>PickAPlant
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Explore Biophilic Natural Pool Design</strong>
+<br>Mr David Wu
+<br>Biophilic Private Limited</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Nature's Essence - Flora Demo</strong>
+<br>Ms Chua Lee Hong
+<br>Floral Designers Society (Singapore)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ikebana Passion</strong>
+<br>Ms Viola Pang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Daily Blooms: Finding Beauty in the Everyday </strong>
+<br>Ms Lynda Suryadi
+<br>Ms Sumi Madayya
+<br>Ms Sujata Cowlagi
+<br>Singapore Flower Club</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
