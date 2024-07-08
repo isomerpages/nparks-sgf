@@ -38,24 +38,6 @@ description: ""
 <br>Mr Pascal Garbe</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Landscape Design Challenge (LDC) Prize Presentation Ceremony</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Floral Harmony Prize Presentation Ceremony</strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Day 2 - Sunday, 4 Aug 2024</h3>
@@ -72,15 +54,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Programme</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9.30am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Penjing &amp; Artistic Stone Exhibition &amp; Competition &amp; Prize Presentation Ceremony</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -372,15 +345,6 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 <td rowspan="1" colspan="1">
 <p><strong>Botanical Tapestry: Exploring Unusual Natural Materials</strong>
 <br>Mr Keith Lin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>International FDSS Cup Floral Designing Competition Prize Presentation Ceremony</strong>
-</p>
 </td>
 </tr>
 </tbody>
