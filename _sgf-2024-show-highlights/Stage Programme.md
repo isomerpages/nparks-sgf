@@ -21,20 +21,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Singapore Gardeners' Cup Awards Ceremony &amp; CIB award</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Some beautiful Singapore Dipterocarps</strong>
-<br>SK Ganesan
+<br>Dr SK Ganesan
 <br>National Parks Board</p>
 </td>
 </tr>
@@ -44,7 +35,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>From Paris to Singapore : the fantastic adventure of edible plants</strong>
-<br>Pascal Garbe</p>
+<br>Mr Pascal Garbe</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +90,7 @@ description: ""
 <p><strong>Plant Styling</strong>
 <br><strong>Planty Makeover</strong>
 <br>Mr Leo Tay
-<br>The3Keys</p>
+<br>The 3 Keys</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +99,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ikenobo Ikebana: ''Bridging Tradition and Modernity"</strong>
-<br>Dr Leonard
+<br>Dr Leonard Lim
 <br>Ikenobo Ikebana Society</p>
 </td>
 </tr>
@@ -128,8 +119,8 @@ Low, AIFD
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><em>Workshop: </em>The Magical World of Mushrooms</strong>
-<br><strong>Fogo Fungi Pte Ltd</strong>
-<br>Mr Ryan Ong</p>
+<br>Mr Ryan Ong
+<br>Fogo Fungi Pte Ltd</p>
 </td>
 </tr>
 </tbody>
@@ -151,7 +142,7 @@ Low, AIFD
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.10am</p>
+<p>10am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Exploring Fruits and Seeds of Heritage Trees</strong>
@@ -204,8 +195,9 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 <p>6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Workshop: </em>The3Keys</strong>
-<br>Mr Leo Tay</p>
+<p><strong><em>Workshop: </em>Threaded Tranquality: Kokedama</strong>
+<br>Mr Leo Tay
+<br>The 3 Keys</p>
 </td>
 </tr>
 </tbody>
@@ -241,7 +233,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Companion Planting for a Sustainable Organic Garden</strong>
-<br>Nagib Elimad
+<br>Mr Nagib Elimad
 <br>City Sprouts</p>
 </td>
 </tr>
@@ -251,10 +243,8 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Entomology and Nematology: Simple Sylla-buzz to Common Garden Pests. Learn the Right Ant-sers to Your Problems!</strong>
-<br>Derrick Nguyen &amp; Jaren Wong
-<br>National Parks Board
-<br>
-</p>
+<br>Mr Derrick Nguyen &amp; Mr Jaren Wong
+<br>National Parks Board</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +273,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Reaching New Heights: Elevating Your Orchid Cultivation in High-Rise Spaces</strong>
-<br>Nicholas Chua
+<br>Mr Nicholas Chua
 <br>Orchid Society of South East Asia</p>
 </td>
 </tr>
@@ -303,7 +293,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><em>Workshop:</em> Semi- Hydroponics for your Houseplants</strong>
-<br>Mohammed Effendi Bin Mohammed Sani
+<br>Mr Mohammed Effendi Bin Mohammed Sani
 <br>Little Botany
 <br>
 </p>
@@ -351,7 +341,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Essential Growing Orchids in Highrise Apartments </strong>
-<br>Mr Ridwan
+<br>Mr Muhammad Ridhwan Bin Ibrahim
 <br>Wan Orchids</p>
 </td>
 </tr>
@@ -361,7 +351,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Semi Hydroponic Gardening </strong>
-<br>Fendi
+<br>Mr Mohammed Effendi Bin Mohammed Sani
 <br>LittleBotany</p>
 </td>
 </tr>
@@ -381,7 +371,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Botanical Tapestry: Exploring Unusual Natural Materials</strong>
-<br>Keith Lin</p>
+<br>Mr Keith Lin</p>
 </td>
 </tr>
 <tr>
@@ -504,7 +494,8 @@ Philip Foo
 <td rowspan="1" colspan="1">
 <p><strong>Efforts to Restore Natural Areas to Sites Left Behind by Large-Scale Earth and Sand Mining</strong>
 <br>Mr Tatsuya Koyama
-<br>Hyogo Prefectural Government</p>
+<br>Hyogo Prefectural Government
+<br>General Affair Division Director</p>
 </td>
 </tr>
 <tr>
@@ -522,7 +513,7 @@ Philip Foo
 <p>3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>3D Jelly Art Floral Cake</strong>
+<p><strong>Floral Delights: The Artistry of 3D Jelly Creations</strong>
 <br>Ms Janet Su
 <br>Vanilla Bean SG</p>
 </td>
@@ -620,7 +611,8 @@ Philip Foo
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Floral Concerto</strong>
-<br>Ms Christina Yew
+<br>Dr. Seemeen Mueen Uddeen, Ms Mariko Tudor &amp; Mr Lakhbir Kaur a.k.a
+Lucky
 <br>Singapore Flower Club</p>
 </td>
 </tr>
@@ -632,6 +624,16 @@ Philip Foo
 <p><strong>Growing Together: A Kampung Garden</strong>
 <br>Mr Roc Koh Chit Song
 <br>Corridor Farming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Workshop: </em>The Magical World of Mushrooms</strong>
+<br>Mr Ryan Ong
+<br>Fogo Fungi Pte Ltd</p>
 </td>
 </tr>
 </tbody>
@@ -689,7 +691,7 @@ Philip Foo
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ikebana Passion</strong>
-<br>Ms Viola Pang</p>
+<br>Ms Viola Yong</p>
 </td>
 </tr>
 <tr>
