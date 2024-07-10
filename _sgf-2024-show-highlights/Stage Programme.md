@@ -139,7 +139,7 @@ Low, AIFD
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Understanding and Managing Plant Diseases: Insights from the Phytopathology Laboratory<br></strong>Mr
-Muhd Azhari &amp; Dr Jia Yih WONG
+Muhd Azhari &amp; Dr Jia Yih Wong
 <br>National Parks Board</p>
 </td>
 </tr>
@@ -294,7 +294,7 @@ Muhd Azhari &amp; Dr Jia Yih WONG
 <p>10am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Biophyllic Design for Home &amp; Office</strong>
+<p><strong>Biophilic Design for Home &amp; Office</strong>
 <br>Mr David Wu
 <br>Biophilic Private Limited</p>
 </td>
@@ -436,7 +436,7 @@ Philip Foo
 <p>10am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Biophyllic Skyrise Greenery</strong>
+<p><strong>Biophilic Skyrise Greenery</strong>
 <br>Mr David Wu
 <br>Biophilic Private Limited</p>
 </td>
