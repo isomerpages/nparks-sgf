@@ -4,6 +4,8 @@ permalink: /stage-programme/
 variant: tiptap
 description: ""
 ---
+<p><em>All talks are approximately 45 minutes in duration.</em>
+</p>
 <h3>Day 1 - Saturday, 3 Aug 2024</h3>
 <table style="minWidth: 50px">
 <colgroup>
