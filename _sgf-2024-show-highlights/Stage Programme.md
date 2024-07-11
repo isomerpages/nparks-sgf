@@ -458,8 +458,8 @@ Philip Foo
 <td rowspan="1" colspan="1">
 <p><strong>Efforts to Restore Natural Areas to Sites Left Behind by Large-Scale Earth and Sand Mining</strong>
 <br>Mr Tatsuya Koyama
-<br>Hyogo Prefectural Government
-<br>General Affair Division Director</p>
+<br>General Manager of Awaji Flower Festival Committee
+<br>Director of General Affairs, Hyogo Prefectural Government &nbsp;</p>
 </td>
 </tr>
 <tr>
