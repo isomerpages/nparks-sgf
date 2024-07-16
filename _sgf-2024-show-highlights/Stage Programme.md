@@ -36,7 +36,7 @@ description: ""
 <p>2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>From Paris to Singapore : the fantastic adventure of edible plants</strong>
+<p><strong>From Paris to Singapore: the fantastic adventure of edible plants</strong>
 <br>Mr Pascal Garbe</p>
 </td>
 </tr>
@@ -70,6 +70,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Blossoms Unbound: Ikebana's Artistry with Unique Botanicals</strong>
+<br>Ms Gwen Yong
+<br>Ikebana International Singapore Chapter 135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,7 +105,9 @@ Low, AIFD
 <td rowspan="1" colspan="1">
 <p><strong><em>Workshop: </em>The Magical World of Mushrooms</strong>
 <br>Mr Ryan Ong
-<br>Fogo Fungi Pte Ltd</p>
+<br>Fogo Fungi Pte Ltd
+<br><em>You may register at this <a href="https://docs.google.com/forms/d/e/1FAIpQLScLD8txh2W8YoLJV_-iopvnAeJOhxaXUk0fER5eoDR7cxLQ-w/viewform?usp=sf_link" rel="noopener noreferrer nofollow" target="_blank">link.</a> Fees apply.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -172,7 +184,9 @@ Muhd Azhari &amp; Dr Jia Yih Wong
 <td rowspan="1" colspan="1">
 <p><strong><em>Workshop: </em>Threaded Tranquality: Kokedama</strong>
 <br>Mr Leo Tay
-<br>The 3 Keys</p>
+<br>The 3 Keys
+<br><em>You may register at this <a href="https://forms.gle/WLHWQMuVUmEZZ2qQA" rel="noopener noreferrer nofollow" target="_blank">link</a>. Fees apply.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -270,7 +284,7 @@ Muhd Azhari &amp; Dr Jia Yih Wong
 <p><strong><em>Workshop:</em> Semi- Hydroponics for your Houseplants</strong>
 <br>Mr Mohammed Effendi Bin Mohammed Sani
 <br>Little Botany
-<br>
+<br><em>You may register at this <a href="https://forms.gle/5Q3ouNn8qpeKNAf79" rel="noopener noreferrer nofollow" target="_blank">link</a>. Fees apply.</em>
 </p>
 </td>
 </tr>
@@ -404,6 +418,16 @@ Muhd Azhari &amp; Dr Jia Yih Wong
 <p><strong>An Orchid's Journey-From Seedpod to Flower pot</strong>
 <br>Ms Kee Kai Ying
 <br>National Parks Board</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chromatic Crescendo: Ikebana's Colourful Artistry Unveiled</strong>
+<br>Ms Yuki Chong
+<br>Ikebana International Singapore Chapter 135</p>
 </td>
 </tr>
 <tr>
@@ -599,7 +623,9 @@ Lucky
 <td rowspan="1" colspan="1">
 <p><strong><em>Workshop: </em>The Magical World of Mushrooms</strong>
 <br>Mr Ryan Ong
-<br>Fogo Fungi Pte Ltd</p>
+<br>Fogo Fungi Pte Ltd
+<br><em>You may register at this <a href="https://docs.google.com/forms/d/e/1FAIpQLScLD8txh2W8YoLJV_-iopvnAeJOhxaXUk0fER5eoDR7cxLQ-w/viewform?usp=sf_link" rel="noopener noreferrer nofollow" target="_blank">link.</a> Fees apply.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -626,9 +652,17 @@ Lucky
 <td rowspan="1" colspan="1">
 <p><strong>Tillandsia Tales: Unlocking the Secrets of Airplants Growth</strong>
 <br>Mr Kevin Cheong
-<br>PickAPlant
-<br>
-</p>
+<br>PickAPlant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Innovative Ikebana: Mastering Creativity with Unique Materials</strong>
+<br>Ms Esther Law
+<br>Ikebana International Singapore Chapter 135</p>
 </td>
 </tr>
 <tr>
@@ -657,7 +691,8 @@ Lucky
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ikebana Passion</strong>
-<br>Ms Viola Yong</p>
+<br>Ms Viola Yong
+<br>Ikebana International Singapore Chapter 135</p>
 </td>
 </tr>
 <tr>
@@ -672,5 +707,5 @@ Lucky
 </tr>
 </tbody>
 </table>
-<p><em>Information is correct at the time of publish and is subject to change without prior notice.<br>All talks are approximately 45 minutes in duration.</em>
+<p><em>Information is correct at the time of publish and is subject to change without prior notice.<br></em>
 </p>
