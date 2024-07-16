@@ -105,7 +105,9 @@ Low, AIFD
 <td rowspan="1" colspan="1">
 <p><strong><em>Workshop: </em>The Magical World of Mushrooms</strong>
 <br>Mr Ryan Ong
-<br>Fogo Fungi Pte Ltd</p>
+<br>Fogo Fungi Pte Ltd
+<br><em>You may register at this <a href="https://docs.google.com/forms/d/e/1FAIpQLScLD8txh2W8YoLJV_-iopvnAeJOhxaXUk0fER5eoDR7cxLQ-w/viewform?usp=sf_link" rel="noopener noreferrer nofollow" target="_blank">link.</a> Fees apply.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -619,7 +621,9 @@ Lucky
 <td rowspan="1" colspan="1">
 <p><strong><em>Workshop: </em>The Magical World of Mushrooms</strong>
 <br>Mr Ryan Ong
-<br>Fogo Fungi Pte Ltd</p>
+<br>Fogo Fungi Pte Ltd
+<br><em>You may register at this <a href="https://docs.google.com/forms/d/e/1FAIpQLScLD8txh2W8YoLJV_-iopvnAeJOhxaXUk0fER5eoDR7cxLQ-w/viewform?usp=sf_link" rel="noopener noreferrer nofollow" target="_blank">link.</a> Fees apply.</em>
+</p>
 </td>
 </tr>
 </tbody>
