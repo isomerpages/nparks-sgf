@@ -646,9 +646,17 @@ Lucky
 <td rowspan="1" colspan="1">
 <p><strong>Tillandsia Tales: Unlocking the Secrets of Airplants Growth</strong>
 <br>Mr Kevin Cheong
-<br>PickAPlant
-<br>
-</p>
+<br>PickAPlant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Innovative Ikebana: Mastering Creativity with Unique Materials</strong>
+<br>Ms Esther Law
+<br>Ikebana International Singapore Chapter 135</p>
 </td>
 </tr>
 <tr>
