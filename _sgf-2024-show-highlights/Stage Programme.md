@@ -184,7 +184,9 @@ Muhd Azhari &amp; Dr Jia Yih Wong
 <td rowspan="1" colspan="1">
 <p><strong><em>Workshop: </em>Threaded Tranquality: Kokedama</strong>
 <br>Mr Leo Tay
-<br>The 3 Keys</p>
+<br>The 3 Keys
+<br><em>You may register at this link. Fees apply.</em>
+</p>
 </td>
 </tr>
 </tbody>
