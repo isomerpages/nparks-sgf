@@ -17,7 +17,18 @@ the exhibition is a talk titled “Pots for Bonsai” on 10 August (Saturday)
 from 1-2 pm at Suntec Level 4 stage. We invite you to join us at this event
 to gain a deeper appreciation for the intricacies of bonsai.</p>
 <hr>
-<p></p>
+<h4>Singapore Gardening Society</h4>
+<p>The Singapore Gardening Society and National Parks Board welcome visitors
+to step into the Hall of Fame. Over the last nine decades, the Singapore
+Botanic Gardens and local breeders have produced many fine and significant
+orchid hybrids, some of which have helped to put Singapore on the world
+map. Nestled amidst a verdant backdrop, this display showcases some of
+Singapore’s most significant heritage orchids. These include orchids associated
+with the Gardens and Singapore Gardening Society. Keep a lookout for the
+interpretive signs that will help in spotting the key orchid hybrids on
+the lush columns, as well as the wide array of epiphytes adorning the garden
+arches!</p>
+<hr>
 <h4>Floral Fantasies: Where Nature Meets Fashion By ITE College Central</h4>
 <p>Immerse yourself in the fusion of creativity and sustainability at the
 Floral and Botanical Fashion Showcase, presented by the Institute of Technical
@@ -36,7 +47,6 @@ at creations crafted from recycled materials like paper, compact discs,
 plastic bags, and paper cups, redefining beauty while encouraging a commitment
 to our planet's well-being.</p>
 <hr>
-<p></p>
 <h4>Celestial Garden&nbsp;By Ikebana International Singapore Chapter 135</h4>
 <p>Step into the <em>Celestial Garden</em> exhibition, where 30 master ikebana
 floral artists have orchestrated an awe-inspiring display. Behold the celestial
