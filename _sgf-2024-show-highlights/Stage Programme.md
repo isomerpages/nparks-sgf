@@ -36,7 +36,7 @@ description: ""
 <p>2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>From Paris to Singapore : the fantastic adventure of edible plants</strong>
+<p><strong>From Paris to Singapore: the fantastic adventure of edible plants</strong>
 <br>Mr Pascal Garbe</p>
 </td>
 </tr>
@@ -185,7 +185,7 @@ Muhd Azhari &amp; Dr Jia Yih Wong
 <p><strong><em>Workshop: </em>Threaded Tranquality: Kokedama</strong>
 <br>Mr Leo Tay
 <br>The 3 Keys
-<br><em>You may register at this link. Fees apply.</em>
+<br><em>You may register at this <a href="https://forms.gle/WLHWQMuVUmEZZ2qQA" rel="noopener noreferrer nofollow" target="_blank">link</a>. Fees apply.</em>
 </p>
 </td>
 </tr>
@@ -284,7 +284,7 @@ Muhd Azhari &amp; Dr Jia Yih Wong
 <p><strong><em>Workshop:</em> Semi- Hydroponics for your Houseplants</strong>
 <br>Mr Mohammed Effendi Bin Mohammed Sani
 <br>Little Botany
-<br><em>You may register at this link. Fees apply.</em>
+<br><em>You may register at this <a href="https://forms.gle/5Q3ouNn8qpeKNAf79" rel="noopener noreferrer nofollow" target="_blank">link</a>. Fees apply.</em>
 </p>
 </td>
 </tr>
