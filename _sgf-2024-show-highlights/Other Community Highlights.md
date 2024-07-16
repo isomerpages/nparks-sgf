@@ -44,3 +44,34 @@ theme brought to life through their meticulous arrangements, each mirroring
 the grandeur of constellations. Prepare to be spellbound as the <em>Celestial Garden</em> unfolds
 before you, captivating your senses and transporting you to a realm of
 celestial splendour and unparalleled artistry.</p>
+<hr>
+<h4>Learning Garden By City Sprouts</h4>
+<p>Step into the immersive world of UnEarth, our captivating theme for this
+year’s Learning Garden, thoughtfully curated by City Sprouts. Embark on
+a journey that offers a unique botanical perspective—viewing the world
+through the lens of a plant.</p>
+<p>Explore four engaging zones meticulously crafted to educate and inspire:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Beginning Zone: Commence your expedition by entering an experiential
+journey mirroring the life stages of a plant. Experience the wonders of
+growth and germination.</p>
+</li>
+<li>
+<p>The Natural Zone: Immerse yourself in the intricacies of Rainforest and
+Wetland ecosystems through interactive displays. Gain insight into the
+delicate balance of nature and the significance of preserving these vital
+habitats.</p>
+</li>
+<li>
+<p>The Urban Zone: Discover the integration of plants into our urban landscape
+through Smart Green Technologies. Engage with urban farming experts and
+learn about sustainable practices.</p>
+</li>
+<li>
+<p>The Playground Zone: Conclude your botanical adventure in this zone, where
+you will be enveloped by a larger-than-life installation of grass, offering
+an opportunity to delve into the natural cycle of seed dispersal.</p>
+</li>
+</ul>
+<p></p>
