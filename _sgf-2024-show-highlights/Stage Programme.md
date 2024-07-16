@@ -284,7 +284,7 @@ Muhd Azhari &amp; Dr Jia Yih Wong
 <p><strong><em>Workshop:</em> Semi- Hydroponics for your Houseplants</strong>
 <br>Mr Mohammed Effendi Bin Mohammed Sani
 <br>Little Botany
-<br>
+<br><em>You may register at this link. Fees apply.</em>
 </p>
 </td>
 </tr>
