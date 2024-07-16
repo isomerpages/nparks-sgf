@@ -70,6 +70,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Blossoms Unbound: Ikebana's Artistry with Unique Botanicals</strong>
+<br>Ms Gwen Yong
+<br>Ikebana International Singapore Chapter 135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -408,6 +418,16 @@ Muhd Azhari &amp; Dr Jia Yih Wong
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chromatic Crescendo: Ikebana's Colourful Artistry Unveiled</strong>
+<br>Ms Yuki Chong
+<br>Ikebana International Singapore Chapter 135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -672,5 +692,5 @@ Lucky
 </tr>
 </tbody>
 </table>
-<p><em>Information is correct at the time of publish and is subject to change without prior notice.<br>All talks are approximately 45 minutes in duration.</em>
+<p><em>Information is correct at the time of publish and is subject to change without prior notice.<br></em>
 </p>
