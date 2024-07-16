@@ -85,4 +85,12 @@ an opportunity to delve into the natural cycle of seed dispersal.</p>
 </li>
 </ul>
 <hr>
+<h4>Singapore Floral - Through the Lens of Our Migrant Workers<br>A photo exhibition by Holdinghands Studio</h4>
+<p>Explore Singapore’s stunning botanical world through the eyes of our migrant
+workers. Through their unique perspectives and creativity, discover the
+beauty and diversity of Singapore’s botanical wonders, from lush gardens
+to exotic blooms. Each photograph tells a story of nature’s beauty and
+our shared connection to it. Join us on a visual journey celebrating the
+intricate beauty of Singapore’s flora and the cultural richness brought
+by our migrant community.</p>
 <p></p>
