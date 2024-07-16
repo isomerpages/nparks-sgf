@@ -74,4 +74,5 @@ you will be enveloped by a larger-than-life installation of grass, offering
 an opportunity to delve into the natural cycle of seed dispersal.</p>
 </li>
 </ul>
+<hr>
 <p></p>
