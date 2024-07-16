@@ -84,6 +84,10 @@ you will be enveloped by a larger-than-life installation of grass, offering
 an opportunity to delve into the natural cycle of seed dispersal.</p>
 </li>
 </ul>
+<p>Join us for exclusive workshops available during the weekends! Hurry,
+as slots are limited. Discover more <a href="https://citysprouts.com.sg/products/singapore-garden-festival-2024-unearth" rel="noopener noreferrer nofollow" target="_blank">here</a> and
+book now to secure your spot!</p>
+<p></p>
 <hr>
 <h4>Singapore Floral - Through the Lens of Our Migrant Workers<br>A photo exhibition by Holdinghands Studio</h4>
 <p>Explore Singapore’s stunning botanical world through the eyes of our migrant
