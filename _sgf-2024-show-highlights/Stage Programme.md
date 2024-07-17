@@ -133,7 +133,7 @@ Low, AIFD
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Exploring Fruits and Seeds of Heritage Trees</strong>
-<br>Ms Pauline Tay &amp; Ms Low Wei Ting
+<br>Ms Pauline Tay &amp; Ms Low Wei Teng
 <br>National Parks Board</p>
 </td>
 </tr>
@@ -386,7 +386,7 @@ Muhd Azhari &amp; Dr Jia Yih Wong
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Exploring Fruits and Seeds of Heritage Trees</strong> 
-<br>Ms Pauline Tay &amp; Ms Low Wei Ting
+<br>Ms Pauline Tay &amp; Ms Low Wei Teng
 <br>National Parks Board</p>
 </td>
 </tr>
@@ -494,7 +494,7 @@ Philip Foo
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Composting in Singapore</strong>
-<br>Ms Jayden &amp; Ms Ang Ee Peng
+<br>Ms Jayden Ong &amp; Ms Ang Ee Peng
 <br>Soil Social</p>
 </td>
 </tr>
