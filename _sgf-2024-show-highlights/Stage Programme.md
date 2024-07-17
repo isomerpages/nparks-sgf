@@ -320,7 +320,7 @@ Muhd Azhari &amp; Dr Jia Yih Wong
 <p>11am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>My Rewards as a Lifelong Gardener</strong>
+<p><strong>My Rewards as a Lifelong Gardener and Paying Forward</strong>
 <br>Ms Shelley Siu</p>
 </td>
 </tr>
