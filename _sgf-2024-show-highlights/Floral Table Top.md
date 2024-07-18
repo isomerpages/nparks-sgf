@@ -1,7 +1,0 @@
----
-title: Floral Table Top
-permalink: /sgf-2024-show-highlights/floraltabletop/
-variant: tiptap
-description: ""
----
-<p>Be mesmerised and learn from the creative designs of our florists on how to bring your table floral arrangements to life.</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SLY Soh" src="/images/Table Top/2016_007_SGF_IMG_9873ed.jpg"></div><p><strong><em>Coming Together<br>Designed by Soh Liang Ying (SLY)<br>Silver, SGF 2016</em></strong></p><hr><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rose Cao" src="/images/Table Top/2016_007_SGF_IMG_9850ed.jpg"></div><p><strong><em>To Be<br>Designed by Rose Cao<br>Silver, SGF 2016</em></strong></p><hr><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Table Top" src="/images/Table Top/SGF2014_TA1_150814__3_.jpg"></div><p><strong><em>Miracle Dining Table</em></strong><br><strong><em>Designed by Tan Han Xiang @ Han Ashworth</em></strong><br><strong><em>Gold and Best of Show (Amateur), SGF 2014</em></strong></p><hr><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Table Top" src="/images/Table Top/SGF2014_TP2_150814.jpg"></div><p><strong><em>Enchanted Night</em></strong><br><strong><em>Designed by Winston Chin </em></strong><br><strong><em>Gold and Best of Show (Professional), SGF 2014</em></strong></p>
