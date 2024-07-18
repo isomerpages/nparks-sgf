@@ -607,7 +607,8 @@ variety of gardening-related lifestyle products.</p>
 </tr>
 </tbody>
 </table>
-<p>Listing is accurate at the point of uploading.</p>
+<p><em>Information is correct at the time of publish and is subject to change without prior notice.</em>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
