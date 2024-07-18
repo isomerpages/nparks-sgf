@@ -87,7 +87,7 @@ variety of gardening-related lifestyle products.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>COMVITA NEW ZEALAND. NO.1 MANUKA HONEY.</p>
+<p>COMVITA NEW ZEALAND. NO.1 MANUKA HONEY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>C11 &amp; D11</p>
