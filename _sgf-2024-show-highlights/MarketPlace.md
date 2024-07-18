@@ -653,7 +653,5 @@ booth for the inspection and collection of phytosanitary certificates.
 <img style="width: 80%;" height="auto" width="100%" alt="MarketPlace" src="/images/MarketPlace/5_SGF2012_Visitors_MktPl_15Layna7903.JPG">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="MarketPlace" src="/images/MarketPlace/4_SGF2012_Visitors_MktPl_14AS6377.JPG">
-</div>
+<p>.</p>
 <p></p>
