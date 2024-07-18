@@ -707,5 +707,7 @@ Lucky
 </tr>
 </tbody>
 </table>
-<p><em>Information is correct at the time of publish and is subject to change without prior notice.<br></em>
+<p><em>Information is correct at the time of publish and is subject to change without prior notice.</em>
+<br>Click <a href="/files/Synopsis.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on the talks and speakers<em><br></em>
 </p>
