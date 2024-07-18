@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Shop to your heart’s content at our one-stop MarketPlace offering a wide
 variety of gardening-related lifestyle products.</p>
-<p>We are pleased to announce the following exhibitors joining us in MarketPlace.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
