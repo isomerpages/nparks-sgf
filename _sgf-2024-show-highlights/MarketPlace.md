@@ -623,7 +623,7 @@ variety of gardening-related lifestyle products.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>For customers intending to bring purchased plants back to their country,
-please apply for a phytosanitary certificate via <a href="http://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GoBusiness Licensing Portal</u></a> and
+please apply for a phytosanitary certificate via <a href="https://go.gov.sg/phytosanitarycert" rel="noopener noreferrer nofollow" target="_blank"><u>GoBusiness Licensing Portal</u></a> and
 visit the “Phytosanitary Service” booth for the inspection of plants and
 collection of the certificate.
 <br>
