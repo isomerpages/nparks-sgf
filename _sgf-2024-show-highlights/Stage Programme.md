@@ -27,7 +27,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Some beautiful Singapore Dipterocarps</strong>
-<br>Dr SK Ganesan
+<br>Dr S K Ganesan
 <br>National Parks Board</p>
 </td>
 </tr>
@@ -63,7 +63,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Plant Styling</strong>
-<br><strong>Planty Makeover</strong>
 <br>Mr Leo Tay
 <br>The 3 Keys</p>
 </td>
