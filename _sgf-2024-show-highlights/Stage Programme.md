@@ -493,7 +493,7 @@ Philip Foo
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Composting in Singapore</strong>
-<br>Ms Jayden Ong &amp; Ms Ang Ee Peng
+<br>Ms Ang Ee Peng
 <br>Soil Social</p>
 </td>
 </tr>
