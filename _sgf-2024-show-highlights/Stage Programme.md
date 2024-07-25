@@ -522,7 +522,7 @@ Philip Foo
 <p>5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Edibles garden in Jurong Lake Gardens </strong>
+<p><strong>Edible gardens in Jurong Lake Gardens </strong>
 <br>Dr Wilson Wong
 <br>National Parks Board</p>
 </td>
