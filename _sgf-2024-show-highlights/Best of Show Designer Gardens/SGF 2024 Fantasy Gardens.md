@@ -98,7 +98,7 @@ She is one of the top designers in her field.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jihae Hwang" src="/images/SGF 2024/Jihae.jpg">
 </div>
-<p><strong>HWANG JI-HAE (REPLUBIC OF KOREA)</strong> studied Fine Art and
+<p><strong>HWANG JI-HAE (REPUBLIC OF KOREA)</strong> studied Fine Art and
 has been working in the fields of sculpture, installation art and environmental
 art for the past 20 years. She likes to approach gardens from the viewpoint
 of conceptual art. She is also particularly keen to refine gardens to a
