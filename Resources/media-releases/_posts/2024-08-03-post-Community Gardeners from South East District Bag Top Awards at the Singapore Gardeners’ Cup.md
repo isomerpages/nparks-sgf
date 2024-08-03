@@ -19,7 +19,12 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>Singapore, 3 August 2024 – </strong>The ninth edition of the Singapore
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Funtastical Forest" src="/images/Picture1.jpg">
+</div>
+<p><em>The ‘Funtastical Forest’ by the South East district wins Best of Show and Gold Awards at Singapore Gardeners’ Cup 2024</em>
+<br>
+<br><strong>Singapore, 3 August 2024 – </strong>The ninth edition of the Singapore
 Garden Festival (SGF) opens to the public at Suntec Singapore Convention
 &amp; Exhibition Centre today. A key highlight of the event are five garden
 displays by more than 200 community gardeners for the Singapore Gardeners’
@@ -46,8 +51,7 @@ of creative displays by the community.
 </p>
 <p><strong><u>Competitive Displays</u></strong>
 <br><strong>Singapore Gardeners’ Cup</strong>
-</p>
-<p>Five garden displays for the Singapore Gardeners’ Cup were put together
+<br>Five garden displays for the Singapore Gardeners’ Cup were put together
 by more than 200 community gardeners from the five districts of Singapore,
 under NParks’ Community in Bloom programme. The community gardeners have
 honed their passion, skill and creativity in their respective community
