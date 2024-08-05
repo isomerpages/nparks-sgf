@@ -4,6 +4,9 @@ permalink: /plan-your-visit/show-info/
 description: ""
 variant: tiptap
 ---
+<p>🗓️: Sat-Sun, 3-11 Aug
+<br>📍: Suntec Singapore Convention and Exhibition Centre, Level 4 and 6</p>
+<p></p>
 <p>The biennial Singapore Garden Festival (SGF) brings together top award-winning
 landscape and garden designers, florists and horticulturists from around
 the world to team up with Singapore's own talented horticulturists. Singapore's
