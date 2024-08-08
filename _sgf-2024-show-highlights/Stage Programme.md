@@ -689,7 +689,7 @@ Lucky
 <p>3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ikebana Passion</strong>
+<p><strong>Ikebana Mastery: Design principles</strong>
 <br>Ms Viola Yong
 <br>Ikebana International Singapore Chapter 135</p>
 </td>
