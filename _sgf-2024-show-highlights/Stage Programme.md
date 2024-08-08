@@ -142,7 +142,7 @@ Low, AIFD
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Floral Artistry: Embracing Sustainability and Nature's Essence</strong>
-<br>Ms Felicia Kang &amp; Ms Berlinda Tan
+<br>Ms Zoe Kuek &amp; Ms Berlinda Tan
 <br>Nobleman School of Floral Design</p>
 </td>
 </tr>
