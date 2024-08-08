@@ -23,24 +23,11 @@ on level 4 (beside Hall 402) and 6 (beside Hall 604) and on SISTIC at
 <a rel="noopener noreferrer nofollow" target="_blank">www.sistic.com.sg/events/sgf2024</a>.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>&nbsp;‘Engardening’ by local garden designer Ann Teo won the People’s Choice Award</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Engardening" src="/images/Engardening.jpg">
+</div>
+<p><em>‘Engardening’ by local garden designer Ann Teo won the People’s Choice Award</em>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>‘ENGARDENING’ BY LOCAL GARDEN DESIGNER, ANN TEO REIMAGINES A TROPICAL GARDEN WITH EDIBLE LANDSCAPES</strong>
 </p>
 <p>‘Engardening’ captured the attention of visitors and received the People’s
@@ -54,29 +41,13 @@ international and local designers across the Best of Show Designer Gardens
 Competition and Balcony Gardens Competition, as well as Floral Windows
 to the World Championship at Level 6 and the Floral Table-Top Competition
 at Level 4.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>‘BOTANICAL KALEIDOSCOPE’ CELEBRATES BIODIVERSITY IN SINGAPORE WITH LUSH TROPICAL PLANTS AND NATIVE BUTTERFLY SCULPTURES</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Botanical Kaleidoscope" src="/images/Botanical_Kaleidoscope.jpg">
+</div>
 <p><em>‘Botanical Kaleidoscope’ by community gardeners in the South West District won the Community’s Choice Award</em>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p>Community Gardeners from the South West District showcased their artistry
 through their ‘Botanical Kaleidoscope’ garden and emerged as the community’s
 hot favourite. The garden captivates with a kaleidoscope dome housing lush
