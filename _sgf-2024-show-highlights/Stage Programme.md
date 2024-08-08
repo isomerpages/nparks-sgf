@@ -512,8 +512,8 @@ Philip Foo
 <p>4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Threads of Time: Weaving Traditional and Modern Florals </strong>
-<br>Ms Susie Un &amp; Ms Ta Quynh Giang
+<p><strong>Wabi-Sabi - Beauty in Imperfection</strong>
+<br>Ms Siet and Ms Janice
 <br>Singapore Flower Club</p>
 </td>
 </tr>
