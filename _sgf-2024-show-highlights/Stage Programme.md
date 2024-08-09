@@ -142,7 +142,7 @@ Low, AIFD
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Floral Artistry: Embracing Sustainability and Nature's Essence</strong>
-<br>Ms Felicia Kang &amp; Ms Berlinda Tan
+<br>Ms Zoe Kuek &amp; Ms Berlinda Tan
 <br>Nobleman School of Floral Design</p>
 </td>
 </tr>
@@ -512,8 +512,8 @@ Philip Foo
 <p>4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Threads of Time: Weaving Traditional and Modern Florals </strong>
-<br>Ms Susie Un &amp; Ms Ta Quynh Giang
+<p><strong>Wabi-Sabi - Beauty in Imperfection</strong>
+<br>Ms Siet and Ms Janice
 <br>Singapore Flower Club</p>
 </td>
 </tr>
@@ -689,7 +689,7 @@ Lucky
 <p>3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ikebana Passion</strong>
+<p><strong>Ikebana Mastery: Design principles</strong>
 <br>Ms Viola Yong
 <br>Ikebana International Singapore Chapter 135</p>
 </td>
