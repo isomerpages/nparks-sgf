@@ -19,8 +19,8 @@ of our Festival while enjoying the comfort and convenience of a top-tier
 hotel. We are confident that this collaboration will create a seamless
 and unforgettable experience for our visitors.
 <br>
-<br>Book via this <a href="https://book.passkey.com/go/NPBTSGF2024" rel="noopener noreferrer nofollow" target="_blank">link</a> before <strong>21 June 2024</strong> to
-enjoy the exclusive rates!</p>
+<br>
+</p>
 <p><strong>Special Package Alert!</strong>
 </p>
 <p>Embark on an unforgettable journey from the moment you arrive at Singapore
@@ -32,11 +32,7 @@ cocktails at PLUME, and complimentary two-way airport transfer.</p>
 <p>Hurry, as package availabilities are limited! Book now to secure your
 Garden Getaway experience.</p>
 <p>For more details and to book your package, please visit Pan Pacific Singapore's
-website:</p>
-<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pp-marina/offers/garden-getaway.html" rel="noopener noreferrer nofollow" target="_blank">Garden Getaway</a>
-</p>
-<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pp-marina/offers/flora-fauna.html" rel="noopener noreferrer nofollow" target="_blank">Flora &amp; Fauna</a>
-</p>
+website.</p>
 <p></p>
 <p></p>
 <p></p>
