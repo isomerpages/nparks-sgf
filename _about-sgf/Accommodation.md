@@ -32,7 +32,7 @@ cocktails at PLUME, and complimentary two-way airport transfer.</p>
 <p>Hurry, as package availabilities are limited! Book now to secure your
 Garden Getaway experience.</p>
 <p>For more details and to book your package, please visit Pan Pacific Singapore's
-website</p>
+website.</p>
 <p></p>
 <p></p>
 <p></p>
