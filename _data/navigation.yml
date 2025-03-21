@@ -1,13 +1,9 @@
 logo: /images/SGF-LogoNew_Trans_Horizontal.jpg
 links:
-  - title: About SGF
-    collection: about-sgf
-  - title: Show Highlights
-    collection: sgf-2024-show-highlights
-  - title: Get Involved
-    collection: get-involved
   - title: Sponsors
     collection: sponsor
+  - title: SGF Orchid show
+    collection: about-sgf
   - title: Resources
     resource_room: true
   - title: Contact Us
