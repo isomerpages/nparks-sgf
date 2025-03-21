@@ -4,7 +4,7 @@ permalink: /orchid-show-marketplace/
 variant: tiptap
 description: ""
 ---
-<p>🗓️: Sat-Sun, 19, 20, 26, 27 July 2025
+<p>🗓️: Sat and Sun, 19, 20, 26, 27 July 2025
 <br>📍: Maranta Avenue (leading to entrance of National Orchid Garden)
 <br>⏱️: 8.30am to 7pm</p>
 <p></p>
