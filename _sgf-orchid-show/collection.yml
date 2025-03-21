@@ -2,6 +2,6 @@ collections:
   sgf-orchid-show:
     output: true
     order:
-      - Orchid Competition.md
       - Show Info.md
+      - Orchid Competition.md
       - MarketPlace.md
