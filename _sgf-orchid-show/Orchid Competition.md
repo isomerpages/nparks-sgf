@@ -11,4 +11,4 @@ description: ""
 Tan Hoon Siang Mist House, and Sempcorp Cool House within the National
 Orchid Garden!</p>
 <p>Interested to take part? Look out for registration details and plant categories
-for this competition, which will be available soon.</p>
+for this competition on this page, which will be available soon.</p>
