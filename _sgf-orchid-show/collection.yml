@@ -1,4 +1,5 @@
 collections:
   sgf-orchid-show:
     output: true
-    order: []
+    order:
+      - Show Info.md
