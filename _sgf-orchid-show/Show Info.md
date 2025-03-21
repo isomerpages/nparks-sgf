@@ -7,6 +7,16 @@ description: ""
 <p>🗓️: Sat-Sun, 19-27 Jul
 <br>📍: National Orchid Garden
 <br>⏱️: 8.30am to 7pm (last ticket sales and entry at 6pm)</p>
+<p></p>
+<p>Presented in partnership with the Orchid Society of South East Asia (OSSEA),
+the SGF Orchid Show blooms again in its second edition. Marvel at exquisite
+displays, alongside an orchid competition featuring both dedicated hobbyists
+and professional growers.</p>
+<p></p>
+<p>Join the excitement of 'The Great Orchid Hunt' as you wind your way through
+spectacular competition displays over two weekends (available at selected
+timings).</p>
+<p></p>
 <p><strong>FREE ADMISSION:</strong>
 <br><strong>National Orchid Garden for Locals*</strong>
 </p>
