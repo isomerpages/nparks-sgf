@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NP18_3279_SGF_Orchid_Show_Website_Banner_1200x500px_R1.jpg
+      background: /images/NP18_3279_SGF_Orchid_Show_Email_Banner_2917x764px_R4.jpg
       title: SGF Orchid Show 2025
       subtitle: <b>National Orchid Garden</b><br><b>19-27 July 2025</b>
       variant: image
