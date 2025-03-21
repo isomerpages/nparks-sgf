@@ -13,9 +13,7 @@ the SGF Orchid Show blooms again in its second edition. Marvel at exquisite
 displays, alongside an orchid competition featuring both dedicated hobbyists
 and professional growers.</p>
 <p></p>
-<p>Join the excitement of 'The Great Orchid Hunt' as you wind your way through
-spectacular competition displays over two weekends (available at selected
-timings).</p>
+<p></p>
 <p></p>
 <p><strong>FREE ADMISSION:</strong>
 <br><strong>National Orchid Garden for Locals*</strong>
