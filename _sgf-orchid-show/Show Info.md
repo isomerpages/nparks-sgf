@@ -4,6 +4,10 @@ permalink: /orchid-show-info/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NP18_3279_SGF_Orchid_Show_Email_Banner_2917x764px_R4.jpg">
+</div>
 <p>🗓️: Sat-Sun, 19-27 Jul
 <br>📍: National Orchid Garden
 <br>⏱️: 8.30am to 7pm (last ticket sales and entry at 6pm)</p>
