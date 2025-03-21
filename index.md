@@ -16,9 +16,9 @@ sections:
       alignment: right
       size: sm
   - infobar:
-      title: Singapore Garden Festival 2024
-      description: 3-11 August 2024, Suntec Singapore Convention and Exhibition Centre
-        (Level 4 and 6)
+      title: SGF Orchid Show 2025
+      description: Presented in partnership with the Orchid Society of South East Asia
+        (OSSEA), the SGF Orchid Show blooms again in its second edition.
       button: More info
       url: /plan-your-visit/show-info
   - resources:
