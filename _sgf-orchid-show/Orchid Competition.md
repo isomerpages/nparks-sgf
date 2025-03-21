@@ -4,7 +4,7 @@ permalink: /orchid-competition/
 variant: tiptap
 description: ""
 ---
-<p>🗓️: Sat-Sun, 19-27 Jul 2025
+<p>🗓️: Sat-Sun, 19-27 July 2025
 <br>📍: National Orchid Garden
 <br>⏱️: 8.30am to 7pm (last ticket sales and entry at 6pm)</p>
 <p>Discover and be awed by the splendid orchid displays in Burkill Hall,
