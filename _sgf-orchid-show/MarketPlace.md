@@ -13,3 +13,7 @@ description: ""
 <p>Interested to participate as a vendor in our MarketPlace? You may register
 your interest <a href="https://go.gov.sg/sgfos2025" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MarketPlace" src="/images/MarketPlace_maranta.jpg">
+</div>
+<p></p>
