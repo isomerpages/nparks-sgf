@@ -20,7 +20,7 @@ sections:
       description: Presented in partnership with the Orchid Society of South East Asia
         (OSSEA), the SGF Orchid Show blooms again in its second edition.
       button: More info
-      url: /plan-your-visit/show-info
+      url: /orchid-show-info/
   - resources:
       title: Media
       subtitle: Learn more
