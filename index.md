@@ -9,8 +9,8 @@ notification: ""
 sections:
   - hero:
       background: /images/SGF2024_website4.jpg
-      title: Singapore Garden Festival 2024
-      subtitle: <b>Suntec Singapore</b><br><b>3 - 11 August 2024</b>
+      title: SGF Orchid Show 2025
+      subtitle: <b>National Orchid Garden</b><br><b>19-27 July 2025</b>
       variant: floating
       backgroundColor: gray
       alignment: right
