@@ -11,7 +11,7 @@ description: ""
 <p>Browse a curated selection of orchids, plants and lifestyle products from
 15 specialty vendors each weekend.</p>
 <p>Interested to participate as a vendor in our MarketPlace? You may register
-your interest here.</p>
+your interest <a href="https://go.gov.sg/sgfos2025" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><a href="https://sgf.nparks.gov.sg/participate/volunteers/" class="is-full is-right" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
