@@ -2,5 +2,5 @@ collections:
   sgf-orchid-show:
     output: true
     order:
-      - MarketPlace.md
       - Show Info.md
+      - MarketPlace.md
