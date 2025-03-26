@@ -24,20 +24,20 @@ sections:
       cards:
         - title: Show Info
           description: ""
-          linktext: Learn more
+          linktext: Find out more
           url: /orchid-show-info/
         - title: Getting Here
           description: ""
-          linktext: Learn more
-          url: ""
+          linktext: Find out more
+          url: /nog-getting-here/
         - title: Orchid Competition
           description: ""
-          linktext: Learn more
-          url: ""
+          linktext: Find out more
+          url: /orchid-competition/
         - title: MarketPlace
           description: ""
-          linktext: Learn more
-          url: ""
+          linktext: Find out more
+          url: /orchid-show-marketplace/
   - resources:
       title: Media
       subtitle: Learn more
