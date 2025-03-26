@@ -16,6 +16,6 @@ for this competition on this page, which will be available soon.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Orchid" src="/images/Orchid2.png">
 </div>
-<p>*Free Admission for locals <em>(Singapore citizens, permanent residents and those living in Singapore, including holders of employment pass, work permit, dependent pass or student pass. Proof of residency may be required for verification for entry to the National Orchid Garden.)</em>
+<p>*<em>Free Admission for locals (Singapore citizens, permanent residents and those living in Singapore, including holders of employment pass, work permit, dependent pass or student pass. Proof of residency may be required for verification for entry to the National Orchid Garden.)</em>
 </p>
 <p></p>
