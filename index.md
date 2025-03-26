@@ -18,7 +18,8 @@ sections:
   - infobar:
       title: SGF Orchid Show 2025
       description: Presented in partnership with the Orchid Society of South East Asia
-        (OSSEA), the SGF Orchid Show blooms again in its second edition.
+        (OSSEA), the SGF Orchid Show blooms again in its second edition from
+        19-27 July 2025
       button: More info
       url: /orchid-show-info/
   - resources:
