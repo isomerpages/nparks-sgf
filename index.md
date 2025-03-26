@@ -32,4 +32,34 @@ sections:
         activities!
       button: "@sggardenfest"
       url: https://www.facebook.com/sggardenfest
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - textcards:
+      title: SGF Orchid Show 2025
+      id: textcards
+      description: Presented in partnership with the Orchid Society of South East Asia
+        (OSSEA), the SGF Orchid Show blooms again in its second edition from
+        19-27 July 2025.
+      cards:
+        - title: Show Info
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Getting Here
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Orchid Competition
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: MarketPlace
+          description: ""
+          linktext: Learn more
+          url: ""
 ---
