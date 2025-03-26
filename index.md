@@ -40,7 +40,6 @@ sections:
           url: /orchid-show-marketplace/
   - resources:
       title: Media
-      subtitle: Learn more
       button: View More
   - infobar:
       title: Connect with us
