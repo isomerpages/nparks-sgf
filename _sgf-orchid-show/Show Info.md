@@ -20,7 +20,7 @@ and professional growers.</p>
 </p>
 <p>Locals enjoy free entry to the National Orchid Garden from 19 to 27 July
 2025 in celebration of three milestones: the National Orchid Garden's 30<sup>th</sup> anniversary,
-Singapore Botanic Gardens' 10<sup>th</sup> year as a UNESCO World Heritage
+the Singapore Botanic Gardens' 10<sup>th</sup> year as a UNESCO World Heritage
 Site, and SG60 celebrations.</p>
 <p></p>
 <p><em>* Singapore citizens, permanent residents and those living in Singapore, including holders of employment pass, work permit, dependent pass or student pass. Proof of residency may be required for verification for entry to the National Orchid Garden.</em>
