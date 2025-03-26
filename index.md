@@ -11,7 +11,7 @@ sections:
       background: /images/orchid3.jpg
       title: SGF Orchid Show 2025
       subtitle: <b>National Orchid Garden</b><br><b>19-27 July 2025</b>
-      variant: floating
+      variant: image
       backgroundColor: gray
       alignment: right
       size: sm
