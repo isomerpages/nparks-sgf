@@ -22,7 +22,7 @@ sections:
         (OSSEA), the SGF Orchid Show blooms again in its second edition from
         19-27 July 2025.
       cards:
-        - title: Show Info
+        - title: View Details
           description: ""
           linktext: Find out more
           url: /orchid-show-info/
@@ -43,8 +43,7 @@ sections:
       button: View More
   - infobar:
       title: Connect with us
-      description: Follow us on social media to see what we're up to and join in our
-        activities!
+      description: Follow us on social media for exclusive updates and activities!
       button: "@sggardenfest"
       url: https://www.facebook.com/sggardenfest
 ---
