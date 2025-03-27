@@ -12,8 +12,7 @@ description: ""
 15 specialty vendors each weekend.</p>
 <p>Interested to participate as a vendor in our MarketPlace? Register your
 interest <a href="https://go.gov.sg/sgfos2025" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p><a href="/files/SGF_Orchid_Show_2025_MarketPlace_Vendor_TnC.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MarketPlace" src="/images/MarketPlace_maranta.jpg">
 </div>
