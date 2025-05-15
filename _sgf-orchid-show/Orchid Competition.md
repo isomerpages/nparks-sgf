@@ -12,7 +12,7 @@ Show. Marvel at the finest orchids from both hobbyists and professional
 growers, displayed at Burkill Hall, Tan Hoon Siang Mist House, and Sembcorp
 Cool House within the National Orchid Garden!</p>
 <p>Ready to join the competition? Discover the plant categories and registration
-details <a href="/files/SGF_Orchid_Show_Schedule_July_2025.pdf" rel="noopener nofollow" target="_blank">here</a> 
+details <a href="/files/SGF_Orchid_Show_Schedule_July_2025.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
