@@ -54,7 +54,7 @@ LEE HENG GARDEN</p>
 <p>F02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/forestaorchids/" rel="noopener nofollow" target="_blank">FORESTA ORCHIDS, INDONESAI</a>
+<p><a href="https://www.instagram.com/forestaorchids/" rel="noopener nofollow" target="_blank">FORESTA ORCHIDS, INDONESIA</a>
 </p>
 </td>
 </tr>
