@@ -306,7 +306,7 @@ TAIWAN</p>
 <p>S12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NT ORCHID NURSERY, MALAYSIA.</p>
+<p>NT ORCHID NURSERY, MALAYSIA</p>
 </td>
 </tr>
 <tr>
