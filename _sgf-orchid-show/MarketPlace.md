@@ -8,7 +8,8 @@ description: ""
 <br>📍: Maranta Avenue (leading to entrance of National Orchid Garden)
 <br>⏱️: 8.30am to 7pm</p>
 <p></p>
-<p>We are excited to introduce the following lineup of exhibitors joining
+<p>Don't miss this opportunity to shop from these specially curated exhibitors!
+We are excited to introduce the following lineup of exhibitors joining
 us at SGF Orchid Show:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -336,8 +337,11 @@ TAIWAN</p>
 </tbody>
 </table>
 <p></p>
-<p>Take note of the dates from 19-20 July and 26-27 July! Don't miss this
-opportunity to shop from these carefully curated exhibitors.</p>
+<p>Visitors planning to export plants from Singapore should familiarize themselves
+with the import requirements of the country of destination. For more information,
+please visit <a href="https://www.nparks.gov.sg/services/export-plant-plant-products" rel="noopener nofollow" target="_blank">https://www.nparks.gov.sg/services/export-plant-plant-products</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MarketPlace" src="/images/MarketPlace_maranta.jpg">
 </div>
