@@ -54,8 +54,8 @@ LEE HENG GARDEN</p>
 <p>F02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/forestaorchids/" rel="noopener nofollow" target="_blank">FORESTA ORCHIDS</a>,
-INDONESIA</p>
+<p><a href="https://www.instagram.com/forestaorchids/" rel="noopener nofollow" target="_blank">FORESTA ORCHIDS, INDONESAI</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -106,8 +106,8 @@ INDONESIA</p>
 <p>F08</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/jojomama_sg/" rel="noopener nofollow" target="_blank">JOJOMAMA</a>,
-EMPOWERING SPECIAL NEEDS CRAFTS</p>
+<p><a href="https://www.instagram.com/jojomama_sg/" rel="noopener nofollow" target="_blank">JOJOMAMA, EMPOWERING SPECIAL NEEDS CRAFTS</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -208,8 +208,8 @@ HACHINOHE ORCHIDS, JAPAN</p>
 <p>S01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/tenshingardens" rel="noopener nofollow" target="_blank">TEN SHIN GARDENS</a>,
-TAIWAN</p>
+<p><a href="https://www.facebook.com/tenshingardens" rel="noopener nofollow" target="_blank">TEN SHIN GARDENS, TAIWAN</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -337,7 +337,7 @@ TAIWAN</p>
 </tbody>
 </table>
 <p></p>
-<p>Visitors planning to export plants from Singapore should familiarize themselves
+<p>Visitors planning to export plants from Singapore should familiarise themselves
 with the import requirements of the country of destination. For more information,
 please visit <a href="https://www.nparks.gov.sg/services/export-plant-plant-products" rel="noopener nofollow" target="_blank">https://www.nparks.gov.sg/services/export-plant-plant-products</a>
 </p>
