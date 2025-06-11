@@ -26,3 +26,6 @@ Site, and SG60 celebrations.</p>
 <p><em>* Singapore citizens, permanent residents and those living in Singapore, including holders of employment pass, work permit, dependant's pass or student's pass. Proof of residency may be required for verification for entry to the National Orchid Garden.</em>
 </p>
 <p></p>
+<p>Non-residents can purchase the tickets at the ticketing counter. Ticket
+pricing can be found <a href="https://www.nparks.gov.sg/sbg/our-gardens/tyersall-entrance/national-orchid-garden" rel="noopener nofollow" target="_blank">here.</a>
+</p>
