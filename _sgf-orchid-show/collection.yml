@@ -2,6 +2,7 @@ collections:
   sgf-orchid-show:
     output: true
     order:
+      - Activities.md
       - Show Info.md
       - Getting Here.md
       - Orchid Competition.md
