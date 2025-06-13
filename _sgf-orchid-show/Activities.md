@@ -17,9 +17,10 @@ expertise behind them.</p>
 most iconic spaces — Burkill Hall, the Tan Hoon Siang Mist House, and The
 Sembcorp Cool House — each showcasing rare and remarkable specimen at their
 finest.</p>
-<p><strong>Join us to enjoy these orchids on display for the limited duration of the SGF Orchid Show, from 19 to 27 July 2025. </strong>Registration
-Opens on 16 June 2025.</p>
-<p>Suitable for children in P3 and above (Family Programme: Parent Accompanied)&nbsp;</p>
+<p><strong>Join us to enjoy these orchids on display for the limited duration of the SGF Orchid Show, from 19 to 27 July 2025.</strong>
+</p>
+<p>Suitable for children aged nine years and above (Family Programme: Parent
+Accompanied)&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -72,10 +73,31 @@ July 2025)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>Please click on the respective dates to register. Registration will open
+on 16 June 2025.</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/NOG30/1163_Orchid-Highlights-A-Guided-Experience-at-the-SGF-Orchid-Show" rel="noopener nofollow" target="_blank">Saturday, 19 July 2025, 10.00 am – 11.00 am</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/NOG30/1164_Orchid-Highlights-A-Guided-Experience-at-the-SGF-Orchid-Show" rel="noopener nofollow" target="_blank">Sunday, 20 July 2025, 10.00 am – 11.00 am</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/NOG30/1165_Orchid-Highlights-A-Guided-Experience-at-the-SGF-Orchid-Show" rel="noopener nofollow" target="_blank">Monday, 21 July 2025, 10.00 am – 11.00 am</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/NOG30/1166_Orchid-Highlights-A-Guided-Experience-at-the-SGF-Orchid-Show" rel="noopener nofollow" target="_blank">Tuesday, 22 July 2025, 10.00 am – 11.00 am</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/NOG30/1167_Orchid-Highlights-A-Guided-Experience-at-the-SGF-Orchid-Show" rel="noopener nofollow" target="_blank">Wednesday, 23 July 2025, 10.00 am – 11.00 am</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/NOG30/1168_Orchid-Highlights-A-Guided-Experience-at-the-SGF-Orchid-Show" rel="noopener nofollow" target="_blank">Thursday, 24 July 2025, 10.00 am – 11.00 am</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/NOG30/1169_Orchid-Highlights-A-Guided-Experience-at-the-SGF-Orchid-Show" rel="noopener nofollow" target="_blank">Friday, 25 July 2025, 10.00 am – 11.00 am</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/NOG30/1170_Orchid-Highlights-A-Guided-Experience-at-the-SGF-Orchid-Show" rel="noopener nofollow" target="_blank">Saturday, 26 July 2025, 10.00 am – 11.00 am</a>
+</p>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/NOG30/1171_Orchid-Highlights-A-Guided-Experience-at-the-SGF-Orchid-Show" rel="noopener nofollow" target="_blank">Sunday, 27 July 2025, 10.00 am – 11.00 am</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Phalaenopsis_Sogo_Vivien_edited.jpg">
 </div>
-<p></p>
 <hr>
 <p></p>
 <p><strong>[Weekend Activity] The Extra-Orchidnary Hunt</strong>
