@@ -17,9 +17,10 @@ expertise behind them.</p>
 most iconic spaces — Burkill Hall, the Tan Hoon Siang Mist House, and The
 Sembcorp Cool House — each showcasing rare and remarkable specimen at their
 finest.</p>
-<p><strong>Join us to enjoy these orchids on display for the limited duration of the SGF Orchid Show, from 19 to 27 July 2025. </strong>
+<p><strong>Join us to enjoy these orchids on display for the limited duration of the SGF Orchid Show, from 19 to 27 July 2025.</strong>
 </p>
-<p>Suitable for children in P3 and above (Family Programme: Parent Accompanied)&nbsp;</p>
+<p>Suitable for children aged nine years and above (Family Programme: Parent
+Accompanied)&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
