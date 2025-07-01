@@ -22,7 +22,7 @@ and professional growers.</p>
 2025 in celebration of three milestones: the National Orchid Garden's 30<sup>th</sup> anniversary,
 the Singapore Botanic Gardens' 10<sup>th</sup> year as a UNESCO World Heritage
 Site, and 150<sup>th</sup> anniversary of the Singapore Herbarium and the
-Singapore Botanic Gardens Library of Botany and Horticulture.</p>
+Library of Botany and Horticulture.</p>
 <p></p>
 <p><em>* Singapore citizens, permanent residents and those living in Singapore, including holders of employment pass, work permit, dependant's pass or student's pass. Proof of residency may be required for verification for entry to the National Orchid Garden.</em>
 </p>
