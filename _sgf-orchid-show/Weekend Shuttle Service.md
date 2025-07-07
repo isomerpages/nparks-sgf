@@ -23,7 +23,7 @@ description: ""
 </li>
 </ul>
 <p><strong>Pick up/Drop-off Points:</strong>
-<br>﻿﻿﻿A. Learning Forest Visitor Centre (Nearest to SGF MarketPlace)
+<br>﻿﻿﻿A. Learning Forest Visitor Centre (Nearest to SGF Orchid Show)
 <br>B. Botany Centre
 <br>﻿﻿﻿C. Nassim Visitor Centre
 <br>﻿﻿﻿D. Jacob Ballas Children's Garden
