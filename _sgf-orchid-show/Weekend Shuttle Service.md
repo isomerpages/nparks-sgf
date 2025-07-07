@@ -4,8 +4,24 @@ permalink: /weekend-shuttle-service/
 variant: tiptap
 description: ""
 ---
-<p>Enjoy free a shuttle service at key entrances across the Gardens during
-weekends (9am to 10pm*) and on 25 July (5pm to 10pm).</p>
+<p>Enjoy free a shuttle service at key entrances across the Gardens on</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>19 July (9am to 10pm*)</p>
+</li>
+<li>
+<p>20 July (9am to 10pm*)</p>
+</li>
+<li>
+<p>25 July (5pm to 10pm)</p>
+</li>
+<li>
+<p>26 July (9am to 10pm*)</p>
+</li>
+<li>
+<p>27 July (9am to 10pm*)</p>
+</li>
+</ul>
 <p><strong>Pick up/Drop-off Points:</strong>
 <br>﻿﻿﻿A. Learning Forest Visitor Centre (Nearest to SGF MarketPlace)
 <br>B. Botany Centre
