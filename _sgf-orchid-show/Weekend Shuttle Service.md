@@ -6,13 +6,13 @@ description: ""
 ---
 <p>Enjoy free a shuttle service at key entrances across the Gardens during
 weekends (9am to 10pm*) and on 25 July (5pm to 10pm).</p>
-<p>Pick up/Drop-off Points:</p>
-<p>﻿﻿﻿Learning Forest Visitor Centre (Nearest to MarketPlace)</p>
-<p>﻿﻿﻿Botany Centre</p>
-<p>﻿﻿﻿Nassim Visitor Centre</p>
-<p>﻿﻿﻿Jacob Ballas Children's Garden</p>
-<p>﻿﻿﻿Pick up/Drop off near Botanic Gardens MRT (Along Bukit Timah Road)</p>
-<p>﻿﻿﻿Gallop Visitor Centre</p>
+<p><strong>Pick up/Drop-off Points:</strong>
+<br>﻿﻿﻿A. Learning Forest Visitor Centre (Nearest to SGF MarketPlace)
+<br>B. Botany Centre
+<br>﻿﻿﻿C. Nassim Visitor Centre
+<br>﻿﻿﻿D. Jacob Ballas Children's Garden
+<br>﻿﻿﻿E. Pick up/Drop off near Botanic Gardens MRT (Along Bukit Timah Road)
+<br>﻿﻿﻿F. Gallop Extension Visitor Centre</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Shuttle Bus Route" src="/images/HF_SGF_Map_small.jpg">
