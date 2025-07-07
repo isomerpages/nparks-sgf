@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Show Info.md
-      - Weekend Shuttle Service.md
       - Getting Here.md
+      - Weekend Shuttle Service.md
       - Orchid Competition.md
       - MarketPlace.md
       - Activities.md
