@@ -2,6 +2,7 @@ collections:
   sgf-orchid-show:
     output: true
     order:
+      - Weekend Shuttle Service.md
       - Show Info.md
       - Getting Here.md
       - Orchid Competition.md
