@@ -30,3 +30,8 @@ Library of Botany and Horticulture.</p>
 <p>Non-residents can purchase the tickets at the ticketing counter. Ticket
 pricing can be found <a href="https://www.nparks.gov.sg/sbg/our-gardens/tyersall-entrance/national-orchid-garden" rel="noopener nofollow" target="_blank">here.</a>
 </p>
+<h4><strong>Lighting Sponsor</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Chios_Solution_Logo.png">
+</div>
+<p></p>
