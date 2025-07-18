@@ -32,7 +32,7 @@ Accompanied)&nbsp;</p>
 <p>Date&nbsp; &nbsp;</p>
 </td>
 <th rowspan="1" colspan="1">
-<p><strong>Monday, 19 July 2025 to Sunday, 27 July 2025 (daily)</strong>
+<p><strong>Saturday, 19 July 2025 to Sunday, 27 July 2025 (daily)</strong>
 </p>
 </th>
 </tr>
