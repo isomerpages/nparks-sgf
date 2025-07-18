@@ -32,6 +32,6 @@ pricing can be found <a href="https://www.nparks.gov.sg/sbg/our-gardens/tyersall
 </p>
 <h4><strong>Lighting Sponsor</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Chios_Solution_Logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Chios_Solution_Logo.png">
 </div>
 <p></p>
