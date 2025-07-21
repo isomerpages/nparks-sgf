@@ -109,7 +109,8 @@ beautiful plants in the National Orchid Garden. This interactive challenge
 is perfect for curious minds and nature lovers alike. Plus, collect a limited-edition
 prize when you complete this activity.</p>
 <p>The Extra-Orchidnary Hunt runs on weekends 19-20 &amp; 26-27 July, 9am–12pm
-and 3pm–6pm. Last distribution of activity sheet at 11am &amp; 5pm respectively.</p>
+and 3pm–6pm. Last distribution of activity sheet at 11am &amp; 5pm and
+remember to redeem prize before 12pm &amp; 6pm respectively.</p>
 <p>While stocks last!</p>
 <p></p>
 <div class="isomer-image-wrapper">
