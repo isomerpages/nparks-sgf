@@ -16,7 +16,8 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: Resources
-description: ""
+description: The 10th edition of the Festival will be returning from 4 to 12
+  July at Gardens by the Bay.
 permalink: none
 baseurl: ""
 exclude:
