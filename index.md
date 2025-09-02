@@ -18,29 +18,6 @@ sections:
       backgroundColor: gray
       alignment: right
       size: sm
-  - textcards:
-      title: SGF Orchid Show 2025
-      id: textcards
-      description: Presented in partnership with the Orchid Society of South East Asia
-        (OSSEA), the SGF Orchid Show blooms again in its second edition from
-        19-27 July 2025.
-      cards:
-        - title: View Details
-          description: ""
-          linktext: Find out more
-          url: /orchid-show-info/
-        - title: Getting Here
-          description: ""
-          linktext: Find out more
-          url: /nog-getting-here/
-        - title: Orchid Competition
-          description: ""
-          linktext: Find out more
-          url: /orchid-competition/
-        - title: MarketPlace
-          description: ""
-          linktext: Find out more
-          url: /orchid-show-marketplace/
   - resources:
       title: Media
       button: View More
