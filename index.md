@@ -11,10 +11,10 @@ notification: Government officials will NEVER ask you to transfer money or
   are unsure if something is a scam.
 sections:
   - hero:
-      background: /images/orchid3.jpg
-      title: SGF Orchid Show 2025
-      subtitle: <b>National Orchid Garden</b><br><b>19-27 July 2025</b>
-      variant: image
+      background: /images/SGF2026_bg.jpg
+      title: Singapore Garden Festival 2026
+      subtitle: <b>Gardens by the Bay</b><br><b>4 - 12 July 2026</b>
+      variant: center
       backgroundColor: gray
       alignment: right
       size: sm
