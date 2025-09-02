@@ -14,7 +14,7 @@ sections:
       background: /images/SGF2026_bg.jpg
       title: Singapore Garden Festival 2026
       subtitle: <b>Gardens by the Bay</b><br><b>4 - 12 July 2026</b>
-      variant: center
+      variant: floating
       backgroundColor: gray
       alignment: right
       size: sm
