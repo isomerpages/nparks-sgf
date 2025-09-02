@@ -16,8 +16,10 @@ sections:
       subtitle: <b>Gardens by the Bay</b><br><b>4 - 12 July 2026</b>
       variant: floating
       backgroundColor: gray
-      alignment: right
+      alignment: left
       size: sm
+      button: More info
+      url: /plan-your-visit/show-info/
   - resources:
       title: Media
       button: View More
