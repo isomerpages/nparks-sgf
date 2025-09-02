@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore Garden Festival
 description: The 10th edition of the Festival will be returning from 4 to 12
-  July at Gardens by the Bay.
+  July 2026 at Gardens by the Bay.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Government officials will NEVER ask you to transfer money or
