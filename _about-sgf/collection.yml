@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Show Info.md
-      - Accommodation.md
       - Getting Here.md
