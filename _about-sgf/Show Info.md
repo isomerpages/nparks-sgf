@@ -7,6 +7,7 @@ variant: tiptap
 <p>🗓️: Sat-Sun, 4 - 12 July 2026
 <br>📍: Gardens by the Bay</p>
 <p></p>
+<p></p>
 <p>The biennial Singapore Garden Festival (SGF) brings together top award-winning
 landscape and garden designers, florists and horticulturists from around
 the world to team up with Singapore's own talented horticulturists. Singapore's
@@ -14,8 +15,8 @@ strategic location makes the Festival an ideal platform to showcase horticultura
 products and services from various regions.</p>
 <p>Be enchanted by exquisite garden and floral displays, and experience the
 magic and wonder of the world of garden and floral design.</p>
-<p>The 10th edition of the Festival will be returning from 4 to 12 July at
-Gardens by the Bay.</p>
+<p>The 10th edition of the Festival will be returning from 4 to 12 July 2026
+at Gardens by the Bay.</p>
 <p></p>
 <blockquote>
 <p><em>“Singapore Garden Festival has established itself as a must-attend event, not only because it takes place in a tropical environment, but also because it brings together the la crème de la crème of the industry!”</em>
@@ -27,7 +28,7 @@ Gardens by the Bay.</p>
 </blockquote>
 <p></p>
 <blockquote>
-<p><em>“The Gold medal winning gardens certainly would have been awarded gold at Chelsea Flower Show.”</em>
+<p><em>“The gold medal winning gardens certainly would have been awarded gold at the Chelsea Flower Show.”</em>
 </p>
 <p></p>
 <p><strong>Bob Sweet, UK</strong> 
