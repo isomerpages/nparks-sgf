@@ -3,6 +3,3 @@ collections:
     output: true
     order:
       - Show Info.md
-      - Show Venue.md
-      - Accommodation.md
-      - Getting Here.md

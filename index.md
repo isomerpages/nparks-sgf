@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Singapore Garden Festival
-description: Look forward to the 9th edition of Singapore Garden Festival (SGF)
-  from 3 – 11 August at Suntec Singapore!
+description: The 10th edition of the Festival will be returning from 4 to 12
+  July 2026 at Gardens by the Bay.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Government officials will NEVER ask you to transfer money or
@@ -11,36 +11,15 @@ notification: Government officials will NEVER ask you to transfer money or
   are unsure if something is a scam.
 sections:
   - hero:
-      background: /images/orchid3.jpg
-      title: SGF Orchid Show 2025
-      subtitle: <b>National Orchid Garden</b><br><b>19-27 July 2025</b>
-      variant: image
+      background: /images/SGF2026_Homepage_1450x480.png
+      title: Singapore Garden Festival 2026
+      subtitle: <b>Gardens by the Bay</b><br><b>4 - 12 July 2026</b>
+      variant: floating
       backgroundColor: gray
-      alignment: right
+      alignment: left
       size: sm
-  - textcards:
-      title: SGF Orchid Show 2025
-      id: textcards
-      description: Presented in partnership with the Orchid Society of South East Asia
-        (OSSEA), the SGF Orchid Show blooms again in its second edition from
-        19-27 July 2025.
-      cards:
-        - title: View Details
-          description: ""
-          linktext: Find out more
-          url: /orchid-show-info/
-        - title: Getting Here
-          description: ""
-          linktext: Find out more
-          url: /nog-getting-here/
-        - title: Orchid Competition
-          description: ""
-          linktext: Find out more
-          url: /orchid-competition/
-        - title: MarketPlace
-          description: ""
-          linktext: Find out more
-          url: /orchid-show-marketplace/
+      button: More info
+      url: /plan-your-visit/show-info/
   - resources:
       title: Media
       button: View More
