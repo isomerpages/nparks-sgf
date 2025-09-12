@@ -1,5 +1,5 @@
 collections:
-  sgf-2024-show-highlights:
+  sgf2024-show-highlights:
     output: true
     order:
       - Best of Show Designer Gardens/.keep
