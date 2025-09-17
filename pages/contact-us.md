@@ -12,8 +12,8 @@ contacts:
 locations:
   - address:
       - 1 Cluny Road
-      - Botany Center
-      - Singapore 259596
+      - Botany Centre
+      - Singapore 259569
     operating_hours: []
     maps_link: ""
     title: National Parks Board
