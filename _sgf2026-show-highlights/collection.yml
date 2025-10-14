@@ -1,4 +1,5 @@
 collections:
   sgf2026-show-highlights:
     output: true
-    order: []
+    order:
+      - Floral Windows to the World/.keep
