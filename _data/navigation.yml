@@ -2,6 +2,8 @@ logo: /images/SGF-LogoNew_Trans_Horizontal.jpg
 links:
   - title: About SGF
     collection: about-sgf
+  - title: Show Highlights
+    collection: sgf2026-show-highlights
   - title: Sponsors
     collection: sponsor
   - title: Resources
