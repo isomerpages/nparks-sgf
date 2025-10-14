@@ -1,0 +1,4 @@
+collections:
+  sgf2026-show-highlights:
+    output: true
+    order: []
