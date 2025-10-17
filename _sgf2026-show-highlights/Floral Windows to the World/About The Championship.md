@@ -20,5 +20,6 @@ exclusive ticketed dinner event, where the Grand Champion will be crowned.</p>
 this prestigious competition. Eligible candidates must possess either a
 minimum of 5 years of professional experience in the floral industry or
 have participated in international floral competitions.</p>
-<p><strong>Applications are open until 30 November 2025 at 2359 hours (GMT+8, Singapore Time Zone). Click <u>here</u> to register.</strong>
+<p><strong>Applications are open until 30 November 2025 at 2359 hours (GMT+8, Singapore Time Zone). Click </strong>
+<a href="https:/go.gov.sg/fwwc2026" rel="noopener nofollow" target="_blank">here</a><strong> to register.</strong>
 </p>
