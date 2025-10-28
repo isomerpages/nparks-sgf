@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Floral Windows to the World
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Top 5 finalists competing on stage for the FWWC Finals Dinner at SGF 2024" src="/images/6R9C7865.jpg">
+</div>
+<p></p>
 <p>Floral Windows to the World has always been a key highlight of the Singapore
 Garden Festival since the first edition held in 2006, showcasing colourful
 and creatively cut flower displays. &nbsp;This signature segment has evolved
