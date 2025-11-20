@@ -17,7 +17,7 @@ into the Floral Windows to the World Championship in 2024, bringing an
 exciting competitive element to this celebrated horticultural showcase.</p>
 <p>The 2026 Championship will feature up to 18 international competitors,
 each representing different countries, in a three-stage competition from
-4 - 6 July 2026. The competition structure progresses from the initial
+4 to 6 July 2026. The competition structure progresses from the initial
 Heats with all 18 participants, narrowing to 10 contestants in the Semi-Finals,
 and culminating in a Grand Final featuring the top 5 competitors at an
 exclusive ticketed dinner event, where the Grand Champion will be crowned.</p>
@@ -31,3 +31,9 @@ have participated in international floral competitions.</p>
 </p>
 <p><strong>Click <a href="/files/sgf2026_floral_windows_to_the_world_championship_reg_kit.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download the Registration Kit for more details on the Championship.</strong>
 </p>
+<p></p>
+<p>Relive the magic of Floral Windows to the World Championship 2024 here:</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nvlSaLBeneM?si=PnqE3TewGG1YUv3V&amp;autoplay=1"></iframe>
+</div>
+<p></p>
