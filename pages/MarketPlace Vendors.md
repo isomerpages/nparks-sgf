@@ -83,4 +83,5 @@ coverage and industry publication exposure, further amplifying brand visibility.
 </div>
 <p>Interested to participate as a vendor in our MarketPlace? You may register
 your interest&nbsp;<a href="https://go.gov.sg/ryim" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p></p>
+<p><a href="/files/SGF2026_Launch_Event_MarketPlace_Exhibitors_TnC.pdf" rel="noopener noreferrer nofollow" target="_blank">Test2</a>
+</p>
