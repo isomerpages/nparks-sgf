@@ -2,5 +2,6 @@ collections:
   sgf2026-show-highlights:
     output: true
     order:
+      - Community Garden Edibles Competition.md
       - Floral Windows to the World/About The Championship.md
       - Floral Windows to the World/.keep
