@@ -27,10 +27,7 @@ minimum of 5 years of professional experience in the floral industry or
 have participated in international floral competitions.</p>
 <p></p>
 <h4><strong>Registration</strong></h4>
-<p><strong>Applications are open until 30 November 2025 at 2359 hours (GMT+8, Singapore Time Zone).</strong>
-</p>
-<p><strong>Click <a href="/files/sgf2026_floral_windows_to_the_world_championship_reg_kit.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download the Registration Kit for more details on the Championship.</strong>
-</p>
+<p>Thank you for your interest. Registration has closed.</p>
 <p></p>
 <p>Relive the magic of Floral Windows to the World Championship 2024 here:</p>
 <div class="iframe-wrapper">
