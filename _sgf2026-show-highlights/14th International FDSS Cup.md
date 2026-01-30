@@ -23,8 +23,7 @@ of excitement. The Amateur Category will take place on Saturday, 4 July
 2026, both at Gardens by the Bay – The Meadow. Competition pieces will
 be on public display daily from 4 to 12 July 2026, until 10:00 pm.</p>
 <p>Both local and international floral designers, subject to specific entry
-requirements are welcome to register by 31 March 2026, 2359 (Singapore
-Time).</p>
+requirements are welcome to register by <strong>31 March 2026, 2359 (Singapore Time)</strong>.</p>
 <p>All participants will have the distinguished honour of having their creations
 evaluated by an esteemed panel of international floral design judges and
 the top three winners will receive attractive cash prizes, trophies, and
