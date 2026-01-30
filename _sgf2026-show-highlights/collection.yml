@@ -2,6 +2,7 @@ collections:
   sgf2026-show-highlights:
     output: true
     order:
+      - Floral Designers Society (Singapore) Cup.md
       - Floral Windows to the World/.keep
       - Floral Windows to the World/About The Championship.md
       - Community Garden Edibles Competition.md
