@@ -29,5 +29,4 @@ Time).</p>
 evaluated by an esteemed panel of international floral design judges and
 the top three winners will receive attractive cash prizes, trophies, and
 certificates of recognition.</p>
-<p>For more information and to register, please check out the Competition
-Kit.</p>
+<p>For more information and to register, please check out the <a href="/files/FDSS_CUP_2026___Competition_Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Competition Kit</a>.</p>
