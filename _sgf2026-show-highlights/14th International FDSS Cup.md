@@ -9,9 +9,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Orange background with illustrated orchids on the right about FDSS CUP 2026" src="/images/FDSS_Cup_2026_Poster.jpg">
 </div>
 <p></p>
-<p>The Floral Designers Society (Singapore) is proud and honored to present
-the 14th International FDSS Cup – Floral Designing Competition, held in
-conjunction with the Singapore Garden Festival 2026.</p>
+<p>Our partner, The Floral Designers Society (Singapore) is proud and honored
+to present the 14th International FDSS Cup – Floral Designing Competition,
+held in conjunction with the Singapore Garden Festival 2026.</p>
 <p>The theme for the 2026 edition of the FDSS Cup centres on “The Elements
 of Design.” Upholding its strong commitment to floral education and excellence,
 FDSS continues to champion the artistry and professionalism of floral design.
