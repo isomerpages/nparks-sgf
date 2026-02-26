@@ -375,7 +375,7 @@ placement can express the quiet rhythm of nature.</p>
 wire, secure floral tubes, and compose an airy yet impactful framed arrangement
 that highlights form, contrast, and spatial design.</p>
 <p></p>
-<p>Register <a href="" rel="noopener nofollow" target="_blank">here</a> Limited
+<p>Register <a href="https://go.gov.sg/sgf2026bif" rel="noopener nofollow" target="_blank">here</a> Limited
 slots available.</p>
 </td>
 </tr>
