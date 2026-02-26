@@ -8,8 +8,8 @@ description: ""
 <p>Before the magic begins in August when the Singapore Garden Festival returns
 to Suntec Singapore, discover stunning showcases presented by Ikebana Singapore
 Chapter 135, witness an exciting live floral competition, and explore a
-diverse array of gardening-related lifestyle products and decor during
-our 4-day Prelude event at Takashimaya Square B2.</p>
+diverse array of plants and gardening-related lifestyle products and decor
+during our 4-day Prelude event at Takashimaya Square B2.</p>
 <p></p>
 <p>14 – 17 March 2024
 <br>10.00am - 9.30pm
