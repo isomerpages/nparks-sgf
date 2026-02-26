@@ -178,7 +178,15 @@ for all celebratory occasions.</p>
 <p>5.00pm - 5.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Drawing Inspiration from Traditional Desserts for Floral Design</p>
+<p>Floral Demonstration by Nina Chen, Floral Designers Society (Singapore)</p>
+<p>Every ethnic group has its own unique traditional foods, passed down through
+generations. Beyond their flavours, these delicacies captivate us with
+their colours, forms, and textures—offering rich visual inspiration.</p>
+<p>Discover how Nina draws from these elements to translate traditional foods
+into expressive floral creations. Catch her in action as she demonstrates
+how the artistry of food plating and design can be thoughtfully integrated
+into floral art.</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +194,17 @@ for all celebratory occasions.</p>
 <p>6.00pm - 7.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bloom &amp; Gather</p>
+<p>Floral Centrepiece Workshop by:</p>
+<p>Keith Lin</p>
+<p>Design a charming floral centerpiece perfect for dining tables, coffee
+tables, or intimate gatherings. In this hands-on workshop, participants
+will learn the fundamentals of floral proportion, focal point placement,
+and colour harmony while working with fresh seasonal blooms. You’ll explore
+techniques to create a refined, low-profile arrangement that enhances conversation
+without overwhelming the table.</p>
+<p>Limited slots available. Register with us <a href="" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 </tbody>
