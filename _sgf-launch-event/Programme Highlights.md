@@ -237,9 +237,11 @@ slots available.</p>
 <p><strong>Planting Pot and Containers for Penjing</strong>
 </p>
 <p>Talk by Lim Keow Wah, Singapore Penjing &amp; Stone Appreciation Society</p>
-<p>Introduction the matching of pot and created penjing of different styles
-and species in harmony. On the use of traditional pots and special containers
-made of other materials like wood and rock.</p>
+<p>The art of Penjing requires thoughtful pairing of container and creation.
+This presentation explores achieving harmony between different Penjing
+style and their vessels - from traditional ceramic pots to alternative
+materials like wood and rock - creating cohesive compositions where each
+element enhances the whole.</p>
 </td>
 </tr>
 <tr>
@@ -323,9 +325,11 @@ slots available.</p>
 <p><strong>Planting Pot and Containers for Penjing</strong>
 </p>
 <p>Talk by Lim Keow Wah, Singapore Penjing &amp; Stone Appreciation Society</p>
-<p>Introduction the matching of pot and created penjing of different styles
-and species in harmony. On the use of traditional pots and special containers
-made of other materials like wood and rock.</p>
+<p>The art of Penjing requires thoughtful pairing of container and creation.
+This presentation explores achieving harmony between different Penjing
+style and their vessels - from traditional ceramic pots to alternative
+materials like wood and rock - creating cohesive compositions where each
+element enhances the whole.</p>
 </td>
 </tr>
 <tr>
