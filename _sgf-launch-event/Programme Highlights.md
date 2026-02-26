@@ -259,7 +259,7 @@ clean finishing.</p>
 <p>2.00pm - 2.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Demonstration by Raffes International Floristry Academy (RIFA)</p>
+<p>Floral Demonstration by Raffles International Floristry Academy (RIFA)</p>
 </td>
 </tr>
 <tr>
@@ -290,6 +290,8 @@ and memorable special occasions.</p>
 <p>Perfect for a lively, beginner-friendly workshop where participants learn
 spiral hand-tied techniques, colour pairing, and professional wrapping
 styles — finishing with a camera-ready bouquet.</p>
+<p>Register now via <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/sgf2026wb</a> Limited
+slots available and filling up fast!</p>
 </td>
 </tr>
 </tbody>
@@ -335,7 +337,7 @@ made of other materials like wood and rock.</p>
 <p>2.00pm - 2.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Demonstration by Nobleman Floral School</p>
+<p>Floral Demonstration by Nobleman School of Floral School</p>
 </td>
 </tr>
 <tr>
@@ -362,6 +364,9 @@ the quiet rhythm of nature.</p>
 <p>An immersive session where flowers meet structure. Learn how to manipulate
 wire, secure floral tubes, and compose an airy yet impactful framed arrangement
 that highlights form, contrast, and spatial design.</p>
+<p></p>
+<p>Register now via <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/sgf2026bif</a> Limited
+slots available and filling up fast!</p>
 </td>
 </tr>
 </tbody>
