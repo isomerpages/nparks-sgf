@@ -113,7 +113,7 @@ and durability. Leave with a professionally finished floral hairband —
 perfect for photoshoots, celebrations, or everyday botanical charm.</p>
 <p></p>
 <p>Register <a href="" rel="noopener nofollow" target="_blank">here</a> Limited
-slots available and filling up fast!</p>
+slots available.</p>
 </td>
 </tr>
 </tbody>
