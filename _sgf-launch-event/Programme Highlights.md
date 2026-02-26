@@ -168,11 +168,13 @@ clean finishing.</p>
 <p><strong>3D Jelly Art Floral Cake</strong>
 </p>
 <p>Demonstration by Janet Su, The Vanilla Bean SG</p>
-<p>Sharing on using specially designed floral tools to create floral art
-within an edible canvas (Konnyaku jelly). An amazing edible food art which
-has taken storm in Singapore since 2016. A healthy dessert for all ages
-and suitable for vegetarians too. This aesthetic cake is a popular choice
-for all celebratory occasions.</p>
+<p>Join us for an enchanting jelly art floral cake demonstration where you'll
+discover the mesmerising technique of creating stunning floral masterpieces
+within translucent konnyaku jelly using specially crafted tools. This captivating
+food art form has swept across Singapore since 2016, producing healthy,
+vegetarian-friendly creations that have become the centrepiece of choice
+for all celebratory occasions. Come witness the magic of transforming simple
+jelly into breathtaking floral art that's almost too beautiful to eat.</p>
 </td>
 </tr>
 <tr>
