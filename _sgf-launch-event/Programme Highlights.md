@@ -178,7 +178,8 @@ for all celebratory occasions.</p>
 <p>5.00pm - 5.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Drawing Inspiration from Traditional Desserts for Floral Design</p>
+<p><strong>Drawing Inspiration from Traditional Desserts for Floral Design</strong>
+</p>
 <p>Floral Demonstration by Nina Chen, Floral Designers Society (Singapore)</p>
 <p>Every ethnic group has its own unique traditional foods, passed down through
 generations. Beyond their flavours, these delicacies captivate us with
@@ -194,7 +195,8 @@ into floral art.</p>
 <p>6.00pm - 7.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bloom &amp; Gather</p>
+<p><strong>Bloom &amp; Gather</strong>
+</p>
 <p>Floral Centrepiece Workshop by:</p>
 <p>Keith Lin</p>
 <p>Design a charming floral centerpiece perfect for dining tables, coffee
