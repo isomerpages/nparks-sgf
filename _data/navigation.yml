@@ -4,6 +4,8 @@ links:
     collection: about-sgf
   - title: Show Highlights
     collection: sgf2026-show-highlights
+  - title: Launch Event
+    collection: sgf-launch-event
   - title: Sponsors
     collection: sponsor
   - title: Resources
@@ -12,5 +14,3 @@ links:
     url: /participate/marketplace/
   - title: Contact Us
     url: /contact-us/
-  - title: Launch Event
-    collection: sgf-launch-event
