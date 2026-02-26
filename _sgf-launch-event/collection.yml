@@ -1,4 +1,5 @@
 collections:
   sgf-launch-event:
     output: true
-    order: []
+    order:
+      - Programme Highlights.md
