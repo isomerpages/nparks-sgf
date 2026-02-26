@@ -356,9 +356,9 @@ element enhances the whole.</p>
 <p><strong>The Quiet Language of Flowers</strong>
 </p>
 <p>Floral Demonstration by Christopher Lim, Floral Designers Society (Singapore)</p>
-<p>Exploring the beauty of line, space and natural balance. Using seasonal
-plant materials to reveal how simplicity and thoughtful placement can express
-the quiet rhythm of nature.</p>
+<p>Explore the beauty of line, space, and natural balance. Using seasonal
+plant materials, this demonstration reveals how simplicity and thoughtful
+placement can express the quiet rhythm of nature.</p>
 </td>
 </tr>
 <tr>
