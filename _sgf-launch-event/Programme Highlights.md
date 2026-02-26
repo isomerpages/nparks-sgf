@@ -6,6 +6,10 @@ description: ""
 ---
 <p>We are excited to share the following stage programme during the launch
 event at Takashimaya Square, B2</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A table of the programme listing from 12 to 15 March 2026" src="/images/Stage_Programme.png">
+</div>
 <h4><strong>12 March 2026</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -153,7 +157,7 @@ slots available.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Botanical Piping: Flowers &amp; Succulents in Buttercream</strong>
 </p>
-<p>Demonstration by Serena Tang, Nanatang</p>
+<p>Demonstration by Serena Tang</p>
 <p>In this 45-minute live demonstration, Serena will showcase buttercream
 piping focused on floral and succulent cupcake designs. The session will
 cover piping techniques for roses, hydrangea, chrysanthemum, and scabiosa,
@@ -253,7 +257,7 @@ element enhances the whole.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Botanical Piping: Flowers &amp; Succulents in Buttercream</strong>
 </p>
-<p>Demonstration by Serena Tang, Nanatang</p>
+<p>Demonstration by Serena Tang</p>
 <p>In this 45-minute live demonstration, Serena will showcase buttercream
 piping focused on floral and succulent cupcake designs. The session will
 cover piping techniques for roses, hydrangea, chrysanthemum, and scabiosa,
