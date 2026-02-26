@@ -112,8 +112,8 @@ floral taping, wiring, and secure attachment methods to ensure both comfort
 and durability. Leave with a professionally finished floral hairband —
 perfect for photoshoots, celebrations, or everyday botanical charm.</p>
 <p></p>
-<p>Limited slot available. Register <a href="" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p>Register now via <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/sgf2026bc </a> limited
+slots available and filling up fast!</p>
 </td>
 </tr>
 </tbody>
