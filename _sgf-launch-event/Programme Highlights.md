@@ -105,7 +105,7 @@ mechanics, and techniques used to create them.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Bloom &amp; Crown</strong>
 </p>
-<p>Floral Headpiece Workshop by: Keith Lin</p>
+<p>Floral Headpiece Workshop by Keith Lin</p>
 <p>Create your own floral halo in this immersive, beginner-friendly workshop
 designed for flower lovers of all ages. Learn step-by-step techniques including
 floral taping, wiring, and secure attachment methods to ensure both comfort
@@ -197,7 +197,7 @@ into floral art.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Bloom &amp; Gather</strong>
 </p>
-<p>Floral Centrepiece Workshop by:</p>
+<p>Floral Centrepiece Workshop by</p>
 <p>Keith Lin</p>
 <p>Design a charming floral centerpiece perfect for dining tables, coffee
 tables, or intimate gatherings. In this hands-on workshop, participants
@@ -270,9 +270,7 @@ clean finishing.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Nature Woven: Twigs &amp; Branches</strong>
 </p>
-<p>Floral Demonstration by</p>
-<p>Diana Tung</p>
-<p>Floral Designers Society (Singapore)</p>
+<p>Floral Demonstration by Diana Tung, Floral Designers Society (Singapore)</p>
 <p>Come and discover how to create a variety of sculptural structures using
 natural twigs and branches. These pieces celebrate the beauty of organic
 forms while introducing a refined, contemporary touch. Designed to blend
@@ -289,8 +287,7 @@ and memorable special occasions.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Wrap &amp; Bloom</strong>
 </p>
-<p>Hand Bouquet Workshop by:</p>
-<p>Keith Lin</p>
+<p>Hand Bouquet Workshop by Keith Lin</p>
 <p>Perfect for a lively, beginner-friendly workshop where participants learn
 spiral hand-tied techniques, colour pairing, and professional wrapping
 styles — finishing with a camera-ready bouquet.</p>
@@ -298,4 +295,5 @@ styles — finishing with a camera-ready bouquet.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>15 March 2026</strong></h4>
 <p></p>
