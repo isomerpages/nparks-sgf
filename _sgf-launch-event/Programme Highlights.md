@@ -211,4 +211,91 @@ without overwhelming the table.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>14 March 2026</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Line Up</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.00pm - 12.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Planting Pot and Containers for Penjing</strong>
+</p>
+<p>Talk by Lim Keow Wah, Singapore Penjing &amp; Stone Appreciation Society</p>
+<p>Introduction the matching of pot and created penjing of different styles
+and species in harmony. On the use of traditional pots and special containers
+made of other materials like wood and rock.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.00pm - 1.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Botanical Piping: Flowers &amp; Succulents in Buttercream</strong>
+</p>
+<p>Demonstration by Serena Tang, Nanatang</p>
+<p>In this 45-minute live demonstration, Serena will showcase buttercream
+piping focused on floral and succulent cupcake designs. The session will
+cover piping techniques for roses, hydrangea, chrysanthemum, and scabiosa,
+along with four types of succulents and foliage. All elements will be assembled
+live onto a total of eight cupcakes, highlighting structure, texture, and
+clean finishing.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 2.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Demonstration by Raffes International Floristry Academy (RIFA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.00pm - 5.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Nature Woven: Twigs &amp; Branches</strong>
+</p>
+<p>Floral Demonstration by</p>
+<p>Diana Tung</p>
+<p>Floral Designers Society (Singapore)</p>
+<p>Come and discover how to create a variety of sculptural structures using
+natural twigs and branches. These pieces celebrate the beauty of organic
+forms while introducing a refined, contemporary touch. Designed to blend
+effortlessly into woodland surroundings, they provide a stylish and elegant
+foundation for floral displays. Carefully assembled using wiring techniques,
+each structure is both versatile and distinctive—perfect for festive celebrations
+and memorable special occasions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.00pm - 7.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wrap &amp; Bloom</strong>
+</p>
+<p>Hand Bouquet Workshop by:</p>
+<p>Keith Lin</p>
+<p>Perfect for a lively, beginner-friendly workshop where participants learn
+spiral hand-tied techniques, colour pairing, and professional wrapping
+styles — finishing with a camera-ready bouquet.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
