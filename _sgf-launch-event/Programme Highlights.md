@@ -63,8 +63,8 @@ for all celebratory occasions.</p>
 <p>2.00pm - 2.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Plants, Gardens and Spice: The influence of Singapore in the French Art
-de vivre</p>
+<p><strong>Plants, Gardens and Spice: The influence of Singapore in the French Art de vivre</strong>
+</p>
 <p>Talk by Pascal Garbe</p>
 <p>Discover how Singapore's vibrant botanical heritage has quietly transformed
 French lifestyle and garden design. Pascal Garbe explores the fascinating
@@ -84,18 +84,35 @@ beauty.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5.00pm - 5.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Structural Diversities In Floral Designs</strong> 
+</p>
+<p>Floral Demonstration by Peter Chin, Floral Designers Society (Singapore)</p>
+<p>Floral structures can take many forms—from geometric to free-style—using
+organic or inorganic materials chosen to complement the design and theme.
+Structural floral art is commonly seen in competitions, where designers
+combine creativity with mechanics and technique.</p>
+<p>Peter will introduce several types of structures, along with the materials,
+mechanics, and techniques used to create them.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6.00pm - 7.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Bloom &amp; Crown</strong>
+</p>
+<p>Floral Headpiece Workshop by: Keith Lin</p>
+<p>Create your own floral halo in this immersive, beginner-friendly workshop
+designed for flower lovers of all ages. Learn step-by-step techniques including
+floral taping, wiring, and secure attachment methods to ensure both comfort
+and durability. Leave with a professionally finished floral hairband —
+perfect for photoshoots, celebrations, or everyday botanical charm.</p>
 <p></p>
+<p>Book your slot with us at</p>
 </td>
 </tr>
 <tr>
