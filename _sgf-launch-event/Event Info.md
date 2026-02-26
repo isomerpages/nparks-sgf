@@ -17,6 +17,6 @@ MarketPlace during the 4-day launch event at Takashimaya Square B2.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_Logos.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGF2026_Organiser_Logos.jpg">
 </div>
 <p></p>
