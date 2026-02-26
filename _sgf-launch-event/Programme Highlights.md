@@ -116,9 +116,66 @@ perfect for photoshoots, celebrations, or everyday botanical charm.</p>
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4><strong>13 March 2026</strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Line Up</p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12.00pm - 12.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Demonstration by Ikebana International Singapore Chapter 135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.00pm - 1.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Botanical Piping: Flowers &amp; Succulents in Buttercream</strong>
+</p>
+<p>Demonstration by Serena Tang, Nanatang</p>
+<p>In this 45-minute live demonstration, Serena will showcase buttercream
+piping focused on floral and succulent cupcake designs. The session will
+cover piping techniques for roses, hydrangea, chrysanthemum, and scabiosa,
+along with four types of succulents and foliage. All elements will be assembled
+live onto a total of eight cupcakes, highlighting structure, texture, and
+clean finishing.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 2.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3D Jelly Art Floral Cake</strong>
+</p>
+<p>Demonstration by Janet Su, The Vanilla Bean SG</p>
+<p>Sharing on using specially designed floral tools to create floral art
+within an edible canvas (Konnyaku jelly). An amazing edible food art which
+has taken storm in Singapore since 2016. A healthy dessert for all ages
+and suitable for vegetarians too. This aesthetic cake is a popular choice
+for all celebratory occasions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.00pm - 5.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -126,7 +183,7 @@ perfect for photoshoots, celebrations, or everyday botanical charm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6.00pm - 7.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
