@@ -296,4 +296,75 @@ styles — finishing with a camera-ready bouquet.</p>
 </tbody>
 </table>
 <h4><strong>15 March 2026</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Line Up</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.00pm - 12.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Planting Pot and Containers for Penjing</strong>
+</p>
+<p>Talk by Lim Keow Wah, Singapore Penjing &amp; Stone Appreciation Society</p>
+<p>Introduction the matching of pot and created penjing of different styles
+and species in harmony. On the use of traditional pots and special containers
+made of other materials like wood and rock.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.00pm - 1.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Demonstration by Ikebana International Singapore Chapter 135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 2.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floral Demonstration by Nobleman Floral School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.00pm - 5.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Quiet Language of Flowers</strong>
+</p>
+<p>Floral Demonstration by Christopher Lim, Floral Designers Society (Singapore)</p>
+<p>Exploring the beauty of line, space and natural balance. Using seasonal
+plant materials to reveal how simplicity and thoughtful placement can express
+the quiet rhythm of nature.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.00pm - 7.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bloom in Form</strong>
+</p>
+<p>Floral Wooden Frame Workshop by Keith Lin</p>
+<p>An immersive session where flowers meet structure. Learn how to manipulate
+wire, secure floral tubes, and compose an airy yet impactful framed arrangement
+that highlights form, contrast, and spatial design.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
