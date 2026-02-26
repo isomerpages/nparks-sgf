@@ -365,8 +365,8 @@ the quiet rhythm of nature.</p>
 wire, secure floral tubes, and compose an airy yet impactful framed arrangement
 that highlights form, contrast, and spatial design.</p>
 <p></p>
-<p>Register now via <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/sgf2026bif</a> Limited
-slots available and filling up fast!</p>
+<p>Register <a href="" rel="noopener nofollow" target="_blank">here</a> Limited
+slots available.</p>
 </td>
 </tr>
 </tbody>
