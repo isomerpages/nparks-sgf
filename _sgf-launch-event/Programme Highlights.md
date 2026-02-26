@@ -6,6 +6,10 @@ description: ""
 ---
 <p>We are excited to share the following stage programme during the launch
 event at Takashimaya Square, B2</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A table of the programme listing from 12 to 15 March 2026" src="/images/Stage_Programme.png">
+</div>
 <h4><strong>12 March 2026</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
