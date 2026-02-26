@@ -210,7 +210,7 @@ will learn the fundamentals of floral proportion, focal point placement,
 and colour harmony while working with fresh seasonal blooms. You’ll explore
 techniques to create a refined, low-profile arrangement that enhances conversation
 without overwhelming the table.</p>
-<p>Register <a href="" rel="noopener nofollow" target="_blank">here</a> Limited
+<p>Register <a href="https://go.gov.sg/sgf2026bg" rel="noopener nofollow" target="_blank">here</a> Limited
 slots available.</p>
 </td>
 </tr>
