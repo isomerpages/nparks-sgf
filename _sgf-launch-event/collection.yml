@@ -1,0 +1,4 @@
+collections:
+  sgf-launch-event:
+    output: true
+    order: []
