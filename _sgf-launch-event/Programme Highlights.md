@@ -153,7 +153,7 @@ slots available.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Botanical Piping: Flowers &amp; Succulents in Buttercream</strong>
 </p>
-<p>Demonstration by Serena Tang, Nanatang</p>
+<p>Demonstration by Serena Tang</p>
 <p>In this 45-minute live demonstration, Serena will showcase buttercream
 piping focused on floral and succulent cupcake designs. The session will
 cover piping techniques for roses, hydrangea, chrysanthemum, and scabiosa,
@@ -253,7 +253,7 @@ element enhances the whole.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Botanical Piping: Flowers &amp; Succulents in Buttercream</strong>
 </p>
-<p>Demonstration by Serena Tang, Nanatang</p>
+<p>Demonstration by Serena Tang</p>
 <p>In this 45-minute live demonstration, Serena will showcase buttercream
 piping focused on floral and succulent cupcake designs. The session will
 cover piping techniques for roses, hydrangea, chrysanthemum, and scabiosa,
