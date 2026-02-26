@@ -6,14 +6,10 @@ description: ""
 ---
 <h3>SGF Launch Event</h3>
 <p>Before the magic begins in July when the Singapore Garden Festival returns
-to Gardens by the Bay, discover stunning floral showcases and an orchid
-display featuring 20 celebrity and heritage orchids, with orchid hybrids
-named after Singaporean singer, songwriter Stefanie Sun and Korean actor
-Bae Yong Jun.</p>
-<p>In addition, participate in a series of free floral talks, demonstrations
-and workshops. and explore a diverse array of gardening-related lifestyle
-products and decor during the 4-day launch event at Takashimaya Square
-B2.</p>
+to Gardens by the Bay, discover stunning floral showcases, participate
+in free floral talks, demonstrations and workshops, and explore a diverse
+array of gardening-related lifestyle products and decor at the MarketPlace
+during the 4-day launch event at Takashimaya Square B2.</p>
 <p></p>
 <p>Thu, 12 Mar to Sun, 15 Mar 2026
 <br>10.00am - 9.30pm
