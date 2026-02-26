@@ -112,7 +112,8 @@ floral taping, wiring, and secure attachment methods to ensure both comfort
 and durability. Leave with a professionally finished floral hairband —
 perfect for photoshoots, celebrations, or everyday botanical charm.</p>
 <p></p>
-<p>Book your slot with us at</p>
+<p>Limited slot available. Register <a href="" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 <tr>
