@@ -267,7 +267,13 @@ clean finishing.</p>
 <p>2.00pm - 2.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Demonstration by Raffles International Floristry Academy (RIFA)</p>
+<p><strong>Let's Bloom Away!</strong> 
+</p>
+<p>Demonstration by Jenny Wong, Floral Demonstration by Raffles International
+Floristry Academy</p>
+<p>We often forget to slow down and appreciate the beauty of nature. Let's
+have a conversation with nature and create floral designs and Bloom Away
+together!</p>
 </td>
 </tr>
 <tr>
