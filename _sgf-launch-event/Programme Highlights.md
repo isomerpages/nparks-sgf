@@ -25,7 +25,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Around the World in Forty Gardens</p>
-<p>Talk by Pascal Garbe</p>
+<p>Talk by Pascal Garbe, Show Garden Competition Head Judge</p>
 <p>Join Pascal Garbe, an acclaimed garden designer in France and the 2011
 "International Garden Tourism Person of the Year," on an extraordinary
 horticultural journey spanning the globe. Drawing from his extensive experience
