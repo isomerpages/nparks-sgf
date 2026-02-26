@@ -87,7 +87,7 @@ beauty.</p>
 <p>5.00pm - 5.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Structural Diversities In Floral Designs</strong> 
+<p><strong>Structural Diversities In Floral Designs</strong>
 </p>
 <p>Floral Demonstration by Peter Chin, Floral Designers Society (Singapore)</p>
 <p>Floral structures can take many forms—from geometric to free-style—using
