@@ -290,8 +290,8 @@ and memorable special occasions.</p>
 <p>Perfect for a lively, beginner-friendly workshop where participants learn
 spiral hand-tied techniques, colour pairing, and professional wrapping
 styles — finishing with a camera-ready bouquet.</p>
-<p>Register now via <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/sgf2026wb</a> Limited
-slots available and filling up fast!</p>
+<p>Register <a href="" rel="noopener nofollow" target="_blank">here</a> Limited
+slots available.</p>
 </td>
 </tr>
 </tbody>
