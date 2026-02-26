@@ -2,5 +2,6 @@ collections:
   sgf-launch-event:
     output: true
     order:
+      - Event Info.md
       - Programme Highlights.md
       - MarketPlace.md
