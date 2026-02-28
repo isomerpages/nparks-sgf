@@ -8,7 +8,7 @@ description: ""
 event at Takashimaya Square, B2</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A table of the programme listing from 12 to 15 March 2026" src="/images/Stage_Programme.png">
+<img style="width: 100%" height="auto" width="100%" alt="A table of stage programme from 12 to 15 Mar 26" src="/images/stage_programmeN.jpg">
 </div>
 <h4><strong>12 March 2026</strong></h4>
 <table style="minWidth: 50px">
@@ -120,8 +120,8 @@ floral taping, wiring, and secure attachment methods to ensure both comfort
 and durability. Leave with a professionally finished floral hairband —
 perfect for photoshoots, celebrations, or everyday botanical charm.</p>
 <p></p>
-<p>Register <a href="https://go.gov.sg/sgf2026bc" rel="noopener nofollow" target="_blank">here</a> Limited
-slots available.</p>
+<p><strong>Pre-registration required. Fully subscribed.</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -214,8 +214,8 @@ will learn the fundamentals of floral proportion, focal point placement,
 and colour harmony while working with fresh seasonal blooms. You’ll explore
 techniques to create a refined, low-profile arrangement that enhances conversation
 without overwhelming the table.</p>
-<p>Register <a href="https://go.gov.sg/sgf2026bg" rel="noopener nofollow" target="_blank">here</a> Limited
-slots available.</p>
+<p><strong>Pre-registration required. Fully subscribed.</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -307,8 +307,8 @@ and memorable special occasions.</p>
 <p>Perfect for a lively, beginner-friendly workshop where participants learn
 spiral hand-tied techniques, colour pairing, and professional wrapping
 styles — finishing with a camera-ready bouquet.</p>
-<p>Register <a href="https://go.gov.sg/sgf2026wb" rel="noopener nofollow" target="_blank">here</a> Limited
-slots available.</p>
+<p><strong>Pre-registration required. Fully subscribed.</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -356,7 +356,14 @@ element enhances the whole.</p>
 <p>2.00pm - 2.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Demonstration by Nobleman School of Floral School</p>
+<p><strong>Whispers in the Air</strong>
+</p>
+<p>Floral Demonstration by Anson Low, Nobleman School of Floral Design</p>
+<p>Modern floating floral design created with minimal materials to express
+lightness and sustainability. By reducing structure and excess, the arrangement
+highlights natural movement and vibrant energy while maintaining an environmentally
+conscious approach. The design demonstrates how less can become more through
+thoughtful composition and responsible material use.</p>
 </td>
 </tr>
 <tr>
@@ -384,8 +391,8 @@ placement can express the quiet rhythm of nature.</p>
 wire, secure floral tubes, and compose an airy yet impactful framed arrangement
 that highlights form, contrast, and spatial design.</p>
 <p></p>
-<p>Register <a href="https://go.gov.sg/sgf2026bif" rel="noopener nofollow" target="_blank">here</a> Limited
-slots available.</p>
+<p><strong>Pre-registration required. Fully subscribed.</strong>
+</p>
 </td>
 </tr>
 </tbody>
