@@ -8,7 +8,7 @@ description: ""
 event at Takashimaya Square, B2</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A table of stage programme from 12 to 15 March" src="/images/stage_programmeN.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A table of stage programme from 12 to 15 Mar 26" src="/images/stage_programmeN.jpg">
 </div>
 <h4><strong>12 March 2026</strong></h4>
 <table style="minWidth: 50px">
