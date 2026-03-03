@@ -30,7 +30,7 @@ event at Takashimaya Square, B2</p>
 <p>12.00pm - 12.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Around the World in 40 Gardens</strong>
+<p><strong>Around the World in Forty Gardens</strong>
 </p>
 <p>Talk by Pascal Garbe, Show Garden Competition Head Judge</p>
 <p>Join Pascal Garbe, an acclaimed garden designer in France and the 2011
@@ -38,8 +38,8 @@ event at Takashimaya Square, B2</p>
 horticultural journey spanning the globe. Drawing from his extensive experience
 as jury chair for prestigious flower shows including Philadelphia's oldest
 garden show, New Zealand's International Flower Show, and Johannesburg's
-International Flower Show, Pascal shares captivating stories from 80 remarkable
-gardens worldwide.</p>
+International Flower Show, Pascal shares captivating stories from forty
+remarkable gardens worldwide.</p>
 <p></p>
 <p>From his first Singapore visit in 1992 through nearly thirty subsequent
 trips, Pascal reveals the diverse beauty, cultural significance, and design
