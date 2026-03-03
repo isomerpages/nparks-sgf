@@ -8,7 +8,7 @@ description: ""
 event at Takashimaya Square, B2</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A table of stage programme from 12 to 15 Mar 26" src="/images/stage_programmeN.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A table of stage programme listing from 12 march to 15 march 26" src="/images/stage_programme_332.jpg">
 </div>
 <h4><strong>12 March 2026</strong></h4>
 <table style="minWidth: 50px">
@@ -147,7 +147,13 @@ perfect for photoshoots, celebrations, or everyday botanical charm.</p>
 <p>12.00pm - 12.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Demonstration by Ikebana International Singapore Chapter 135</p>
+<p><strong>Expressing Nature’s Beauty through Sogetsu</strong>
+</p>
+<p>Floral Demonstration by Netty Chu, Ikebana International Singapore Chapter
+135</p>
+<p>The demonstration aims to show audience the expression of nature’s beauty
+through Sogetsu arrangements using natural materials which are commonly
+available and often overlooked.</p>
 </td>
 </tr>
 <tr>
@@ -348,7 +354,19 @@ element enhances the whole.</p>
 <p>1.00pm - 1.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floral Demonstration by Ikebana International Singapore Chapter 135</p>
+<p><strong>Lines in Motion – The Spirit of Sogetsu</strong>
+</p>
+<p>Floral Demonstration by Bernard Tay, Ikebana International Singapore Chapter
+135</p>
+<p>This demonstration explores the dynamic and contemporary spirit of Sogetsu
+Ikebana, where traditional Japanese principles meet modern artistic expression.
+Through bold lines, spatial balance, and sculptural forms, Mr. Bernard
+Tay will reveal how branches, flowers, and negative space come together
+to create harmony and movement.</p>
+<p>The session will guide the audience through the creative process — from
+structural foundation to expressive finishing — illustrating how Sogetsu
+allows freedom, innovation, and individuality while remaining rooted in
+Japanese aesthetics.</p>
 </td>
 </tr>
 <tr>
