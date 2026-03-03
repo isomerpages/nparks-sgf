@@ -4,7 +4,7 @@ permalink: /event-info/
 variant: tiptap
 description: ""
 ---
-<h3>Launch of Singapore Garden Festival</h3>
+<h3>SGF Launch Event</h3>
 <p>Before the magic begins in July when the Singapore Garden Festival returns
 to Gardens by the Bay, discover stunning floral showcases, participate
 in free floral talks, demonstrations and workshops, and explore a diverse
