@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h2>We thank our sponsors</h2>
+<h3>We thank our sponsors and partners</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGF_2026_Sponsors.jpg">
