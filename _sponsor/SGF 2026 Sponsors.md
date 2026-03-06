@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
+<h2>We thank our sponsors</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGF_2026_Sponsors.jpg">
+</div>
 <p></p>
 <p>Want to be part of SGF 2026? Join us in creating a vibrant and memorable
 experience for all our visitors while gaining valuable exposure for your
