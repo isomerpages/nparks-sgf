@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Purchase your SGF tickets </strong><a href="https://ticket3.gardensbythebay.com.sg/en" rel="noopener nofollow" target="_blank">here</a><strong>!</strong></h4>
-<p>Singapore Garden Festival Opening Hours: 10am to 10pm</p>
-<p>Flower Dome Opening Hours: 9am to 9pm</p>
-<p></p>
+<p>Singapore Garden Festival Opening Hours: 10am to 10pm
+<br>Flower Dome Opening Hours: 9am to 9pm
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ticketing" src="/images/SGF2024_TicketPriceTable2__002_.png">
 </div>
