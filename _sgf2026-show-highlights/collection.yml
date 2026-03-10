@@ -2,9 +2,9 @@ collections:
   sgf2026-show-highlights:
     output: true
     order:
-      - Show Gardens Competition/Designers.md
       - Show Gardens Competition/.keep
       - Show Gardens Competition/About the Competition.md
+      - Show Gardens Competition/Designers.md
       - Show Gardens Competition/Judges.md
       - Floral Windows to the World/.keep
       - Floral Windows to the World/About The Championship.md
