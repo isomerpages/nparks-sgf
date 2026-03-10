@@ -38,4 +38,27 @@ Best of Show for the Landscape Garden category, and the Horticulture Excellence
 Award.</p>
 </li>
 </ul>
+<p><strong>KAZUYUKI ISHIHARA (JAPAN) </strong>is a world-renowned Japanese
+landscape artist who began his career in the Ikenobo school of flower arranging.
+He transitioned from street-side flower sales to landscape design, gaining
+international acclaim for his "unique worldview" that prominently features
+moss. His artistic precision earned him the nickname "Green Magician" from
+Queen Elizabeth.</p>
+<p>Ishihara is one of the most decorated designers in the industry, with
+a career highlighted by:</p>
+<ul>
+<li>
+<p>RHS Chelsea Flower Show: A consistent gold medalist, most recently winning
+Gold, Garden of the Year, and People’s Choice in 2025.</p>
+</li>
+<li>
+<p>Singapore Garden Festival (SGF): A four-time participant who secured Gold
+(Landscape Garden) in 2024 and Best of Show in 2008.</p>
+</li>
+<li>
+<p>Philadelphia Flower Show: Awarded a Gold Medal in 2025.</p>
+</li>
+</ul>
+<p>His work is characterized by the marriage of high-level design and rigorous
+Japanese construction techniques.</p>
 <p></p>
