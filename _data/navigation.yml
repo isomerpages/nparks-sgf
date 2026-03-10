@@ -6,12 +6,12 @@ links:
     collection: sgf2026-show-highlights
   - title: Launch Event
     collection: sgf-launch-event
-  - title: Sponsors
-    collection: sponsor
   - title: Resources
     resource_room: true
   - title: Get Involved
     collection: get-involved
+  - title: Sponsors
+    collection: sponsor
   - title: Tickets
     url: /tickets/
   - title: Contact Us
