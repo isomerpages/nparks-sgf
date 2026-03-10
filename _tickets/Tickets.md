@@ -14,6 +14,12 @@ description: ""
 </div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tickets.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p>Singapore Resident rates applicable to Singapore Citizens, Permanent Residents
 and those living in Singapore, including holders of employment passes,
