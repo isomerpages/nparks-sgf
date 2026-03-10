@@ -12,9 +12,9 @@ links:
     resource_room: true
   - title: MarketPlace
     url: /participate/marketplace/
+  - title: Get Involved
+    collection: get-involved
   - title: Tickets
     url: /tickets/
-  - title: Volunteer
-    url: /permalink
   - title: Contact Us
     url: /contact-us/
