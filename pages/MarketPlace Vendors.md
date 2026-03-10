@@ -4,6 +4,8 @@ permalink: /participate/marketplace/
 variant: tiptap
 description: ""
 ---
+<p>Interested to participate as a vendor in our MarketPlace? You may register
+your interest&nbsp;<a href="https://go.gov.sg/ryim" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
 <p><strong>What are the benefits of participating at SGF MarketPlace?</strong>
 </p>
@@ -81,5 +83,4 @@ coverage and industry publication exposure, further amplifying brand visibility.
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="MarketPlace" src="/images/MarketPlace/SGF2010_Visitors_MktPl_0718_CP_Layna_0157.JPG">
 </div>
-<p>Interested to participate as a vendor in our MarketPlace? You may register
-your interest&nbsp;<a href="https://go.gov.sg/ryim" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p></p>
