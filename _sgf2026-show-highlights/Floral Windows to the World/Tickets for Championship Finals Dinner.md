@@ -21,8 +21,6 @@ Champion.</p>
 <p>Each table accommodates a maximum of 10 guests. If you would like to sit
 with friends or family, please ensure all tickets are booked and paid for
 together in a single transaction to guarantee seating at the same table.</p>
-<p>Tickets are limited and available until sold out. We encourage you to
-book your tickets <a href="https://go.gov.sg/sgf2026fwwcd" rel="noopener nofollow" target="_blank">here</a> today
-to secure your place at this special event.</p>
+<p>Limited slots available. Book your tickets <a href="https://go.gov.sg/sgf2026fwwcd" rel="noopener nofollow" target="_blank">here</a> today!</p>
 <p></p>
 <p></p>
