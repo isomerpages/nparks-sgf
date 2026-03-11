@@ -2,6 +2,7 @@ collections:
   sgf2026-show-highlights:
     output: true
     order:
+      - My Living Space.md
       - Show Gardens Competition/.keep
       - Show Gardens Competition/About the Competition.md
       - Show Gardens Competition/Designers.md
