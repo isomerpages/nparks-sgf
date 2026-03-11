@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Floral Windows to the World
 ---
-<p>Matthew Landers, Australia</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="FWWC2026" src="/images/FWWC.png">
+</div>
+<p><strong>Matthew Landers, Australia</strong>
+</p>
 <p>Matthew Landers is a powerhouse in the Australian floral industry, boasting
 over 23 years of experience. A child prodigy in the craft, he won over
 50 gold medals by age 23, including seven consecutive "Junior Florist of
@@ -16,7 +21,8 @@ high-end brand. Today, he is a celebrated International Master of Floristry,
 winning multiple gold medals at the Melbourne International Flower and
 Garden Show. Through his Matthew Landers Academy, he now mentors over 400
 students annually, defining the gold standard for Australian floral design.</p>
-<p>Akuang, China</p>
+<p><strong>Akuang, China</strong>
+</p>
 <p>Akuang is a visionary floral artist and designer who is passionate about
 color theory and architectural floral art. Since founding her retail brand
 "HuaJian" in 2015—later recognized as the "Most Beautiful Flower Shop in
@@ -26,10 +32,11 @@ Fleuramour Festival in Belgium and the 2023 Shenzhen Spring Festival Flower
 Market. A 2024 co-author of <em>Colors in Floral Design</em>, Akuang continuously
 refines her craft by studying under masters like Gregor Lersch and Tetsunori
 Kawana, merging structural precision with artistic passion.</p>
-<p>Rafaela Petrinić, Croatia</p>
+<p><strong>Rafaela Petrinić, Croatia</strong>
+</p>
 <p>Ela is a distinguished leader and educator in the Croatian floral industry,
-with a career spanning over two decades. Since opening her shop, <strong>Poppy</strong>,
-in 2004, she has risen to prominent leadership roles, including <strong>President of the Guild of Florists</strong> at
+with a career spanning over two decades. Since opening her shop, Poppy<strong>, </strong>in
+2004, she has risen to prominent leadership roles, including <strong>President of the Guild of Florists </strong>at
 the Chamber of Crafts Zagreb.</p>
 <p>A dedicated advocate for the profession, Ela frequently serves as an expert
 at <strong>WorldSkills</strong>, a competition organizer, and a translator
@@ -38,7 +45,8 @@ training with global icons like <strong>Gregor Lersch</strong> and <strong>Natal
 specializing in large-scale forms and filigree work. Recognized with a <strong>Silver Plaque</strong> for
 her contributions to craftsmanship, Ela remains a vital bridge between
 international floral standards and the next generation of Croatian florists.</p>
-<p>Marek Jakobi, Estonia</p>
+<p><strong>Marek Jakobi, Estonia</strong>
+</p>
 <p>Since 2001, he has managed the <strong>Leeri Flower Salon</strong>, overseeing
 multiple locations and specializing in large-scale wedding and commercial
 spatial design.</p>
