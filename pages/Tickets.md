@@ -11,7 +11,7 @@ description: ""
 </p>
 <h4>Non-Resident</h4>
 <p><a href="https://ticket2.gardensbythebay.com.sg/en/events/singapore-garden-festival/GBXSGF01" rel="noopener nofollow" target="_blank">Singapore Garden Festival </a>
-<br><a href="https://ticket2.gardensbythebay.com.sg/en/events/flower-dome-singapore-garden-festival/FDXSGF01" rel="noopener nofollow" target="_blank">Singapore Garden Festival &amp; Flower Dome </a>
+<br><a href="https://ticket2.gardensbythebay.com.sg/en/events/flower-dome-singapore-garden-festival/FDXSGF01" rel="noopener nofollow" target="_blank">Singapore Garden Festival &amp; Flower Dome</a>
 </p>
 <p></p>
 <p>Singapore Garden Festival Opening Hours: 10am to 10pm (Last admission
