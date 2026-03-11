@@ -39,35 +39,38 @@ with a career spanning over two decades. Since opening her shop, Poppy<strong>, 
 2004, she has risen to prominent leadership roles, including President
 of the Guild of Florists<strong> </strong>at the Chamber of Crafts Zagreb.</p>
 <p>A dedicated advocate for the profession, Ela frequently serves as an expert
-at <strong>WorldSkills</strong>, a competition organizer, and a translator
-for international masterclasses. Her technical expertise is refined through
-training with global icons like <strong>Gregor Lersch</strong> and <strong>Natalia Zhizhko</strong>,
-specializing in large-scale forms and filigree work. Recognized with a <strong>Silver Plaque</strong> for
-her contributions to craftsmanship, Ela remains a vital bridge between
-international floral standards and the next generation of Croatian florists.</p>
+at WorldSkills, a competition organizer, and a translator for international
+masterclasses. Her technical expertise is refined through training with
+global icons like Gregor Lersch and Natalia Zhizhko, specializing in large-scale
+forms and filigree work. Recognized with a Silver Plaque for her contributions
+to craftsmanship, Ela remains a vital bridge between international floral
+standards and the next generation of Croatian florists.</p>
 <p><strong>Marek Jakobi, Estonia</strong>
 </p>
-<p>Since 2001, he has managed the <strong>Leeri Flower Salon</strong>, overseeing
-multiple locations and specializing in large-scale wedding and commercial
-spatial design.</p>
-<p>As a long-standing <strong>Floral and Spatial Design Teacher</strong> at
-Räpina Horticulture College, Marek has shaped the industry for 15 years.
-His influence extends to national policy, having served on the Estonian
-Qualifications Authority's working group to develop the <strong>national florist curriculum</strong>.
-With a background in interior design and a commitment to professional seminars,
-Marek bridges the gap between traditional floristry and modern visual merchandising.</p>
-<p>Pirjo Koppi, Finland</p>
+<p>Since 2001, he has managed the Leeri Flower Salon, overseeing multiple
+locations and specializing in large-scale wedding and commercial spatial
+design.</p>
+<p>As a long-standing Floral and Spatial Design Teacher at Räpina Horticulture
+College, Marek has shaped the industry for 15 years. His influence extends
+to national policy, having served on the Estonian Qualifications Authority's
+working group to develop the national florist curriculum. With a background
+in interior design and a commitment to professional seminars, Marek bridges
+the gap between traditional floristry and modern visual merchandising.</p>
+<p><strong>Pirjo Koppi, Finland</strong>
+</p>
 <p>With a career spanning nearly three decades, she has amassed an extraordinary
-list of accolades, including third-place finishes at both the <strong>Europa Cup</strong> and
-the <strong>Fleurop-Interflora World Cup</strong>. Her artistry was even
-immortalized on official Finnish postage stamps in 2019.</p>
-<p>Beyond her creative talent, Pirjo is a highly respected educator and official <strong>FLORINT National Certified Judge</strong>.
-Her leadership in the industry has been recognized with numerous honors,
-such as the <strong>Gold Medal of Honor</strong> from the Finnish Florists’
-Association and the "Master of the Year" title in Helsinki. From winning
-junior championships in the 90s to reaching the FTD World Cup semifinals
-in Philadelphia, Pirjo remains a global benchmark for floral excellence.</p>
-<p>Anja Ersing, Geremy</p>
+list of accolades, including third-place finishes at both the Europa Cup
+and the Fleurop-Interflora World Cup. Her artistry was even immortalized
+on official Finnish postage stamps in 2019.</p>
+<p>Beyond her creative talent, Pirjo is a highly respected educator and official
+FLORINT National Certified Judge. Her leadership in the industry has been
+recognized with numerous honors, such as the Gold Medal of Honor from the
+Finnish Florists’ Association and the "Master of the Year" title in Helsinki.
+From winning junior championships in the 90s to reaching the FTD World
+Cup semifinals in Philadelphia, Pirjo remains a global benchmark for floral
+excellence.</p>
+<p><strong>Anja Ersing, Geremy</strong>
+</p>
 <p>Anja Ersing is an accomplished German Florist Master with a career spanning
 over 25 years in high-end floral design and education. After earning her
 Master title in Stuttgart, she secured prestigious competitive titles,
@@ -80,7 +83,8 @@ and State Garden Shows across Germany. An ambassador for Floral Fundamentals
 and a contributor to leading trade journals, she continues to influence
 the global industry through expert examining and high-profile exhibitions,
 such as the 2025 Féerie Florale in Belgium.</p>
-<p>Attila Nemeth, Hungary</p>
+<p><strong>Attila Nemeth, Hungary</strong>
+</p>
 <p>Attila is a distinguished Hungarian florist with nearly 30 years of experience,
 operating a premier flower shop in Budapest that serves as a hub for his
 original, trend-setting style. Specializing in high-profile hotel installations
@@ -93,7 +97,8 @@ crowned the 2024 champion at the Gateway to the Americas Cup in Panama.
 Driven by artistic freedom, he continues to showcase his expertise on the
 world stage, with recent appearances at major expos in South Korea and
 Vietnam.</p>
-<p>Tinna Bjarnadóttir, Iceland</p>
+<p><strong>Tinna Bjarnadóttir, Iceland</strong>
+</p>
 <p>Tinna is a multi-talented Icelandic floral designer and fashion expert
 whose career is defined by a unique fusion of fine arts, tailoring, and
 horticulture. As the owner of 1905 Blómahús and a guest teacher at Iceland’s
@@ -105,8 +110,8 @@ Design from Barcelona and a deep commitment to community projects like
 The Lonely Bouquet Day, Tiina blends artistic installation experience with
 high-end event and wedding design to create a sophisticated, multidisciplinary
 approach to floral artistry.</p>
-<p>&nbsp;</p>
-<p>Kazuhiko Tanaka, Japan</p>
+<p><strong>Kazuhiko Tanaka, Japan</strong>
+</p>
 <p>Kazuhiko Tanaka is a distinguished Japanese floral designer and the manager
 of the HANASEI flower shop in Tokyo. A versatile artist, he is a member
 of AIFD, NFD, and the Sogetsu school of Ikebana, blending traditional techniques
@@ -118,7 +123,8 @@ FDSS Cup in Singapore and recently securing an award at the 2025 Vietnam
 International Flora Expo. Beyond competitions, he travels extensively across
 Asia and Europe to lead workshops and demonstrations, drawing inspiration
 from the beauty and experiences of daily life.</p>
-<p>Win Chan, Malaysia</p>
+<p><strong>Win Chan, Malaysia</strong>
+</p>
 <p>Win Chan is an accomplished floral designer with a career spanning over
 three decades, marked by high-profile international success and royal appointments.
 Notably, they have served as the designer for major project decorations
@@ -130,7 +136,8 @@ for the Shangri-La Hotel in Malaysia. Their recent accolades include the
 Creative and Gold Awards at the 2024 Takashimaya x Harijanto Floral Extravagance,
 further cementing their status as a leading floral artist whose work has
 been featured in the prestigious International Annual Floral Art publication.</p>
-<p>Geertje Stienstra, The Netherlands</p>
+<p><strong>Geertje Stienstra, The Netherlands</strong>
+</p>
 <p>Geertje Stienstra is an esteemed Dutch Master Florist who has been operating
 her own freelance design company since 2006. After graduating from AOC
 Groene Welle and completing her Master’s education at Wellant College,
@@ -141,7 +148,8 @@ finish at the 2018 Dutch Championship and a victory at the 2020 Royal Flora
 Holland bouquet competition. Beyond design, she serves as a teacher, judge
 for the European Federation of Professional Florist Associations, and a
 floral stylist for major trade magazines and international growers.</p>
-<p>Franca Logan, New Zealand</p>
+<p><strong>Franca Logan, New Zealand</strong>
+</p>
 <p>Franca Logan (originally from the Netherlands) owns her own floral design
 studio Florienne, in Takapuna, Auckland, New Zealand. She has been a florist
 for over 30 years and has lived and worked as a floral designer, teacher
@@ -153,7 +161,8 @@ the Netherlands Throughout her career, she has won numerous awards in flower
 shows such as Canada Blooms, CAFA, Interflora NZ competitions, Ellerslie
 Flower Show, 2 Gold and 1 Silver at the New Zealand Flower and Garden Show,
 and Silver at Huis ten Bosch, Japan. Hobbies are gardening and art.</p>
-<p>Joanna Kiedacz, Poland</p>
+<p><strong>Joanna Kiedacz, Poland</strong>
+</p>
 <p>Joanna Kiedacz is an International Master Florist and MSc in Horticulture
 whose work is defined by a "quiet structural intensity" and architectural
 precision. Drawing inspiration from traditional Polish "pająk" straw chandeliers,
@@ -164,7 +173,6 @@ of the Year. Mentored by legends like Gregor Lersch and World Champion
 Tomasz Max Kuczyński, she also serves as a Floral Fundamentals Ambassador
 and a certified international judge, bringing a sophisticated, sustainable,
 and meditative approach to the global floral stage.</p>
-<p>&nbsp;</p>
 <p><strong>Keith Lin, Singapore</strong>
 </p>
 <p>Keith Lin is an award-winning landscape and floral designer with over
@@ -181,7 +189,8 @@ the only Singaporean to receive this honour. He continues to win awards
 and is frequently invited to demonstrate and share his expertise in floristry.</p>
 <p>Today, Keith serves as a consultant and designer for gardens, thematic
 attractions, and floral displays in Singapore and internationally.</p>
-<p>Oh Myeon, South Korea</p>
+<p><strong>Oh Myeon, South Korea</strong>
+</p>
 <p>Oh Myeon is a prominent Korean floral artist and the President of the
 Korea Floral Art Association. As a Certified Master Craftsman recognized
 by the Republic of Korea’s Ministry of Employment and Labor, he founded
@@ -192,7 +201,8 @@ distinguished by global competitive success, notably placing in the Top
 and spatial installations, Oh Myeon frequently serves as a judge and demonstrator
 throughout Asia, where he is celebrated for blending contemporary composition
 with traditional Korean aesthetic expression.</p>
-<p>Irati Tamarit, Spain</p>
+<p><strong>Irati Tamarit, Spain</strong>
+</p>
 <p>Irati is a third-generation florist rooted in Basque heritage and the
 Mediterranean spirit, bringing over a decade of expertise to the global
 floral stage. Trained at the Escola de Disseny Floral de Catalunya, where
