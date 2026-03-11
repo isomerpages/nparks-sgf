@@ -5,10 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h4>Planters Market x SGF 2026 Marketplace</h4>
+<p>🗓️: Thu, 12 Mar to Sun, 15 Mar 2026
+<br>⏱️: 10.am - 9.30pm
+<br>📍: Gardens by the Bay, Bayfront Green</p>
 <p>Organised in partnership with Planters Market, the MarketPlace will feature
 retailers offering plants gardening wares, trinkets, collectibles and more.
 Home gardening enthusiasts will be able to purchase all of their gardening
-essentials at the MarketPlace, located by the entrance to Bayfront MRT.</p>
+essentials.</p>
 <p>Interested to participate as a vendor in our MarketPlace? You may register
 your interest&nbsp;<a href="https://go.gov.sg/ryim" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
