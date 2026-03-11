@@ -78,6 +78,10 @@ Industry Association (Singapore) from 2011 to 2015, focusing on advancing
 professionalism and quality within the local industry.</p>
 <p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.esmond.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Esmond Landscape &amp; Horticultural Pte Ltd</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Andrew.png">
+</div>
 <p><strong>ANDREW WILSON and GAVIN MCWILLIAM (United Kingdom)</strong>, recognized
 as one of the United Kingdom’s premier garden and landscape design practices.
 Their work is characterized by a blend of imaginative design concepts,
