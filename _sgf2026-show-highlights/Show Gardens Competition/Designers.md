@@ -48,8 +48,6 @@ Flower Show, including Garden of the Year and People's Choice in 2025.
 His international success extends to the Singapore Garden Festival, where
 he has participated four times and secured multiple Gold and Best of Show
 awards, as well as a Gold Medal at the 2025 Philadelphia Flower Show.</p>
-<p>His work is characterized by the marriage of high-level design and rigorous
-Japanese construction techniques.</p>
 <p><strong>LEON KLUGE (South Africa)</strong> is an internationally recognised
 landscape designer, artist, botanist, presenter and writer. Over the years,
 he has designed and installed gardens ranging from immense commercial landscaping
