@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Show Gardens Competition
 ---
+<p></p>
 <p><strong>ELIAM ENG &amp; ANDY ENG (Singapore)</strong> are returning winners
 of SGF, after winning Gold, Best of Show and the Best Construction Award
 in 2022. They are both from Nyee Phoe Flower Garden, a landscape architecture
@@ -20,6 +21,10 @@ setups. As a Project Director, he leads a vibrant team of designers and
 staff in the firm.&nbsp;</p>
 <p><strong><u>Local implementing partner</u></strong><u>: </u><a href="https://www.nyeephoe.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Nyee Phoe Flower Garden Pte Ltd</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/mark.png">
+</div>
 <p><strong>MARK and EMILY COOK (United States of America)</strong> are the
 owners of Mark Cook Landscape &amp; Contracting, a firm they have operated
 for 23 years. Mark holds a degree in Ornamental Horticulture and works
@@ -37,7 +42,7 @@ Horticulture Excellence Award.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ishihara.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ishihara.png">
 </div>
 <p><strong>KAZUYUKI ISHIHARA (Japan) </strong>is a renowned Japanese landscape
 artist who began his career in the Ikenobo school of floral arrangement.
