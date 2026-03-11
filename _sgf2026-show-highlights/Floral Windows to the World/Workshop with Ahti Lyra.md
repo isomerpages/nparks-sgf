@@ -18,3 +18,6 @@ in Ahti’s unique "spiritual" approach to design, this session offers invaluabl
 insights from one of the industry's most celebrated educators. Don’t miss
 your chance to refine your craft under the guidance of a world-class artist—secure
 your spot today and transform your floral perspective!</p>
+<p></p>
+<p></p>
+<p></p>
