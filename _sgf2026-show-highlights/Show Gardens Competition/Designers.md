@@ -18,12 +18,12 @@ of the Singapore Institute of Landscape Architects (SILA).&nbsp;</p>
 Singapore Changi Airport, commercial buildings and festive season floral
 setups. As a Project Director, he leads a vibrant team of designers and
 staff in the firm.&nbsp;</p>
-<p><strong>MARK and EMILY COOK (USA)</strong> are the owners of Mark Cook
-Landscape &amp; Contracting, a firm they have operated for 23 years. Mark
-holds a degree in Ornamental Horticulture and works as both a landscape
-designer and artist. Together, the duo manages projects from the initial
-conceptual phase through final construction, focusing on a combination
-of diverse plant palettes and structural architecture.</p>
+<p><strong>MARK and EMILY COOK (United States of America)</strong> are the
+owners of Mark Cook Landscape &amp; Contracting, a firm they have operated
+for 23 years. Mark holds a degree in Ornamental Horticulture and works
+as both a landscape designer and artist. Together, the duo manages projects
+from the initial conceptual phase through final construction, focusing
+on a combination of diverse plant palettes and structural architecture.</p>
 <p>Mark and Emily are highly successful competitors in major international
 horticultural events:</p>
 <ul>
@@ -65,4 +65,27 @@ for his innovative lighting and horticultural excellence. His recent accolades
 further cement his global reputation, including being named the 2024 South
 African Designer of the Year and winning Gold or "Best on Show" at prestigious
 events in Shenzhen, Suzhou, and Shanghai.</p>
+<p><strong>JOHN TAN (Singapore) </strong>is the principal design director
+and horticulturist at Esmond Landscape and Horticultural, a firm he established
+in 2000 after transitioning from a career in engineering. His passion for
+the challenging nature of garden design led him to represent Singapore
+on the global stage, where he has achieved significant recognition. A five-time
+participant at the Singapore Garden Festival, John’s history with the event
+includes winning Gold and Best of Show in 2010. His international accolades
+are equally impressive, featuring a Silver-Gilt award at the Chelsea Flower
+Show in 2015 and a Green Card Award at the 2019 Chaumont-sur-Loire International
+Garden Festival. Beyond his design work, he served as Chairman of the Landscape
+Industry Association (Singapore) from 2011 to 2015, focusing on advancing
+professionalism and quality within the local industry.</p>
+<p><strong>ANDREW WILSON and GAVIN MCWILLIAM (United Kingdom)</strong>, recognized
+as one of the United Kingdom’s premier garden and landscape design practices.
+Their work is characterized by a blend of imaginative design concepts,
+a sophisticated understanding of planting and materials, and a commitment
+to meticulous craftsmanship. As three-time participants in the Singapore
+Garden Festival, they previously secured both Gold and Best of Show in
+the Landscape Garden category during the 2014 event. Their international
+reputation is further bolstered by a consistent record of high-level accolades,
+including a Gold Medal at the RHS Chelsea Flower Show in 2017, a Silver
+Gilt in 2023, and being named winners at the 2025 Society of Garden and
+Landscape Designers Awards.</p>
 <p></p>
