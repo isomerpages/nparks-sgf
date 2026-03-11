@@ -73,8 +73,7 @@ USA, UK, Italy, South Africa, Japan and Malaysia.</p>
 <p>Another refreshed SGF concept will be the <strong>My Living Space </strong>competition,
 which builds on the previous Balcony Gardens competition to challenge designers
 to incorporate greenery and garden elements into daily living spaces in
-creative ways.</p>
-<p>&nbsp;</p>
+creative ways. &nbsp;</p>
 <p>Festival-goers can also look forward to SGF’s signature <strong>Floral Windows to the World Championship</strong> (FWWC).
 The dynamic format brings world-class floral artistry to life through an
 exciting live competition where 17 international floral masters will compete
@@ -89,8 +88,7 @@ Orchid Society of South East Asia, will make a comeback at SGF 2026, featuring
 rare, unique and award-winning orchid varieties grown by hobbyists and
 industry players. These orchids, including warm and cool-growing species
 and hybrids found in different regions around the world, will be on display
-at the Flower Dome, Gardens by the Bay.</p>
-<p>&nbsp;</p>
+at the Flower Dome, Gardens by the Bay. &nbsp;</p>
 <p>In line with celebrating orchids from around the world, Flower Dome’s <strong>Orchid Extravaganza</strong> this
 year spotlights the rich heritage and diversity across seven regions of
 Indonesia, featuring more than 7,000 orchids. In partnership with the Ministry
@@ -98,11 +96,9 @@ of Creative Economy of Indonesia, the display also incorporates striking <em>any
 artworks and sculptural pieces, alongside recreations of traditional Sumbanese
 houses and Balinese Meru towers, complemented by motifs such as Toba Batak
 patterns and intricate <em>ikat </em>designs.</p>
-<p></p>
 <p>Meanwhile, new curated gardens such as <strong>Interactive Light Garden, Nature Playgarden </strong>and<strong> Sensory Garden</strong>&nbsp;will
 offer visitors of all ages an immersive experience that engages their senses,
 inviting them to foster a deeper connection with nature.</p>
-<p></p>
 <p>Other Festival highlights spread across Gardens by the Bay include the <strong>14<sup>th</sup> International FDSS Cup Floral Designing Competition, Community Garden Edibles Competition, Singapore Gardeners’ Cup, Landscape Design Challenge </strong>and
 the<strong> Penjing and Artistic Stone Exhibition Competition.</strong>
 </p>
