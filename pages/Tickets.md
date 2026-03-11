@@ -25,9 +25,6 @@ at 9.30pm)
 <p>Purchase Floral Windows to the World Championship Dinals DInner <a href="https://go.gov.sg/sgf2026fwwcd" rel="noopener nofollow" target="_blank">here</a>.
 <br>Sign up for SGF Masters: Floristry Workshop with Ahti Lyra <a href="https://go.gov.sg/sgf2026alw" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><sup>1 </sup>Singapore Resident rates applicable to Singapore Citizens,
 Permanent Residents and individuals living in Singapore on valid passes
 such as employment pass, work permit and dependent pass. Proof of residency
@@ -43,8 +40,6 @@ entries are allowed within the same day.
 <br><sup>5</sup> Single entry only for Flower Dome.
 <br>Other terms and conditions apply. Please check Gardens by the Bay website
 for more details.</p>
-<p></p>
-<p></p>
 <p></p>
 <h4>Bulk Ticket Purchase</h4>
 <p>Get up to 25% discount off for purchase of 30 or more tickets. Please
