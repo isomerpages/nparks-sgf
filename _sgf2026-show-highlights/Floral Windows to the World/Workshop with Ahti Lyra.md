@@ -18,6 +18,13 @@ in Ahti’s unique "spiritual" approach to design, this session offers invaluabl
 insights from one of the industry's most celebrated educators. Don’t miss
 your chance to refine your craft under the guidance of a world-class artist—secure
 your spot today and transform your floral perspective!</p>
-<p></p>
+<p><strong>Workshop Details</strong>
+<br>📅 Date:&nbsp;7 July 2026, Monday
+<br>🕟 Time:&nbsp;8.30am – 1.00pm
+<br>📍 Location:&nbsp;The Meadows, Gardens by the Bay
+<br>💲&nbsp;Fee:&nbsp;S$450
+<br>Materials, Tools and Lunch will be provided
+<br>
+</p>
 <p></p>
 <p></p>
