@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Show Gardens Competition
 ---
-<p><strong>ELIAM ENG &amp; ANDY ENG (SINGAPORE)</strong> are returning winners
+<p><strong>ELIAM ENG &amp; ANDY ENG (Singapore)</strong> are returning winners
 of SGF, after winning Gold, Best of Show and the Best Construction Award
 in 2022. They are both from <a href="https://www.nyeephoe.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Nyee Phoe Flower Garden</u></a>, a
 landscape architecture company that celebrated its 112th anniversary in
@@ -50,7 +50,7 @@ he has participated four times and secured multiple Gold and Best of Show
 awards, as well as a Gold Medal at the 2025 Philadelphia Flower Show.</p>
 <p>His work is characterized by the marriage of high-level design and rigorous
 Japanese construction techniques.</p>
-<p><strong>LEON KLUGE (SOUTH AFRICA)</strong> is an internationally recognised
+<p><strong>LEON KLUGE (South Africa)</strong> is an internationally recognised
 landscape designer, artist, botanist, presenter and writer. Over the years,
 he has designed and installed gardens ranging from immense commercial landscaping
 to small residential gardens. He has won several prizes around the world,
@@ -88,4 +88,21 @@ reputation is further bolstered by a consistent record of high-level accolades,
 including a Gold Medal at the RHS Chelsea Flower Show in 2017, a Silver
 Gilt in 2023, and being named winners at the 2025 Society of Garden and
 Landscape Designers Awards.</p>
+<p><strong>INCH LIM (Malaysia)</strong> is a renowned master of scenography,
+having designed award-winning show gardens in Japan, China, Singapore,
+the UK, France and the USA, in addition to multi-disciplinary private and
+commercial works in Malaysia, Japan and Sri Lanka. He believes that the
+main job of a designer is to communicate and to arouse emotions, to make
+a space come alive, creating shifts in perception and inducing memories.
+This is what gives a garden or landscape meaning, and what some would call
+‘soul’.</p>
+<p>Inch has participated four times and consistently achieved top honors.
+His history at the event is highlighted by his 2016 and 2018 performances,
+where he secured Gold, Best of Show, and Horticulture Excellence awards,
+along with the People’s Choice award in 2016. His success extends globally,
+evidenced by recent accolades such as the Grand Gold and Best Design awards
+at the Shenzhen Bougainvillea Shows in 2020 and 2021, as well as winning
+both Gold and the People’s Choice award at the 2015 Philadelphia Flower
+Show.</p>
+<p></p>
 <p></p>
