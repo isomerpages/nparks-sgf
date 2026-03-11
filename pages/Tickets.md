@@ -32,7 +32,8 @@ years old. Children aged 13 and above must purchase a ticket for admission
 to the FWWC Dinner.
 <br><sup>4 </sup>Tickets to SGF is valid for single day admission only. Multiple
 entries are allowed within the same day.
-<br><sup>5</sup> Single entry only for Flower Dome.</p>
+<br><sup>5</sup> Single entry only for Flower Dome.
+<br>Other terms and conditions apply.</p>
 <p></p>
 <p></p>
 <p></p>
