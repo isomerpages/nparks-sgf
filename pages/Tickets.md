@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Purchase your SGF tickets here!</strong></h4>
+<p>Singapore Resident</p>
 <p><a href="https://ticket3.gardensbythebay.com.sg/en/events/singapore-garden-festival/GBXSGF01" rel="noopener nofollow" target="_blank">Singapore Garden Festival (SG Resident)</a> 
 <br><a href="https://ticket3.gardensbythebay.com.sg/en/events/flower-dome-singapore-garden-festival/FDXSGF01" rel="noopener nofollow" target="_blank">Singapore Garden Festival &amp; Flower Dome (SG Resident) </a>
 <br><a href="https://ticket2.gardensbythebay.com.sg/en/events/singapore-garden-festival/GBXSGF01" rel="noopener nofollow" target="_blank">Singapore Garden Festival (Non-Resident) </a>
