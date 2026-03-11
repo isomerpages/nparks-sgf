@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Show Gardens Competition
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Eliam.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Eliam.png">
 </div>
 <p><strong>ELIAM ENG &amp; ANDY ENG (Singapore)</strong> are returning winners
 of SGF, after winning Gold, Best of Show and the Best Construction Award
