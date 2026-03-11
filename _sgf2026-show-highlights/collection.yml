@@ -2,7 +2,6 @@ collections:
   sgf2026-show-highlights:
     output: true
     order:
-      - Penjing and Artistic Stone Exhibition and Competition.md
       - Show Gardens Competition/.keep
       - Show Gardens Competition/About the Competition.md
       - Show Gardens Competition/Designers.md
@@ -17,4 +16,5 @@ collections:
       - Singapore Gardeners' Cup.md
       - Community Garden Edibles Competition.md
       - 14th International FDSS Cup.md
+      - Penjing and Artistic Stone Exhibition and Competition.md
       - Other Community Highlights.md
