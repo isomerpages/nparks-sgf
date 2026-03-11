@@ -2,7 +2,6 @@ collections:
   sgf2026-show-highlights:
     output: true
     order:
-      - MarketPlace.md
       - Show Gardens Competition/.keep
       - Show Gardens Competition/About the Competition.md
       - Show Gardens Competition/Designers.md
@@ -19,3 +18,4 @@ collections:
       - 14th International FDSS Cup.md
       - Penjing and Artistic Stone Exhibition and Competition.md
       - Landscape Design Challenge.md
+      - MarketPlace.md
