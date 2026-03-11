@@ -15,6 +15,6 @@ skills, landscape implantation expertise and new design ideas.</p>
 <blockquote>
 <p>'Funtastical Forest'
 <br>Designed by South East District
-<br>Gold and Best of Show Award</p>
+<br>Gold and Best of Show Award 2024</p>
 </blockquote>
 <p></p>
