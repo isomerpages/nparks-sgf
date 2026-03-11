@@ -10,7 +10,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MarketPlace.png">
 </div>
 <p>🗓️: 4 to 12 Jul 2026
-<br>⏱️: 10.am - 8pm
+<br>⏱️: 10am - 8pm
 <br>📍: Gardens by the Bay, Bayfront Green (Next to Bayfront MRT)</p>
 <p>Organised in partnership with Planters Market, the MarketPlace will feature
 retailers offering plants gardening wares, trinkets, collectibles and more.
