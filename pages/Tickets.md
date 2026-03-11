@@ -23,7 +23,7 @@ at 9.30pm)
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tickets.png">
 </div>
 <p>Purchase Floral Windows to the World Championship Dinals DInner <a href="https://go.gov.sg/sgf2026fwwcd" rel="noopener nofollow" target="_blank">here</a>.
-<br>Sign up for SGF Masters: Floristry Workshop with Ahti Lyra <a href="https://go.gov.sg/sgf2026alw" rel="noopener nofollow" target="_blank">here</a>.</p>
+<br>Sign up for SGF Masters Series: Floristry Workshop with Ahti Lyra <a href="https://go.gov.sg/sgf2026alw" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><sup>1 </sup>Singapore Resident rates applicable to Singapore Citizens,
 Permanent Residents and individuals living in Singapore on valid passes
