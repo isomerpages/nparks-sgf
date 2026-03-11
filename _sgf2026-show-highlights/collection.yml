@@ -2,7 +2,6 @@ collections:
   sgf2026-show-highlights:
     output: true
     order:
-      - My Living Space.md
       - Show Gardens Competition/.keep
       - Show Gardens Competition/About the Competition.md
       - Show Gardens Competition/Designers.md
@@ -14,6 +13,7 @@ collections:
       - Floral Windows to the World/Competition Schedule.md
       - Floral Windows to the World/Tickets for Championship Finals Dinner.md
       - Floral Windows to the World/Workshop with Ahti Lyra.md
+      - My Living Space.md
       - Singapore Gardeners' Cup.md
       - Community Garden Edibles Competition.md
       - 14th International FDSS Cup.md
