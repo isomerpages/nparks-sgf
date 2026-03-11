@@ -33,7 +33,8 @@ to the FWWC Dinner.
 <br><sup>4 </sup>Tickets to SGF is valid for single day admission only. Multiple
 entries are allowed within the same day.
 <br><sup>5</sup> Single entry only for Flower Dome.
-<br>Other terms and conditions apply.</p>
+<br>Other terms and conditions apply. Please check Gardens by the Bay website
+for more details.</p>
 <p></p>
 <p></p>
 <p></p>
