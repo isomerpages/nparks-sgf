@@ -4,9 +4,9 @@ permalink: /plan-your-visit/show-info/
 description: ""
 variant: tiptap
 ---
-<p>🗓️: Sat-Sun, 4 - 12 July 2026
+<p>🗓️: Sat 4 July to Sun 12 July 2026
+<br>⏱️: 10am to 10pm (Last entry at 9.30pm)
 <br>📍: Gardens by the Bay</p>
-<p></p>
 <p></p>
 <p>The biennial Singapore Garden Festival (SGF) brings together top award-winning
 landscape and garden designers, florists and horticulturists from around
@@ -49,10 +49,10 @@ at Gardens by the Bay.</p>
 <p>View our past festival highlights here:</p>
 <h4>SGF 2022</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/d-Xe30pVldI?si=AQ-k331VuggtUUyw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/d-Xe30pVldI?si=AQ-k331VuggtUUyw"></iframe>
 </div>
 <h4>SGF 2018</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/crvZcIW9488?si=4hhGKjhV7WzP1Z4m"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/crvZcIW9488?si=4hhGKjhV7WzP1Z4m"></iframe>
 </div>
 <p></p>
