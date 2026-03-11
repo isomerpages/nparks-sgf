@@ -9,7 +9,7 @@ third_nav_title: Floral Windows to the World
 <p>📅 Date:&nbsp;6 July 2026, Monday
 <br>🕟 Time:&nbsp;6.00pm – 9.30pm
 <br>📍 Location:&nbsp;The Meadows, Gardens by the Bay
-<br>💲&nbsp;Ticket:&nbsp;S$350 (Include admission to Show between 4 to 7 July)
+<br>💲&nbsp;Ticket:&nbsp;S$350 (Include admission to SGFbetween 4 to 7 July)
 <br>🧥&nbsp;Dress code:&nbsp;Formal</p>
 <p>Join us at the SGF Floral Windows to the World Championship Finals Dinner
 on 6 July 2026 to watch the top five finalists compete in their final challenge.
@@ -24,3 +24,5 @@ together in a single transaction to guarantee seating at the same table.</p>
 <p>Tickets are limited and available until sold out. We encourage you to
 book your tickets <a href="https://go.gov.sg/sgf2026fwwcd" rel="noopener nofollow" target="_blank">here</a> today
 to secure your place at this special event.</p>
+<p></p>
+<p></p>
