@@ -111,7 +111,7 @@ edition of the Singapore Garden Festival, this milestone truly signifies
 a new era, where artistry and nature flourish side by side. With vibrant
 show gardens, breathtaking floral creations, and hands-on experiences for
 all ages, SGF 2026 invites everyone to be inspired by the beauty of nature.”</p>
-<p>X</p>
+<p></p>
 <p></p>
 <p><strong>END</strong>
 </p>
