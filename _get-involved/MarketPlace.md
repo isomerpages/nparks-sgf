@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4>Planters Market x SGF 2026 Marketplace</h4>
-<p>organised in partnership with Planters Market&nbsp;(<a href="https://www.instagram.com/plantersmarketsg/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>@plantersmarketsg</u></a>)
-will feature retailers offering plants gardening wares, trinkets, collectibles
-and more. Home gardening enthusiasts will be able to purchase all of their
-gardening essentials at the MarketPlace, located by the entrance to Bayfront
-MRT.</p>
+<p>Organised in partnership with Planters Market, the MarketPlace will feature
+retailers offering plants gardening wares, trinkets, collectibles and more.
+Home gardening enthusiasts will be able to purchase all of their gardening
+essentials at the MarketPlace, located by the entrance to Bayfront MRT.</p>
 <p>Interested to participate as a vendor in our MarketPlace? You may register
 your interest&nbsp;<a href="https://go.gov.sg/ryim" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
