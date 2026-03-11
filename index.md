@@ -11,7 +11,7 @@ notification: Government officials will NEVER ask you to transfer money or
   are unsure if something is a scam.
 sections:
   - hero:
-      background: /images/SGF2026_Homepage_1450x480.png
+      background: /images/SGF2026_homepage_1450_x_480a_.jpg
       title: Singapore Garden Festival 2026
       subtitle: <b>Gardens by the Bay</b><br><b>4 - 12 July 2026</b>
       variant: floating
