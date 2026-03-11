@@ -7,7 +7,7 @@ description: ""
 <h4>Planters Market x SGF 2026 Marketplace</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MarketPlace.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MarketPlace.png">
 </div>
 <p>🗓️: 4 to 12 Jul 2026
 <br>⏱️: 10am - 8pm
