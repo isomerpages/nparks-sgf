@@ -8,3 +8,11 @@ description: ""
 event showcases tropical bonsai species, including mature specimens of
 up to a century old, and a range of artistic and landscape stones.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Penjing" src="/images/Penjing.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Penjing 2" src="/images/2Penjing.jpg">
+</div>
+<p></p>
