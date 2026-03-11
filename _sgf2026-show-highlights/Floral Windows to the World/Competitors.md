@@ -36,8 +36,8 @@ Kawana, merging structural precision with artistic passion.</p>
 </p>
 <p>Ela is a distinguished leader and educator in the Croatian floral industry,
 with a career spanning over two decades. Since opening her shop, Poppy<strong>, </strong>in
-2004, she has risen to prominent leadership roles, including <strong>President of the Guild of Florists </strong>at
-the Chamber of Crafts Zagreb.</p>
+2004, she has risen to prominent leadership roles, including President
+of the Guild of Florists<strong> </strong>at the Chamber of Crafts Zagreb.</p>
 <p>A dedicated advocate for the profession, Ela frequently serves as an expert
 at <strong>WorldSkills</strong>, a competition organizer, and a translator
 for international masterclasses. Her technical expertise is refined through
@@ -165,7 +165,8 @@ Tomasz Max Kuczyński, she also serves as a Floral Fundamentals Ambassador
 and a certified international judge, bringing a sophisticated, sustainable,
 and meditative approach to the global floral stage.</p>
 <p>&nbsp;</p>
-<p>Keith Lin, Singapore</p>
+<p><strong>Keith Lin, Singapore</strong>
+</p>
 <p>Keith Lin is an award-winning landscape and floral designer with over
 15 years of experience delivering world-class landscapes, international
 garden festivals, and large-scale public installations. He leads a multidisciplinary
@@ -191,7 +192,7 @@ distinguished by global competitive success, notably placing in the Top
 and spatial installations, Oh Myeon frequently serves as a judge and demonstrator
 throughout Asia, where he is celebrated for blending contemporary composition
 with traditional Korean aesthetic expression.</p>
-<p>Irati Tamarit, Spain_</p>
+<p>Irati Tamarit, Spain</p>
 <p>Irati is a third-generation florist rooted in Basque heritage and the
 Mediterranean spirit, bringing over a decade of expertise to the global
 floral stage. Trained at the Escola de Disseny Floral de Catalunya, where
@@ -202,7 +203,8 @@ a Silver Medal at the 2018 Spanish Floral Art Cup and frequently serves
 as a jury member for prestigious competitions like the Mejor Artesano Florista.
 In 2025, she reached a career pinnacle as the Spanish representative for
 the Floristry World Cup in The Hague.</p>
-<p>To Duy Kha, Vietnam</p>
+<p><strong>To Duy Kha, Vietnam</strong>
+</p>
 <p>Kha formerly serving as the President of the World Flower Council (WFC)
 Vietnam Chapter. His extensive career is marked by numerous international
 honours, including multiple Gold awards at the 2011 WFC competition in
