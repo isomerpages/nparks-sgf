@@ -18,6 +18,5 @@ variant: tiptap
 </p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Free floral displays, carnival-themed activities, expert talks, demonstrations and workshops at Takashimaya </em>
 </p>
-<p></p>
 <p><em>Square from 12 to 15 March</em>
 </p>
