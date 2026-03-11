@@ -18,6 +18,8 @@ Institute of Landscape Architects (SILA).&nbsp;</p>
 Singapore Changi Airport, commercial buildings and festive season floral
 setups. As a Project Director, he leads a vibrant team of designers and
 staff in the firm.&nbsp;</p>
+<p><strong><u>Local implementing partner</u></strong><u>: </u><a href="https://www.nyeephoe.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Nyee Phoe Flower Garden Pte Ltd</u></a>
+</p>
 <p><strong>MARK and EMILY COOK (United States of America)</strong> are the
 owners of Mark Cook Landscape &amp; Contracting, a firm they have operated
 for 23 years. Mark holds a degree in Ornamental Horticulture and works
@@ -31,6 +33,8 @@ at the Philadelphia Flower Show, including the PHS Gold Medal and Cup in
 success continued at the 2024 Singapore Garden Festival, where they secured
 Gold and Best of Show for the Landscape Garden category, along with the
 Horticulture Excellence Award.</p>
+<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.instagram.com/greenforestpl/" rel="noopener noreferrer nofollow" target="_blank"><u>Green Forest Landscape Pte Ltd</u></a>
+</p>
 <p><strong>KAZUYUKI ISHIHARA (Japan) </strong>is a renowned Japanese landscape
 artist who began his career in the Ikenobo school of floral arrangement.
 After transitioning from selling flowers on the street to professional
@@ -41,6 +45,8 @@ Flower Show, including Garden of the Year and People's Choice in 2025.
 His international success extends to the Singapore Garden Festival, where
 he has participated four times and secured multiple Gold and Best of Show
 awards, as well as a Gold Medal at the 2025 Philadelphia Flower Show.</p>
+<p><strong><u>Local implementing partner: </u></strong><a href="https://www.princelandscape.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Prince’s Landscape Pte Ltd</u></a>
+</p>
 <p><strong>LEON KLUGE (South Africa)</strong> is an internationally recognised
 landscape designer, artist, botanist, presenter and writer. Over the years,
 he has designed and installed gardens ranging from immense commercial landscaping
