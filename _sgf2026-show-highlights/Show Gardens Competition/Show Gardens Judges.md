@@ -22,7 +22,7 @@ was a judge for the Best of Show Designer Gardens competition at SGF in
 2010, 2012, 2014, 2016 and 2018.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seth.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Seth.png">
 </div>
 <p><strong>MR SETH PEARSOLL, Creative Director of the Philadelphia Flower Show, United States of America</strong>
 <br><strong>Judge</strong>
