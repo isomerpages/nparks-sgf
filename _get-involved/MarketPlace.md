@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Planters Market x SGF 2026 Marketplace</h4>
-<p>🗓️: Fri, 4 Jul to Sun, 12 Jul 2026
+<p>🗓️: 4 to 12 Jul 2026
 <br>⏱️: 10.am - 8pm
 <br>📍: Gardens by the Bay, Bayfront Green</p>
 <p>Organised in partnership with Planters Market, the MarketPlace will feature
