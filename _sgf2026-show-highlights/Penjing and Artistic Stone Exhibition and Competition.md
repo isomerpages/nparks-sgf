@@ -5,8 +5,13 @@ variant: tiptap
 description: ""
 ---
 <p>Organised by the Singapore Penjing and Stone Appreciation Society, this
-event showcases tropical bonsai species, including mature specimens of
-up to a century old, and a range of artistic and landscape stones.</p>
+exhibition showcases tropical bonsai species, including mature specimens
+of up to a century old, and a range of artistic and landscape stones.</p>
+<p>The Singapore Penjing and Stone Appreciation Society is looking for interested
+bonsai enthusiasts to submit their bonsai for judging. This is an opportunity
+for bonsai artists of all skill levels to showcase their work and connect
+with fellow enthusiasts.</p>
+<p>More information can be found here.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Penjing" src="/images/Penjing.jpg">
