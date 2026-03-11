@@ -7,7 +7,7 @@ third_nav_title: Floral Windows to the World
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Alison.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Alison.png">
 </div>
 <p><strong>ALISON&nbsp;<u>BRADLEY</u>, Director and Co-Founder of Floral Fundamentals, Scotland</strong>
 <br><strong>Head Judge</strong>
@@ -23,7 +23,7 @@ a judge for Floral Windows to the World at SGF in 2010, 2012, 2014, 2016,
 2018 and the recent Championship in 2024.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Harijanto.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Harijanto.png">
 </div>
 <p><strong>HARIJANTO&nbsp;<u>SETIAWAN</u>, International Master Florist, Singapore</strong>
 <br><strong>Judge</strong>
@@ -42,7 +42,7 @@ and commercial projects. Harijanto was a judge for Floral Windows to the
 World at SGF in 2016, 2018 and the recent Championship in 2024.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Toru.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Toru.png">
 </div>
 <p><strong><u>TORU</u> KAWAI, Chairman of the Tokyo Flower Design Research Association, Japan</strong>
 <br><strong>Judge</strong>
@@ -63,7 +63,7 @@ Kawai Floral Academy, he continues to shape the next generation of floral
 designers while pushing the boundaries of contemporary floral artistry.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Petra.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Petra.png">
 </div>
 <p><strong>PETRA&nbsp;<u>KONRAD</u>, Master Designer and CEO of FlowerArt Academy, Germany</strong>
 <br><strong>Technical Judge</strong>
@@ -75,7 +75,7 @@ Academy in South Korea and the Officina delle Piante Flower Academy in
 Italy.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Bart.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Bart.png">
 </div>
 <p><strong>BART&nbsp;<u>HASSAM</u>, International Floral Designer and 2019 Floral World Cup Champion, Australia</strong>
 <br><strong>Technical Judge</strong>
@@ -90,7 +90,7 @@ and became the FTD World Cup Champion at the Philadelphia Flower Show in
 2019.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Max.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Max.png">
 </div>
 <p><strong>MAX&nbsp;<u>VAN DE SLUIS</u>, Flower Designer of Life 2, Netherlands</strong>
 <br><strong>Technical Judge</strong>
