@@ -35,6 +35,10 @@ Gold and Best of Show for the Landscape Garden category, along with the
 Horticulture Excellence Award.</p>
 <p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.instagram.com/greenforestpl/" rel="noopener noreferrer nofollow" target="_blank"><u>Green Forest Landscape Pte Ltd</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ishihara.png">
+</div>
 <p><strong>KAZUYUKI ISHIHARA (Japan) </strong>is a renowned Japanese landscape
 artist who began his career in the Ikenobo school of floral arrangement.
 After transitioning from selling flowers on the street to professional
@@ -47,6 +51,10 @@ he has participated four times and secured multiple Gold and Best of Show
 awards, as well as a Gold Medal at the 2025 Philadelphia Flower Show.</p>
 <p><strong><u>Local implementing partner: </u></strong><a href="https://www.princelandscape.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Prince’s Landscape Pte Ltd</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Leon.png">
+</div>
 <p><strong>LEON KLUGE (South Africa)</strong> is an internationally recognised
 landscape designer, artist, botanist, presenter and writer. Over the years,
 he has designed and installed gardens ranging from immense commercial landscaping
@@ -64,6 +72,10 @@ African Designer of the Year and winning Gold or "Best on Show" at prestigious
 events in Shenzhen, Suzhou, and Shanghai.</p>
 <p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://earthscape.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Earthscape Concepts Pte Ltd</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/John_Tan.png">
+</div>
 <p><strong>JOHN TAN (Singapore) </strong>is the principal design director
 and horticulturist at Esmond Landscape and Horticultural, a firm he established
 in 2000 after transitioning from a career in engineering. His passion for
