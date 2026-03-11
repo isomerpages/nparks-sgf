@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Show Gardens Competition
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Eliam.png">
 </div>
