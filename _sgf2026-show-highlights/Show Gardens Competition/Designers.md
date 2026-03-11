@@ -24,20 +24,13 @@ for 23 years. Mark holds a degree in Ornamental Horticulture and works
 as both a landscape designer and artist. Together, the duo manages projects
 from the initial conceptual phase through final construction, focusing
 on a combination of diverse plant palettes and structural architecture.</p>
-<p>Mark and Emily are highly successful competitors in major international
-horticultural events:</p>
-<ul>
-<li>
-<p>Philadelphia Flower Show: They have consistently earned top honors, including
-the PHS Gold Medal and Cup (2026) and multiple "Best in Show" awards between
-2021 and 2023.</p>
-</li>
-<li>
-<p>Singapore Garden Festival (SGF): At the 2024 festival, they secured Gold,
-Best of Show for the Landscape Garden category, and the Horticulture Excellence
-Award.</p>
-</li>
-</ul>
+<p>The couple has established themselves as highly successful competitors
+in major international horticultural events, consistently earning top honors
+at the Philadelphia Flower Show, including the PHS Gold Medal and Cup in
+2026 and multiple "Best in Show" awards between 2021 and 2023. Their global
+success continued at the 2024 Singapore Garden Festival, where they secured
+Gold and Best of Show for the Landscape Garden category, along with the
+Horticulture Excellence Award.</p>
 <p><strong>KAZUYUKI ISHIHARA (Japan) </strong>is a renowned Japanese landscape
 artist who began his career in the Ikenobo school of floral arrangement.
 After transitioning from selling flowers on the street to professional
