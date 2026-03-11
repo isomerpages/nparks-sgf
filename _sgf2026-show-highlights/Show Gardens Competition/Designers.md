@@ -18,7 +18,7 @@ of the Singapore Institute of Landscape Architects (SILA).&nbsp;</p>
 Singapore Changi Airport, commercial buildings and festive season floral
 setups. As a Project Director, he leads a vibrant team of designers and
 staff in the firm.&nbsp;</p>
-<p><strong>MARK and EMILY Cook (USA)</strong> are the owners of Mark Cook
+<p><strong>MARK and EMILY COOK (USA)</strong> are the owners of Mark Cook
 Landscape &amp; Contracting, a firm they have operated for 23 years. Mark
 holds a degree in Ornamental Horticulture and works as both a landscape
 designer and artist. Together, the duo manages projects from the initial
@@ -38,27 +38,31 @@ Best of Show for the Landscape Garden category, and the Horticulture Excellence
 Award.</p>
 </li>
 </ul>
-<p><strong>KAZUYUKI ISHIHARA (JAPAN) </strong>is a world-renowned Japanese
-landscape artist who began his career in the Ikenobo school of flower arranging.
-He transitioned from street-side flower sales to landscape design, gaining
-international acclaim for his "unique worldview" that prominently features
-moss. His artistic precision earned him the nickname "Green Magician" from
-Queen Elizabeth.</p>
-<p>Ishihara is one of the most decorated designers in the industry, with
-a career highlighted by:</p>
-<ul>
-<li>
-<p>RHS Chelsea Flower Show: A consistent gold medalist, most recently winning
-Gold, Garden of the Year, and People’s Choice in 2025.</p>
-</li>
-<li>
-<p>Singapore Garden Festival (SGF): A four-time participant who secured Gold
-(Landscape Garden) in 2024 and Best of Show in 2008.</p>
-</li>
-<li>
-<p>Philadelphia Flower Show: Awarded a Gold Medal in 2025.</p>
-</li>
-</ul>
+<p><strong>KAZUYUKI ISHIHARA (Japan) </strong>is a renowned Japanese landscape
+artist who began his career in the Ikenobo school of floral arrangement.
+After transitioning from selling flowers on the street to professional
+garden construction, he gained global recognition for his unique use of
+moss and meticulous design. Often referred to as the "Green Magician" by
+Queen Elizabeth, Ishihara has won numerous Gold Medals at the RHS Chelsea
+Flower Show, including Garden of the Year and People's Choice in 2025.
+His international success extends to the Singapore Garden Festival, where
+he has participated four times and secured multiple Gold and Best of Show
+awards, as well as a Gold Medal at the 2025 Philadelphia Flower Show.</p>
 <p>His work is characterized by the marriage of high-level design and rigorous
 Japanese construction techniques.</p>
+<p><strong>LEON KLUGE (SOUTH AFRICA)</strong> is an internationally recognised
+landscape designer, artist, botanist, presenter and writer. Over the years,
+he has designed and installed gardens ranging from immense commercial landscaping
+to small residential gardens. He has won several prizes around the world,
+including Gold, Best of Show and the Horticulture Excellence Award in the
+Fantasy Garden category at SGF in 2018. Leon is known for his modern and
+contemporary landscapes, sustainable community projects and his specialisation
+in vertical gardens.</p>
+<p>A four-time participant at the Singapore Garden Festival, he has secured
+multiple "Best of Show" and Gold titles across the Fantasy and Landscape
+Garden categories in 2016, 2018, and 2024, frequently earning top honors
+for his innovative lighting and horticultural excellence. His recent accolades
+further cement his global reputation, including being named the 2024 South
+African Designer of the Year and winning Gold or "Best on Show" at prestigious
+events in Shenzhen, Suzhou, and Shanghai.</p>
 <p></p>
