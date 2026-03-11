@@ -56,7 +56,7 @@ Flower Show, including Garden of the Year and People's Choice in 2025.
 His international success extends to the Singapore Garden Festival, where
 he has participated four times and secured multiple Gold and Best of Show
 awards, as well as a Gold Medal at the 2025 Philadelphia Flower Show.</p>
-<p><strong><u>Local implementing partner: </u></strong><a href="https://www.princelandscape.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Prince’s Landscape Pte Ltd</u></a>
+<p><strong>Local implementing partner: </strong><a href="https://www.princelandscape.com/" rel="noopener noreferrer nofollow" target="_blank">Prince’s Landscape Pte Ltd</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
