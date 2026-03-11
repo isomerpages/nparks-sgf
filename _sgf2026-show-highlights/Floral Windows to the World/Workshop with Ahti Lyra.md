@@ -24,7 +24,7 @@ your spot today and transform your floral perspective!</p>
 <br>📍 Location:&nbsp;The Meadows, Gardens by the Bay
 <br>💲&nbsp;Fee:&nbsp;S$450
 <br>Materials, Tools and Lunch will be provided
-<br>
-</p>
+<br>Slots are limited and available until sold out. We encourage you to book
+your slot <a href="https://go.gov.sg/sgf2026alw" rel="noopener nofollow" target="_blank">here</a> today.</p>
 <p></p>
 <p></p>
