@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Planters Market x SGF 2026 Marketplace</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MarketPlace.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/plantersmarketsg/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MarketPlace.png"></a>
 <p>🗓️: 4 to 12 Jul 2026
 <br>⏱️: 10am - 8pm
 <br>📍: Gardens by the Bay, Bayfront Green (Next to Bayfront MRT)</p>
