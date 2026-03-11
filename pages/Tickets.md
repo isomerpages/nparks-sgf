@@ -17,8 +17,10 @@ at 9.30pm)
 <p></p>
 <p></p>
 <p></p>
-<p>Purchase Floral Windows to the World Championship Dinals DInner <a href="https://go.gov.sg/sgf2026fwwcd" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>Sign up for SGF Masters: Floristry Workshop with Ahti Lyra <a href="https://go.gov.sg/sgf2026alw" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Purchase Floral Windows to the World Championship Dinals DInner <a href="https://go.gov.sg/sgf2026fwwcd" rel="noopener nofollow" target="_blank">here</a>.
+<br>Sign up for SGF Masters: Floristry Workshop with Ahti Lyra <a href="https://go.gov.sg/sgf2026alw" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p><sup>1 </sup>Singapore Resident rates applicable to Singapore Citizens,
