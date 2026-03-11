@@ -15,6 +15,10 @@ designs throughout your time with us.</p>
 <li>
 <p>Group Tour Guides</p>
 </li>
+<li>
+<p>Floral Ambassadors (Good to be equipped with basic floral knowledge and
+skills)</p>
+</li>
 </ul>
 <p>Appreciation for all volunteers:</p>
 <ul data-tight="true" class="tight">
