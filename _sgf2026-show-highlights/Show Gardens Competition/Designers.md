@@ -62,6 +62,8 @@ for his innovative lighting and horticultural excellence. His recent accolades
 further cement his global reputation, including being named the 2024 South
 African Designer of the Year and winning Gold or "Best on Show" at prestigious
 events in Shenzhen, Suzhou, and Shanghai.</p>
+<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://earthscape.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Earthscape Concepts Pte Ltd</u></a>
+</p>
 <p><strong>JOHN TAN (Singapore) </strong>is the principal design director
 and horticulturist at Esmond Landscape and Horticultural, a firm he established
 in 2000 after transitioning from a career in engineering. His passion for
@@ -74,6 +76,8 @@ Show in 2015 and a Green Card Award at the 2019 Chaumont-sur-Loire International
 Garden Festival. Beyond his design work, he served as Chairman of the Landscape
 Industry Association (Singapore) from 2011 to 2015, focusing on advancing
 professionalism and quality within the local industry.</p>
+<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.esmond.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Esmond Landscape &amp; Horticultural Pte Ltd</u></a>
+</p>
 <p><strong>ANDREW WILSON and GAVIN MCWILLIAM (United Kingdom)</strong>, recognized
 as one of the United Kingdom’s premier garden and landscape design practices.
 Their work is characterized by a blend of imaginative design concepts,
@@ -85,6 +89,8 @@ reputation is further bolstered by a consistent record of high-level accolades,
 including a Gold Medal at the RHS Chelsea Flower Show in 2017, a Silver
 Gilt in 2023, and being named winners at the 2025 Society of Garden and
 Landscape Designers Awards.</p>
+<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.naturelandscapes.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Nature Landscapes Pte Ltd</u></a>
+</p>
 <p><strong>INCH LIM (Malaysia)</strong> is a renowned master of scenography,
 having designed award-winning show gardens in Japan, China, Singapore,
 the UK, France and the USA, in addition to multi-disciplinary private and
@@ -101,6 +107,8 @@ evidenced by recent accolades such as the Grand Gold and Best Design awards
 at the Shenzhen Bougainvillea Shows in 2020 and 2021, as well as winning
 both Gold and the People’s Choice award at the 2015 Philadelphia Flower
 Show.</p>
+<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.instagram.com/suquru_inc/" rel="noopener noreferrer nofollow" target="_blank"><u>Suquru Inc Pte Ltd</u></a>
+</p>
 <p></p>
 <p><strong>STEFANO PASSEROTTI (Italy)</strong> is a renowned Italian landscape
 designer often called the “brave gardener,” celebrated for his barefoot
@@ -116,3 +124,5 @@ Flower Show and a Silver Medal at the Gardening World Cup in Japan. His
 recent work focuses on the "Paradiso Terrestre" series, showcasing his
 continued evolution as a prominent guest and award-winner at major global
 events like the Radicepura and Malmö Garden Festivals.</p>
+<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.maosheng.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Mao Sheng Quanji Construction Pte Ltd</u></a>
+</p>
