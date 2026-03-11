@@ -10,14 +10,24 @@ variant: tiptap
 ---
 <p><strong>New Guinness World Record brings Carnival of Blooms to life at Takashimaya Square, setting the stage for the 10th edition of Singapore Garden Festival (SGF) at Gardens by the Bay in July 2026</strong><em>&nbsp;</em>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Guinness World Record for “Most Flowers on a Swing” achieved with 12,888 flowers</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Guinness World Record for “Most Flowers on a Swing” achieved with 12,888 flowers</em>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Starting today, public can purchase tickets for the 10th edition of SGF at Gardens by the Bay in July</em>
+</li>
+<li>
+<p><em>Starting today, public can purchase tickets for the 10th edition of SGF at Gardens by the Bay in July</em>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>In a first, SGF’s hallmark Show Gardens competition will feature an All-Stars Edition with eight returning “Best of Show” winners</em>
+</li>
+<li>
+<p>I<em>n a first, SGF’s hallmark Show Gardens competition will feature an All-Stars Edition with eight returning “Best of Show” winners</em>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Free floral displays, carnival-themed activities, expert talks, demonstrations and workshops at Takashimaya Square from 12 to 15 March</em>
+</li>
+<li>
+<p><em>Free floral displays, carnival-themed activities, expert talks, demonstrations and workshops at Takashimaya Square from 12 to 15 March</em>
 </p>
+</li>
+</ul>
 <p><strong>Singapore, 12 March 2026</strong> - Singapore Garden Festival (SGF),
 the much-anticipated premier international garden and flower show, will
 return from 4 to 12 July 2026, marking its 10th edition since it started
