@@ -7,6 +7,9 @@ third_nav_title: Floral Windows to the World
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ahti_Workshop.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ahti_lyra_work.png">
 </div>
 <p>Join us for an exclusive floral workshop led by the visionary Ahti Lyra,
