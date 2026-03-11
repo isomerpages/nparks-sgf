@@ -19,13 +19,9 @@ at 9.30pm)
 <br>Flower Dome Opening Hours: 9am to 9pm (Last admission at 8.30pm)
 <br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ticket.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tickets.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p>Purchase Floral Windows to the World Championship Dinals DInner <a href="https://go.gov.sg/sgf2026fwwcd" rel="noopener nofollow" target="_blank">here</a>.
 <br>Sign up for SGF Masters: Floristry Workshop with Ahti Lyra <a href="https://go.gov.sg/sgf2026alw" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
