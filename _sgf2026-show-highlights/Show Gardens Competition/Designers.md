@@ -21,7 +21,7 @@ Institute of Landscape Architects (SILA).&nbsp;</p>
 Singapore Changi Airport, commercial buildings and festive season floral
 setups. As a Project Director, he leads a vibrant team of designers and
 staff in the firm.&nbsp;</p>
-<p><strong><u>Local implementing partner</u></strong><u>: </u><a href="https://www.nyeephoe.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Nyee Phoe Flower Garden Pte Ltd</u></a>
+<p><strong>Local implementing partner</strong>: <a href="https://www.nyeephoe.com/" rel="noopener noreferrer nofollow" target="_blank">Nyee Phoe Flower Garden Pte Ltd</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -40,7 +40,7 @@ at the Philadelphia Flower Show, including the PHS Gold Medal and Cup in
 success continued at the 2024 Singapore Garden Festival, where they secured
 Gold and Best of Show for the Landscape Garden category, along with the
 Horticulture Excellence Award.</p>
-<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.instagram.com/greenforestpl/" rel="noopener noreferrer nofollow" target="_blank"><u>Green Forest Landscape Pte Ltd</u></a>
+<p><strong>Local implementing partner:</strong>  <a href="https://www.instagram.com/greenforestpl/" rel="noopener noreferrer nofollow" target="_blank">Green Forest Landscape Pte Ltd</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -77,7 +77,7 @@ for his innovative lighting and horticultural excellence. His recent accolades
 further cement his global reputation, including being named the 2024 South
 African Designer of the Year and winning Gold or "Best on Show" at prestigious
 events in Shenzhen, Suzhou, and Shanghai.</p>
-<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://earthscape.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Earthscape Concepts Pte Ltd</u></a>
+<p><strong>Local implementing partner:</strong>  <a href="https://earthscape.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Earthsc<u>ape Concepts Pte Ltd</u></a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -95,7 +95,7 @@ Show in 2015 and a Green Card Award at the 2019 Chaumont-sur-Loire International
 Garden Festival. Beyond his design work, he served as Chairman of the Landscape
 Industry Association (Singapore) from 2011 to 2015, focusing on advancing
 professionalism and quality within the local industry.</p>
-<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.esmond.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Esmond Landscape &amp; Horticultural Pte Ltd</u></a>
+<p><strong>Local implementing partner:</strong>  <a href="https://www.esmond.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Esmond Landscape &amp; Horticultural Pte Ltd</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -112,7 +112,7 @@ reputation is further bolstered by a consistent record of high-level accolades,
 including a Gold Medal at the RHS Chelsea Flower Show in 2017, a Silver
 Gilt in 2023, and being named winners at the 2025 Society of Garden and
 Landscape Designers Awards.</p>
-<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.naturelandscapes.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Nature Landscapes Pte Ltd</u></a>
+<p><strong>Local implementing partner:</strong>  <a href="https://www.naturelandscapes.com/" rel="noopener noreferrer nofollow" target="_blank">N<u>ature Landscapes Pte Ltd</u></a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -134,7 +134,7 @@ evidenced by recent accolades such as the Grand Gold and Best Design awards
 at the Shenzhen Bougainvillea Shows in 2020 and 2021, as well as winning
 both Gold and the People’s Choice award at the 2015 Philadelphia Flower
 Show.</p>
-<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.instagram.com/suquru_inc/" rel="noopener noreferrer nofollow" target="_blank"><u>Suquru Inc Pte Ltd</u></a>
+<p><strong>Local implementing partner:</strong>  <a href="https://www.instagram.com/suquru_inc/" rel="noopener noreferrer nofollow" target="_blank">Suquru Inc Pte Ltd</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -154,6 +154,6 @@ Flower Show and a Silver Medal at the Gardening World Cup in Japan. His
 recent work focuses on the "Paradiso Terrestre" series, showcasing his
 continued evolution as a prominent guest and award-winner at major global
 events like the Radicepura and Malmö Garden Festivals.</p>
-<p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.maosheng.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Mao Sheng Quanji Construction Pte Ltd</u></a>
+<p><strong>Local implementing partner:</strong>  <a href="https://www.maosheng.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Mao Sheng Quanji Construction Pte Ltd</a>
 </p>
 <p></p>
