@@ -110,6 +110,9 @@ Show.</p>
 <p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.instagram.com/suquru_inc/" rel="noopener noreferrer nofollow" target="_blank"><u>Suquru Inc Pte Ltd</u></a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Stefano.png">
+</div>
 <p><strong>STEFANO PASSEROTTI (Italy)</strong> is a renowned Italian landscape
 designer often called the “brave gardener,” celebrated for his barefoot
 dawn excursions aimed at connecting with nature's subtle vibrations. Inspired
