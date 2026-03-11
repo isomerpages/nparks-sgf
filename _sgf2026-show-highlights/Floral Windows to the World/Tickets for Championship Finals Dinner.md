@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Floral Windows to the World
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_03_11_at_11_57_36_PM.jpg">
+</div>
 <p>Tickets for Floral Windows to the World Championship 2026 Finals Dinner</p>
 <p>📅 Date:&nbsp;6 July 2026, Monday
 <br>🕟 Time:&nbsp;6.00pm – 9.30pm
