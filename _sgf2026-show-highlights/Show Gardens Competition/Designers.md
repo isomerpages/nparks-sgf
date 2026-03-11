@@ -91,6 +91,10 @@ Gilt in 2023, and being named winners at the 2025 Society of Garden and
 Landscape Designers Awards.</p>
 <p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.naturelandscapes.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Nature Landscapes Pte Ltd</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Inch.png">
+</div>
 <p><strong>INCH LIM (Malaysia)</strong> is a renowned master of scenography,
 having designed award-winning show gardens in Japan, China, Singapore,
 the UK, France and the USA, in addition to multi-disciplinary private and
