@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Show Gardens Competition
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Eliam.png">
+</div>
 <p><strong>ELIAM ENG &amp; ANDY ENG (Singapore)</strong> are returning winners
 of SGF, after winning Gold, Best of Show and the Best Construction Award
 in 2022. They are both from Nyee Phoe Flower Garden, a landscape architecture
@@ -154,3 +157,4 @@ continued evolution as a prominent guest and award-winner at major global
 events like the Radicepura and Malmö Garden Festivals.</p>
 <p><strong><u>Local implementing partner:</u></strong><u> </u><a href="https://www.maosheng.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Mao Sheng Quanji Construction Pte Ltd</u></a>
 </p>
+<p></p>
