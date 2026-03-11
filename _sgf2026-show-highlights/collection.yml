@@ -2,7 +2,6 @@ collections:
   sgf2026-show-highlights:
     output: true
     order:
-      - Other Community Highlights.md
       - Show Gardens Competition/.keep
       - Show Gardens Competition/About the Competition.md
       - Show Gardens Competition/Designers.md
@@ -16,3 +15,4 @@ collections:
       - Floral Windows to the World/Workshop with Ahti Lyra.md
       - Community Garden Edibles Competition.md
       - 14th International FDSS Cup.md
+      - Other Community Highlights.md
