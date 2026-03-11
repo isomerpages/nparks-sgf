@@ -6,9 +6,6 @@ description: ""
 third_nav_title: Floral Windows to the World
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ahti_Lyra_from_Estonia__the_Grand_Champion_of_the_Floral_Windows_to_the_World_Championship_receiving_the_Grand_Champion_award_from_Ms_Chang_Hwee_Nee__CEO__National_Heritage_Board.png">
-</div>
 <p>Join us for an exclusive floral workshop led by the visionary Ahti Lyra,
 the reigning Grand Champion of Floral Windows to the World Championship
 2024. This is a rare opportunity to learn from an Estonian Master Florist
