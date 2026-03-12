@@ -1,4 +1,4 @@
-logo: /images/SGF-LogoNew_Trans_Horizontal.jpg
+logo: /images/Singapore_Garden_Festival_Logo.png
 links:
   - title: About SGF
     collection: about-sgf
@@ -6,11 +6,13 @@ links:
     collection: sgf2026-show-highlights
   - title: Launch Event
     collection: sgf-launch-event
-  - title: Sponsors
-    collection: sponsor
   - title: Resources
     resource_room: true
-  - title: MarketPlace
-    url: /participate/marketplace/
+  - title: Get Involved
+    collection: get-involved
+  - title: Sponsors
+    collection: sponsor
+  - title: Tickets
+    url: /tickets/
   - title: Contact Us
     url: /contact-us/

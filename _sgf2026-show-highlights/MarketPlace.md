@@ -1,9 +1,20 @@
 ---
-title: MarketPlace Vendors
+title: MarketPlace
 permalink: /participate/marketplace/
 variant: tiptap
 description: ""
 ---
+<h4>Planters Market x SGF 2026 Marketplace</h4>
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/plantersmarketsg/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MarketPlace.png"></a>
+<p>🗓️: 4 to 12 Jul 2026
+<br>⏱️: 10am - 8pm
+<br>📍: Gardens by the Bay, Bayfront Green (Next to Bayfront MRT)</p>
+<p>Organised in partnership with Planters Market, the MarketPlace will feature
+retailers offering plants gardening wares, trinkets, collectibles and more.
+Home gardening enthusiasts will be able to purchase all of their gardening
+essentials.</p>
+<p>Interested to participate as a vendor in our MarketPlace? You may register
+your interest&nbsp;<a href="https://go.gov.sg/ryim" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
 <p><strong>What are the benefits of participating at SGF MarketPlace?</strong>
 </p>
@@ -81,5 +92,4 @@ coverage and industry publication exposure, further amplifying brand visibility.
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="MarketPlace" src="/images/MarketPlace/SGF2010_Visitors_MktPl_0718_CP_Layna_0157.JPG">
 </div>
-<p>Interested to participate as a vendor in our MarketPlace? You may register
-your interest&nbsp;<a href="https://go.gov.sg/ryim" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p></p>

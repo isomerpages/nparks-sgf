@@ -15,6 +15,10 @@ designs throughout your time with us.</p>
 <li>
 <p>Group Tour Guides</p>
 </li>
+<li>
+<p>Floral Ambassadors (Good to be equipped with basic floral knowledge and
+skills)</p>
+</li>
 </ul>
 <p>Appreciation for all volunteers:</p>
 <ul data-tight="true" class="tight">
@@ -27,7 +31,7 @@ designs throughout your time with us.</p>
 </li>
 </ul>
 <p>We welcome your participation and look forward to having you on board!
-If you are keen on volunteering for SGF, sign up <a href="https://go.gov.sg/sgf2024-ext-volunteers" rel="noopener noreferrer nofollow" target="_blank">here</a> by Sun 12 May 2024!</p>
+If you are keen on volunteering for SGF, sign up <a href="https://go.gov.sg/sgf-reg-volunteer" rel="noopener noreferrer nofollow" target="_blank">here</a> by Sun 31 May 2026!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Volunteers/Volunteers1.png">
 </div>

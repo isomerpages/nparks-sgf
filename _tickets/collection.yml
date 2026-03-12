@@ -1,5 +1,0 @@
-collections:
-  tickets:
-    output: true
-    order:
-      - Tickets.md
