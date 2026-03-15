@@ -13,8 +13,9 @@ description: ""
 retailers offering plants gardening wares, trinkets, collectibles and more.
 Home gardening enthusiasts will be able to purchase all of their gardening
 essentials.</p>
-<p>Interested to participate as a vendor in our MarketPlace? You may register
-your interest&nbsp;<a href="https://go.gov.sg/ryim" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>Interested to participate as a vendor in our MarketPlace? Contact Planters
+Market at <a href="mailto:plantersmarketsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">plantersmarketsg@gmail.com.</a>
+</p>
 <p></p>
 <p><strong>What are the benefits of participating at SGF MarketPlace?</strong>
 </p>
