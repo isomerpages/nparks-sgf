@@ -4,19 +4,11 @@ permalink: /tickets/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Purchase your SGF tickets here!</strong></h4>
-<h4>Singapore Resident</h4>
-<p><a href="https://ticket3.gardensbythebay.com.sg/en/events/singapore-garden-festival/GBXSGF01" rel="noopener nofollow" target="_blank">Singapore Garden Festival</a>
-<br><a href="https://ticket3.gardensbythebay.com.sg/en/events/flower-dome-singapore-garden-festival/FDXSGF01" rel="noopener nofollow" target="_blank">Singapore Garden Festival &amp; Flower Dome</a>
-</p>
-<h4>Non-Resident</h4>
-<p><a href="https://ticket2.gardensbythebay.com.sg/en/events/singapore-garden-festival/GBXSGF01" rel="noopener nofollow" target="_blank">Singapore Garden Festival </a>
-<br><a href="https://ticket2.gardensbythebay.com.sg/en/events/flower-dome-singapore-garden-festival/FDXSGF01" rel="noopener nofollow" target="_blank">Singapore Garden Festival &amp; Flower Dome</a>
-</p>
-<p></p>
-<p>Singapore Garden Festival Opening Hours: 10am to 10pm (Last admission
-at 9.30pm)
-<br>Flower Dome Opening Hours: 9am to 9pm (Last admission at 8.30pm)
+<h4><strong>Purchase Singapore Garden Festival 2026 tickets </strong><a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/singapore-garden-festival.html#accordions-9e2b3ca8fe-item-4a0f65406c" rel="noopener nofollow" target="_blank">here</a><strong>!</strong></h4>
+<p>🗓️: 4 to 12 Jul 2026
+<br>⏱️: Singapore Garden Festival: 10am - 10pm (Last admission at 9.30pm)
+<br>⏱️: Flower Dome: 9am to 9pm (Last admission at 8.30pm)
+<br>📍: Gardens by the Bay
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -25,10 +17,10 @@ at 9.30pm)
 <p>Purchase Floral Windows to the World Championship Dinals DInner <a href="https://go.gov.sg/sgf2026fwwcd" rel="noopener nofollow" target="_blank">here</a>.
 <br>Sign up for SGF Masters Series: Floristry Workshop with Ahti Lyra <a href="https://go.gov.sg/sgf2026alw" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p><sup>1 </sup>Singapore Resident rates applicable to Singapore Citizens,
-Permanent Residents and individuals living in Singapore on valid passes
-such as employment pass, work permit and dependent pass. Proof of residency
-and local bank card may be required at the point of ticket purchase and/or
+<p><sup>1 </sup>Singapore Resident rates apply to Singapore Citizens, Permanent
+Residents and individuals living in Singapore on valid passes including
+employment pass, work permit and dependent pass. Proof of residency and
+local bank card may be required at the point of ticket purchase and/or
 admission. In the event proof of residency is not able to be produced,
 ticket upgrades will be required.
 <br><sup>2 </sup>ID verification may be required for admission.
@@ -44,4 +36,5 @@ for more details.</p>
 <h4>Bulk Ticket Purchase</h4>
 <p>Get up to 25% discount off for purchase of 30 or more tickets. Please
 email <a href="mailto:singaporegardenfestival@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>singaporegardenfestival@nparks.gov.sg</u></a> for
-more details.</p>
+more details.<a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/singapore-garden-festival.html#accordions-9e2b3ca8fe-item-4a0f65406c" rel="noopener nofollow" target="_blank">here</a>
+</p>
