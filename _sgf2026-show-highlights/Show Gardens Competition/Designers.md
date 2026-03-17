@@ -31,9 +31,12 @@ staff in the firm.&nbsp;</p>
 <p><strong>MARK and EMILY COOK (United States of America)</strong> are the
 owners of Mark Cook Landscape &amp; Contracting, a firm they have operated
 for 23 years. Mark holds a degree in Ornamental Horticulture and works
-as both a landscape designer and artist. Together, the duo manages projects
-from the initial conceptual phase through final construction, focusing
-on a combination of diverse plant palettes and structural architecture.</p>
+as both a landscape designer anare the owners of Mark Cook Landscape &amp;
+Contracting, a firm they have operated for 23 years. Mark holds a degree
+in Ornamental Horticulture and works as both a landscape designer and artist.
+Together, the duo manages projects from the initial conceptual phase through
+final construction, focusing on a combination of diverse plant palettes
+and structural architecture.</p>
 <p>The couple has established themselves as highly successful competitors
 in major international horticultural events, consistently earning top honors
 at the Philadelphia Flower Show, including the PHS Gold Medal and Cup in
@@ -141,20 +144,7 @@ Show.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Stefano.png">
 </div>
-<p><strong>STEFANO PASSEROTTI (Italy)</strong> is a renowned Italian landscape
-designer often called the “brave gardener,” celebrated for his barefoot
-dawn excursions aimed at connecting with nature's subtle vibrations. Inspired
-by the traditions of his father and grandfather, he crafts gardens that
-honor nature as the ultimate source of cosmic harmony and environmental
-tribute. His visionary spirit has translated into significant competitive
-success, including a Gold Medal and Best of Show in the Fantasy Garden
-category during his 2016 debut at the Singapore Garden Festival. Now a
-second-time participant at the festival, Passerotti brings a wealth of
-international experience, having earned a Gold Medal at the Hampton Court
-Flower Show and a Silver Medal at the Gardening World Cup in Japan. His
-recent work focuses on the "Paradiso Terrestre" series, showcasing his
-continued evolution as a prominent guest and award-winner at major global
-events like the Radicepura and Malmö Garden Festivals.</p>
+<p></p>
 <p><strong>Local implementing partner:</strong>  <a href="https://www.maosheng.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Mao Sheng Quanji Construction Pte Ltd</a>
 </p>
 <p></p>
