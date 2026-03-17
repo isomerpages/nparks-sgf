@@ -31,9 +31,12 @@ staff in the firm.&nbsp;</p>
 <p><strong>MARK and EMILY COOK (United States of America)</strong> are the
 owners of Mark Cook Landscape &amp; Contracting, a firm they have operated
 for 23 years. Mark holds a degree in Ornamental Horticulture and works
-as both a landscape designer and artist. Together, the duo manages projects
-from the initial conceptual phase through final construction, focusing
-on a combination of diverse plant palettes and structural architecture.</p>
+as both a landscape designer anare the owners of Mark Cook Landscape &amp;
+Contracting, a firm they have operated for 23 years. Mark holds a degree
+in Ornamental Horticulture and works as both a landscape designer and artist.
+Together, the duo manages projects from the initial conceptual phase through
+final construction, focusing on a combination of diverse plant palettes
+and structural architecture.</p>
 <p>The couple has established themselves as highly successful competitors
 in major international horticultural events, consistently earning top honors
 at the Philadelphia Flower Show, including the PHS Gold Medal and Cup in

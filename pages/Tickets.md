@@ -35,6 +35,5 @@ for more details.</p>
 <p></p>
 <h4>Bulk Ticket Purchase</h4>
 <p>Get up to 25% discount off for purchase of 30 or more tickets. Please
-email <a href="mailto:singaporegardenfestival@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>singaporegardenfestival@nparks.gov.sg</u></a> for
-more details.<a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/singapore-garden-festival.html#accordions-9e2b3ca8fe-item-4a0f65406c" rel="noopener nofollow" target="_blank">here</a>
-</p>
+email <strong><a href="mailto:sales.enquiries@gardensbythebay.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales.enquiries@gardensbythebay.com.sg</a></strong> for
+more details.</p>
